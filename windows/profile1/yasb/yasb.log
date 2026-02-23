@@ -1,0 +1,1878 @@
+2026-01-28 11:59:30 INFO weather.py:369: Fetched new weather data at 2026-01-28 11:59:30.509255
+2026-01-28 12:09:30 INFO weather.py:369: Fetched new weather data at 2026-01-28 12:09:30.499536
+2026-01-28 12:19:30 INFO weather.py:369: Fetched new weather data at 2026-01-28 12:19:30.502656
+2026-01-28 12:29:30 INFO weather.py:369: Fetched new weather data at 2026-01-28 12:29:30.504494
+2026-01-28 12:39:30 INFO weather.py:369: Fetched new weather data at 2026-01-28 12:39:30.510318
+2026-01-28 12:39:51 ERROR weather.py:472: Error fetching weather data: <urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond>
+2026-01-28 12:49:30 INFO weather.py:369: Fetched new weather data at 2026-01-28 12:49:30.504728
+2026-01-28 12:59:30 INFO weather.py:369: Fetched new weather data at 2026-01-28 12:59:30.509975
+2026-01-28 13:09:30 INFO weather.py:369: Fetched new weather data at 2026-01-28 13:09:30.502043
+2026-01-28 13:19:30 INFO weather.py:369: Fetched new weather data at 2026-01-28 13:19:30.508904
+2026-01-28 13:29:30 INFO weather.py:369: Fetched new weather data at 2026-01-28 13:29:30.512246
+2026-01-28 13:39:30 INFO weather.py:369: Fetched new weather data at 2026-01-28 13:39:30.521823
+2026-01-28 13:49:30 INFO weather.py:369: Fetched new weather data at 2026-01-28 13:49:30.526595
+2026-01-28 13:49:51 ERROR weather.py:472: Error fetching weather data: <urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond>
+2026-01-28 13:59:30 INFO weather.py:369: Fetched new weather data at 2026-01-28 13:59:30.518460
+2026-01-28 14:09:30 INFO weather.py:369: Fetched new weather data at 2026-01-28 14:09:30.520020
+2026-01-28 14:19:30 INFO weather.py:369: Fetched new weather data at 2026-01-28 14:19:30.528266
+2026-01-28 14:29:30 INFO weather.py:369: Fetched new weather data at 2026-01-28 14:29:30.530107
+2026-01-28 14:39:30 INFO weather.py:369: Fetched new weather data at 2026-01-28 14:39:30.517225
+2026-01-28 14:49:30 INFO weather.py:369: Fetched new weather data at 2026-01-28 14:49:30.522113
+2026-01-28 14:59:30 INFO weather.py:369: Fetched new weather data at 2026-01-28 14:59:30.533077
+2026-01-28 15:09:30 INFO weather.py:369: Fetched new weather data at 2026-01-28 15:09:30.531657
+2026-01-28 15:19:30 INFO weather.py:369: Fetched new weather data at 2026-01-28 15:19:30.534077
+2026-01-28 15:29:30 INFO weather.py:369: Fetched new weather data at 2026-01-28 15:29:30.539363
+2026-01-28 15:39:30 INFO weather.py:369: Fetched new weather data at 2026-01-28 15:39:30.543363
+2026-01-28 15:49:30 INFO weather.py:369: Fetched new weather data at 2026-01-28 15:49:30.537026
+2026-01-28 15:59:30 INFO weather.py:369: Fetched new weather data at 2026-01-28 15:59:30.543150
+2026-01-28 16:09:30 INFO weather.py:369: Fetched new weather data at 2026-01-28 16:09:30.530624
+2026-01-28 16:19:30 INFO weather.py:369: Fetched new weather data at 2026-01-28 16:19:30.538499
+2026-01-28 16:29:30 INFO weather.py:369: Fetched new weather data at 2026-01-28 16:29:30.539229
+2026-01-28 16:39:30 INFO weather.py:369: Fetched new weather data at 2026-01-28 16:39:30.543317
+2026-01-28 16:49:30 INFO weather.py:369: Fetched new weather data at 2026-01-28 16:49:30.531938
+2026-01-28 16:49:51 ERROR weather.py:472: Error fetching weather data: <urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond>
+2026-01-28 16:59:30 INFO weather.py:369: Fetched new weather data at 2026-01-28 16:59:30.542435
+2026-01-28 17:09:30 INFO weather.py:369: Fetched new weather data at 2026-01-28 17:09:30.539733
+2026-01-28 17:09:51 ERROR weather.py:472: Error fetching weather data: <urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond>
+2026-01-28 17:19:30 INFO weather.py:369: Fetched new weather data at 2026-01-28 17:19:30.544794
+2026-01-28 17:29:30 INFO weather.py:369: Fetched new weather data at 2026-01-28 17:29:30.532346
+2026-01-28 17:32:12 ERROR media.py:183: MediaCallback: Error occurred whilst fetching media properties and thumbnail: [WinError -2147286928] There is insufficient disk space to complete operation
+2026-01-28 17:39:30 INFO weather.py:369: Fetched new weather data at 2026-01-28 17:39:30.537542
+2026-01-28 17:49:30 INFO weather.py:369: Fetched new weather data at 2026-01-28 17:49:30.543313
+2026-01-28 17:59:30 INFO weather.py:369: Fetched new weather data at 2026-01-28 17:59:30.530062
+2026-01-28 18:09:30 INFO weather.py:369: Fetched new weather data at 2026-01-28 18:09:30.546463
+2026-01-28 18:19:30 INFO weather.py:369: Fetched new weather data at 2026-01-28 18:19:30.605775
+2026-01-28 18:29:30 INFO weather.py:369: Fetched new weather data at 2026-01-28 18:29:30.648988
+2026-01-28 18:39:30 INFO weather.py:369: Fetched new weather data at 2026-01-28 18:39:30.683328
+2026-01-28 18:49:30 INFO weather.py:369: Fetched new weather data at 2026-01-28 18:49:30.718180
+2026-01-28 18:49:51 ERROR weather.py:472: Error fetching weather data: <urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond>
+2026-01-28 18:59:30 INFO weather.py:369: Fetched new weather data at 2026-01-28 18:59:30.734630
+2026-01-28 18:59:51 ERROR weather.py:472: Error fetching weather data: <urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond>
+2026-01-28 19:09:30 INFO weather.py:369: Fetched new weather data at 2026-01-28 19:09:30.758299
+2026-01-28 19:19:30 INFO weather.py:369: Fetched new weather data at 2026-01-28 19:19:30.776652
+2026-01-28 19:29:30 INFO weather.py:369: Fetched new weather data at 2026-01-28 19:29:30.797040
+2026-01-28 19:39:30 INFO weather.py:369: Fetched new weather data at 2026-01-28 19:39:30.804005
+2026-01-28 19:49:30 INFO weather.py:369: Fetched new weather data at 2026-01-28 19:49:30.801702
+2026-01-28 19:49:48 ERROR media.py:183: MediaCallback: Error occurred whilst fetching media properties and thumbnail: [WinError -2147024875] The device is not ready
+2026-01-28 19:59:30 INFO weather.py:369: Fetched new weather data at 2026-01-28 19:59:30.817615
+2026-01-28 20:09:30 INFO weather.py:369: Fetched new weather data at 2026-01-28 20:09:30.825630
+2026-01-28 20:19:30 INFO weather.py:369: Fetched new weather data at 2026-01-28 20:19:30.866406
+2026-01-28 20:29:30 INFO weather.py:369: Fetched new weather data at 2026-01-28 20:29:30.843713
+2026-01-28 20:39:30 INFO weather.py:369: Fetched new weather data at 2026-01-28 20:39:30.856264
+2026-01-28 20:49:30 INFO weather.py:369: Fetched new weather data at 2026-01-28 20:49:30.857486
+2026-01-28 20:59:30 INFO weather.py:369: Fetched new weather data at 2026-01-28 20:59:30.851567
+2026-01-28 21:09:30 INFO weather.py:369: Fetched new weather data at 2026-01-28 21:09:30.858178
+2026-01-28 21:19:30 INFO weather.py:369: Fetched new weather data at 2026-01-28 21:19:30.853727
+2026-01-28 21:29:30 INFO weather.py:369: Fetched new weather data at 2026-01-28 21:29:30.864448
+2026-01-28 21:39:30 INFO weather.py:369: Fetched new weather data at 2026-01-28 21:39:30.864320
+2026-01-28 21:49:30 INFO weather.py:369: Fetched new weather data at 2026-01-28 21:49:30.861455
+2026-01-28 21:59:30 INFO weather.py:369: Fetched new weather data at 2026-01-28 21:59:30.864971
+2026-01-28 23:26:15 DEBUG _windows.py:218: Stopping worker thread...
+2026-01-28 23:26:15 DEBUG _windows.py:201: Exiting thread
+2026-01-28 23:26:15 DEBUG _windows.py:75: Closing
+2026-01-29 08:47:44 INFO log.py:21: Yasb v1.6.6
+2026-01-29 08:47:45 DEBUG win32.py:55: Looking up time zone info from registry
+2026-01-29 08:47:52 INFO weather.py:369: Fetched new weather data at 2026-01-29 08:47:52.528134
+2026-01-29 08:47:54 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2026-01-29 08:47:55 INFO app_bar.py:103: Bar Created on Screen: \\.\DISPLAY1 [Bar Height: 32px, DPI Scale: 1.25, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1536, Screen Height: 864]
+2026-01-29 08:47:56 INFO event_listener.py:52: Created named pipe yasb-270a5199-fcac-11f0-adeb-00155d40ff59
+2026-01-29 08:47:56 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-270a5199-fcac-11f0-adeb-00155d40ff59
+2026-01-29 08:47:56 INFO watcher.py:39: Created file watcher for path C:\Users\Rey Benedict Rico\.config\yasb
+2026-01-29 08:47:56 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-01-29 08:47:56 DEBUG _windows.py:192: Thread started
+2026-01-29 08:47:57 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2026-01-29 08:48:13 WARNING weather.py:416: An unexpected error occurred while loading icon http://cdn.weatherapi.com/weather/64x64/day/113.png: timed out
+2026-01-29 08:48:14 WARNING weather.py:416: An unexpected error occurred while loading icon http://cdn.weatherapi.com/weather/64x64/day/176.png: timed out
+2026-01-29 08:48:15 WARNING weather.py:416: An unexpected error occurred while loading icon http://cdn.weatherapi.com/weather/64x64/day/176.png: timed out
+2026-01-29 08:57:52 INFO weather.py:369: Fetched new weather data at 2026-01-29 08:57:52.539956
+2026-01-29 09:07:52 INFO weather.py:369: Fetched new weather data at 2026-01-29 09:07:52.529289
+2026-01-29 09:33:11 INFO weather.py:369: Fetched new weather data at 2026-01-29 09:33:11.423112
+2026-01-29 09:36:39 DEBUG _windows.py:218: Stopping worker thread...
+2026-01-29 09:36:39 DEBUG _windows.py:201: Exiting thread
+2026-01-29 09:36:39 DEBUG _windows.py:75: Closing
+2026-01-29 10:48:01 INFO log.py:21: Yasb v1.6.6
+2026-01-29 10:48:02 DEBUG win32.py:55: Looking up time zone info from registry
+2026-01-29 10:48:10 INFO weather.py:369: Fetched new weather data at 2026-01-29 10:48:10.323110
+2026-01-29 10:48:12 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2026-01-29 10:48:13 INFO app_bar.py:103: Bar Created on Screen: \\.\DISPLAY1 [Bar Height: 32px, DPI Scale: 1.25, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1536, Screen Height: 864]
+2026-01-29 10:48:14 INFO event_listener.py:52: Created named pipe yasb-f52eeb78-fcbc-11f0-bf2e-bf4bf8c5a60c
+2026-01-29 10:48:14 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-f52eeb78-fcbc-11f0-bf2e-bf4bf8c5a60c
+2026-01-29 10:48:14 INFO watcher.py:39: Created file watcher for path C:\Users\Rey Benedict Rico\.config\yasb
+2026-01-29 10:48:14 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-01-29 10:48:14 DEBUG _windows.py:192: Thread started
+2026-01-29 10:48:14 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2026-01-29 11:23:43 INFO weather.py:369: Fetched new weather data at 2026-01-29 11:23:43.096153
+2026-01-29 11:33:43 INFO weather.py:369: Fetched new weather data at 2026-01-29 11:33:43.110016
+2026-01-29 11:43:43 INFO weather.py:369: Fetched new weather data at 2026-01-29 11:43:43.111045
+2026-01-29 11:57:41 DEBUG _windows.py:218: Stopping worker thread...
+2026-01-29 11:57:41 DEBUG _windows.py:201: Exiting thread
+2026-01-29 11:57:41 DEBUG _windows.py:75: Closing
+2026-01-29 14:58:23 INFO log.py:21: Yasb v1.6.6
+2026-01-29 14:58:24 DEBUG win32.py:55: Looking up time zone info from registry
+2026-01-29 14:58:32 INFO weather.py:369: Fetched new weather data at 2026-01-29 14:58:32.209654
+2026-01-29 14:58:34 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2026-01-29 14:58:35 INFO app_bar.py:103: Bar Created on Screen: \\.\DISPLAY1 [Bar Height: 32px, DPI Scale: 1.25, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1536, Screen Height: 864]
+2026-01-29 14:58:37 INFO event_listener.py:52: Created named pipe yasb-ef2f2934-fcdf-11f0-86ad-8058912c9d7e
+2026-01-29 14:58:37 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-ef2f2934-fcdf-11f0-86ad-8058912c9d7e
+2026-01-29 14:58:37 INFO watcher.py:39: Created file watcher for path C:\Users\Rey Benedict Rico\.config\yasb
+2026-01-29 14:58:37 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-01-29 14:58:37 DEBUG _windows.py:192: Thread started
+2026-01-29 14:58:37 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2026-01-29 15:08:32 INFO weather.py:369: Fetched new weather data at 2026-01-29 15:08:32.213086
+2026-01-29 15:18:32 INFO weather.py:369: Fetched new weather data at 2026-01-29 15:18:32.214566
+2026-01-29 15:28:32 INFO weather.py:369: Fetched new weather data at 2026-01-29 15:28:32.204172
+2026-01-29 15:38:32 INFO weather.py:369: Fetched new weather data at 2026-01-29 15:38:32.208153
+2026-01-29 15:48:32 INFO weather.py:369: Fetched new weather data at 2026-01-29 15:48:32.210653
+2026-01-29 15:58:32 INFO weather.py:369: Fetched new weather data at 2026-01-29 15:58:32.209713
+2026-01-29 15:58:53 ERROR weather.py:472: Error fetching weather data: <urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond>
+2026-01-29 16:08:32 INFO weather.py:369: Fetched new weather data at 2026-01-29 16:08:32.205220
+2026-01-29 16:18:32 INFO weather.py:369: Fetched new weather data at 2026-01-29 16:18:32.203752
+2026-01-29 16:28:32 INFO weather.py:369: Fetched new weather data at 2026-01-29 16:28:32.208911
+2026-01-29 16:38:32 INFO weather.py:369: Fetched new weather data at 2026-01-29 16:38:32.197422
+2026-01-29 16:48:32 INFO weather.py:369: Fetched new weather data at 2026-01-29 16:48:32.210626
+2026-01-29 16:58:32 INFO weather.py:369: Fetched new weather data at 2026-01-29 16:58:32.208294
+2026-01-29 17:43:01 INFO weather.py:369: Fetched new weather data at 2026-01-29 17:43:01.902778
+2026-01-29 17:53:01 INFO weather.py:369: Fetched new weather data at 2026-01-29 17:53:01.904706
+2026-01-29 18:03:01 INFO weather.py:369: Fetched new weather data at 2026-01-29 18:03:01.900871
+2026-01-29 18:03:23 ERROR weather.py:472: Error fetching weather data: <urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond>
+2026-01-29 18:13:01 INFO weather.py:369: Fetched new weather data at 2026-01-29 18:13:01.929870
+2026-01-29 18:23:01 INFO weather.py:369: Fetched new weather data at 2026-01-29 18:23:01.924909
+2026-01-29 18:33:01 INFO weather.py:369: Fetched new weather data at 2026-01-29 18:33:01.931073
+2026-01-29 18:43:01 INFO weather.py:369: Fetched new weather data at 2026-01-29 18:43:01.925114
+2026-01-29 18:53:01 INFO weather.py:369: Fetched new weather data at 2026-01-29 18:53:01.917741
+2026-01-29 19:03:01 INFO weather.py:369: Fetched new weather data at 2026-01-29 19:03:01.931315
+2026-01-29 19:13:01 INFO weather.py:369: Fetched new weather data at 2026-01-29 19:13:01.931341
+2026-01-29 19:23:01 INFO weather.py:369: Fetched new weather data at 2026-01-29 19:23:01.919825
+2026-01-29 19:33:01 INFO weather.py:369: Fetched new weather data at 2026-01-29 19:33:01.918859
+2026-01-29 19:43:01 INFO weather.py:369: Fetched new weather data at 2026-01-29 19:43:01.921503
+2026-01-29 19:53:01 INFO weather.py:369: Fetched new weather data at 2026-01-29 19:53:01.927209
+2026-01-29 20:03:01 INFO weather.py:369: Fetched new weather data at 2026-01-29 20:03:01.930681
+2026-01-29 20:13:01 INFO weather.py:369: Fetched new weather data at 2026-01-29 20:13:01.920888
+2026-01-29 20:23:01 INFO weather.py:369: Fetched new weather data at 2026-01-29 20:23:01.918862
+2026-01-29 20:33:01 INFO weather.py:369: Fetched new weather data at 2026-01-29 20:33:01.920637
+2026-01-29 20:43:01 INFO weather.py:369: Fetched new weather data at 2026-01-29 20:43:01.929014
+2026-01-29 20:53:01 INFO weather.py:369: Fetched new weather data at 2026-01-29 20:53:01.930530
+2026-01-29 21:03:01 INFO weather.py:369: Fetched new weather data at 2026-01-29 21:03:01.916551
+2026-01-29 21:13:01 INFO weather.py:369: Fetched new weather data at 2026-01-29 21:13:01.920231
+2026-01-29 21:23:01 INFO weather.py:369: Fetched new weather data at 2026-01-29 21:23:01.928774
+2026-01-29 21:33:01 INFO weather.py:369: Fetched new weather data at 2026-01-29 21:33:01.927807
+2026-01-29 21:43:01 INFO weather.py:369: Fetched new weather data at 2026-01-29 21:43:01.917343
+2026-01-29 21:53:01 INFO weather.py:369: Fetched new weather data at 2026-01-29 21:53:01.927573
+2026-01-29 22:03:01 INFO weather.py:369: Fetched new weather data at 2026-01-29 22:03:01.922425
+2026-01-29 22:13:01 INFO weather.py:369: Fetched new weather data at 2026-01-29 22:13:01.923978
+2026-01-29 22:23:01 INFO weather.py:369: Fetched new weather data at 2026-01-29 22:23:01.925015
+2026-01-29 22:33:01 INFO weather.py:369: Fetched new weather data at 2026-01-29 22:33:01.928863
+2026-01-30 00:53:24 DEBUG _windows.py:218: Stopping worker thread...
+2026-01-30 00:53:24 DEBUG _windows.py:201: Exiting thread
+2026-01-30 00:53:24 DEBUG _windows.py:75: Closing
+2026-01-30 10:17:10 INFO log.py:21: Yasb v1.6.6
+2026-01-30 10:17:11 DEBUG win32.py:55: Looking up time zone info from registry
+2026-01-30 10:17:18 INFO weather.py:369: Fetched new weather data at 2026-01-30 10:17:18.547813
+2026-01-30 10:17:18 ERROR weather.py:472: Error fetching weather data: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-01-30 10:17:20 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2026-01-30 10:17:21 INFO app_bar.py:103: Bar Created on Screen: \\.\DISPLAY1 [Bar Height: 32px, DPI Scale: 1.25, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1536, Screen Height: 864]
+2026-01-30 10:17:22 INFO event_listener.py:52: Created named pipe yasb-cfa551ee-fd81-11f0-9b5a-b4eba5175dbe
+2026-01-30 10:17:22 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-cfa551ee-fd81-11f0-9b5a-b4eba5175dbe
+2026-01-30 10:17:22 INFO watcher.py:39: Created file watcher for path C:\Users\Rey Benedict Rico\.config\yasb
+2026-01-30 10:17:22 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-01-30 10:17:22 DEBUG _windows.py:192: Thread started
+2026-01-30 10:17:22 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2026-01-30 10:27:46 INFO weather.py:369: Fetched new weather data at 2026-01-30 10:27:46.685501
+2026-01-30 10:58:38 INFO weather.py:369: Fetched new weather data at 2026-01-30 10:58:38.132586
+2026-01-30 10:58:38 ERROR weather.py:472: Error fetching weather data: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-01-30 11:08:38 INFO weather.py:369: Fetched new weather data at 2026-01-30 11:08:38.121483
+2026-01-30 11:08:38 ERROR weather.py:472: Error fetching weather data: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-01-30 11:18:38 INFO weather.py:369: Fetched new weather data at 2026-01-30 11:18:38.121726
+2026-01-30 11:18:38 ERROR weather.py:472: Error fetching weather data: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-01-30 09:36:40 INFO log.py:21: Yasb v1.6.6
+2026-01-30 09:36:41 DEBUG win32.py:55: Looking up time zone info from registry
+2026-01-30 09:36:47 INFO weather.py:369: Fetched new weather data at 2026-01-30 09:36:47.907177
+2026-01-30 09:36:49 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2026-01-30 09:36:50 INFO app_bar.py:103: Bar Created on Screen: \\.\DISPLAY1 [Bar Height: 32px, DPI Scale: 1.25, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1536, Screen Height: 864]
+2026-01-30 09:36:51 INFO event_listener.py:52: Created named pipe yasb-26b6e8c2-fd7c-11f0-92e1-ab1884675841
+2026-01-30 09:36:51 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-26b6e8c2-fd7c-11f0-92e1-ab1884675841
+2026-01-30 09:36:51 INFO watcher.py:39: Created file watcher for path C:\Users\Rey Benedict Rico\.config\yasb
+2026-01-30 09:36:51 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-01-30 09:36:51 DEBUG _windows.py:192: Thread started
+2026-01-30 09:36:51 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2026-01-30 09:46:47 INFO weather.py:369: Fetched new weather data at 2026-01-30 09:46:47.906872
+2026-01-30 09:56:47 INFO weather.py:369: Fetched new weather data at 2026-01-30 09:56:47.916676
+2026-01-30 10:06:47 INFO weather.py:369: Fetched new weather data at 2026-01-30 10:06:47.916971
+2026-01-30 10:06:59 ERROR weather.py:472: Error fetching weather data: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-01-30 18:16:38 DEBUG _windows.py:218: Stopping worker thread...
+2026-01-30 18:16:38 DEBUG _windows.py:201: Exiting thread
+2026-01-30 18:16:38 DEBUG _windows.py:75: Closing
+2026-01-30 20:51:27 INFO log.py:21: Yasb v1.6.6
+2026-01-30 20:51:28 DEBUG win32.py:55: Looking up time zone info from registry
+2026-01-30 20:51:30 INFO log.py:21: Yasb v1.6.6
+2026-01-30 20:51:30 ERROR main.py:91: Another instance of the YASB is already running.
+2026-01-30 20:51:33 INFO weather.py:369: Fetched new weather data at 2026-01-30 20:51:33.537826
+2026-01-30 20:51:35 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2026-01-30 20:51:36 INFO app_bar.py:103: Bar Created on Screen: \\.\DISPLAY1 [Bar Height: 32px, DPI Scale: 1.25, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1536, Screen Height: 864]
+2026-01-30 20:51:37 INFO event_listener.py:52: Created named pipe yasb-6a65fe3a-fdda-11f0-be01-cb5c783bcdb0
+2026-01-30 20:51:37 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-6a65fe3a-fdda-11f0-be01-cb5c783bcdb0
+2026-01-30 20:51:37 INFO watcher.py:39: Created file watcher for path C:\Users\Rey Benedict Rico\.config\yasb
+2026-01-30 20:51:37 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-01-30 20:51:37 DEBUG _windows.py:192: Thread started
+2026-01-30 20:51:38 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2026-01-30 21:01:33 INFO weather.py:369: Fetched new weather data at 2026-01-30 21:01:33.521927
+2026-01-30 21:01:54 ERROR weather.py:472: Error fetching weather data: <urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond>
+2026-01-30 21:11:33 INFO weather.py:369: Fetched new weather data at 2026-01-30 21:11:33.541322
+2026-01-30 21:21:33 INFO weather.py:369: Fetched new weather data at 2026-01-30 21:21:33.546108
+2026-01-30 21:31:33 INFO weather.py:369: Fetched new weather data at 2026-01-30 21:31:33.547612
+2026-01-30 21:41:33 INFO weather.py:369: Fetched new weather data at 2026-01-30 21:41:33.547488
+2026-01-30 21:51:33 INFO weather.py:369: Fetched new weather data at 2026-01-30 21:51:33.546114
+2026-01-30 22:01:33 INFO weather.py:369: Fetched new weather data at 2026-01-30 22:01:33.548528
+2026-01-30 22:11:33 INFO weather.py:369: Fetched new weather data at 2026-01-30 22:11:33.546785
+2026-01-30 22:21:33 INFO weather.py:369: Fetched new weather data at 2026-01-30 22:21:33.542400
+2026-01-30 22:31:33 INFO weather.py:369: Fetched new weather data at 2026-01-30 22:31:33.539502
+2026-01-30 22:41:33 INFO weather.py:369: Fetched new weather data at 2026-01-30 22:41:33.536329
+2026-01-30 22:51:33 INFO weather.py:369: Fetched new weather data at 2026-01-30 22:51:33.544276
+2026-01-30 23:01:33 INFO weather.py:369: Fetched new weather data at 2026-01-30 23:01:33.539225
+2026-01-30 23:11:33 INFO weather.py:369: Fetched new weather data at 2026-01-30 23:11:33.543373
+2026-01-30 23:21:33 INFO weather.py:369: Fetched new weather data at 2026-01-30 23:21:33.541671
+2026-01-30 23:31:33 INFO weather.py:369: Fetched new weather data at 2026-01-30 23:31:33.540923
+2026-01-30 23:31:50 DEBUG _windows.py:218: Stopping worker thread...
+2026-01-30 23:31:50 DEBUG _windows.py:201: Exiting thread
+2026-01-30 23:31:50 DEBUG _windows.py:75: Closing
+2026-01-31 08:56:15 INFO log.py:21: Yasb v1.6.6
+2026-01-31 08:56:16 DEBUG win32.py:55: Looking up time zone info from registry
+2026-01-31 08:56:24 INFO weather.py:369: Fetched new weather data at 2026-01-31 08:56:24.141784
+2026-01-31 08:56:26 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2026-01-31 08:56:26 INFO app_bar.py:103: Bar Created on Screen: \\.\DISPLAY1 [Bar Height: 32px, DPI Scale: 1.25, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1536, Screen Height: 864]
+2026-01-31 08:56:28 INFO event_listener.py:52: Created named pipe yasb-acc97918-fe3f-11f0-b2f4-c44fb11c92f7
+2026-01-31 08:56:28 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-acc97918-fe3f-11f0-b2f4-c44fb11c92f7
+2026-01-31 08:56:28 INFO watcher.py:39: Created file watcher for path C:\Users\Rey Benedict Rico\.config\yasb
+2026-01-31 08:56:28 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-01-31 08:56:28 DEBUG _windows.py:192: Thread started
+2026-01-31 08:56:28 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2026-01-31 09:06:24 INFO weather.py:369: Fetched new weather data at 2026-01-31 09:06:24.136723
+2026-01-31 09:16:24 INFO weather.py:369: Fetched new weather data at 2026-01-31 09:16:24.136343
+2026-01-31 09:26:24 INFO weather.py:369: Fetched new weather data at 2026-01-31 09:26:24.151162
+2026-01-31 09:36:24 INFO weather.py:369: Fetched new weather data at 2026-01-31 09:36:24.165939
+2026-01-31 09:46:24 INFO weather.py:369: Fetched new weather data at 2026-01-31 09:46:24.153696
+2026-01-31 09:55:38 ERROR media.py:183: MediaCallback: Error occurred whilst fetching media properties and thumbnail: [WinError -2147286928] There is insufficient disk space to complete operation
+2026-01-31 09:56:24 INFO weather.py:369: Fetched new weather data at 2026-01-31 09:56:24.156887
+2026-01-31 10:06:24 INFO weather.py:369: Fetched new weather data at 2026-01-31 10:06:24.153801
+2026-01-31 10:16:24 INFO weather.py:369: Fetched new weather data at 2026-01-31 10:16:24.161310
+2026-01-31 10:26:24 INFO weather.py:369: Fetched new weather data at 2026-01-31 10:26:24.165220
+2026-01-31 10:36:24 INFO weather.py:369: Fetched new weather data at 2026-01-31 10:36:24.154089
+2026-01-31 10:46:24 INFO weather.py:369: Fetched new weather data at 2026-01-31 10:46:24.155098
+2026-01-31 10:56:24 INFO weather.py:369: Fetched new weather data at 2026-01-31 10:56:24.160421
+2026-01-31 11:06:24 INFO weather.py:369: Fetched new weather data at 2026-01-31 11:06:24.162235
+2026-01-31 11:16:24 INFO weather.py:369: Fetched new weather data at 2026-01-31 11:16:24.166080
+2026-01-31 11:26:24 INFO weather.py:369: Fetched new weather data at 2026-01-31 11:26:24.156461
+2026-01-31 11:36:03 ERROR media.py:183: MediaCallback: Error occurred whilst fetching media properties and thumbnail: [WinError -2147286928] There is insufficient disk space to complete operation
+2026-01-31 11:36:24 INFO weather.py:369: Fetched new weather data at 2026-01-31 11:36:24.153484
+2026-01-31 11:46:24 INFO weather.py:369: Fetched new weather data at 2026-01-31 11:46:24.156118
+2026-01-31 11:56:24 INFO weather.py:369: Fetched new weather data at 2026-01-31 11:56:24.156970
+2026-01-31 11:56:45 ERROR weather.py:472: Error fetching weather data: <urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond>
+2026-01-31 12:06:24 INFO weather.py:369: Fetched new weather data at 2026-01-31 12:06:24.159691
+2026-01-31 12:16:24 INFO weather.py:369: Fetched new weather data at 2026-01-31 12:16:24.161524
+2026-01-31 12:26:24 INFO weather.py:369: Fetched new weather data at 2026-01-31 12:26:24.167698
+2026-01-31 12:36:24 INFO weather.py:369: Fetched new weather data at 2026-01-31 12:36:24.169858
+2026-01-31 12:46:24 INFO weather.py:369: Fetched new weather data at 2026-01-31 12:46:24.168588
+2026-01-31 12:56:24 INFO weather.py:369: Fetched new weather data at 2026-01-31 12:56:24.172205
+2026-01-31 13:06:24 INFO weather.py:369: Fetched new weather data at 2026-01-31 13:06:24.175748
+2026-01-31 13:06:45 ERROR weather.py:472: Error fetching weather data: <urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond>
+2026-01-31 13:16:56 INFO weather.py:369: Fetched new weather data at 2026-01-31 13:16:56.705011
+2026-01-31 13:26:56 INFO weather.py:369: Fetched new weather data at 2026-01-31 13:26:56.702991
+2026-01-31 13:36:56 INFO weather.py:369: Fetched new weather data at 2026-01-31 13:36:56.712631
+2026-01-31 13:46:56 INFO weather.py:369: Fetched new weather data at 2026-01-31 13:46:56.711155
+2026-01-31 13:47:17 ERROR weather.py:472: Error fetching weather data: <urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond>
+2026-01-31 13:56:56 INFO weather.py:369: Fetched new weather data at 2026-01-31 13:56:56.706547
+2026-01-31 14:06:56 INFO weather.py:369: Fetched new weather data at 2026-01-31 14:06:56.707183
+2026-01-31 14:16:56 INFO weather.py:369: Fetched new weather data at 2026-01-31 14:16:56.711171
+2026-01-31 14:26:56 INFO weather.py:369: Fetched new weather data at 2026-01-31 14:26:56.710294
+2026-01-31 14:36:56 INFO weather.py:369: Fetched new weather data at 2026-01-31 14:36:56.701743
+2026-01-31 14:46:56 INFO weather.py:369: Fetched new weather data at 2026-01-31 14:46:56.700844
+2026-01-31 14:56:56 INFO weather.py:369: Fetched new weather data at 2026-01-31 14:56:56.708682
+2026-01-31 15:06:56 INFO weather.py:369: Fetched new weather data at 2026-01-31 15:06:56.709288
+2026-01-31 15:16:56 INFO weather.py:369: Fetched new weather data at 2026-01-31 15:16:56.709879
+2026-01-31 15:17:17 ERROR weather.py:472: Error fetching weather data: <urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond>
+2026-01-31 15:26:56 INFO weather.py:369: Fetched new weather data at 2026-01-31 15:26:56.705410
+2026-01-31 15:36:56 INFO weather.py:369: Fetched new weather data at 2026-01-31 15:36:56.705833
+2026-01-31 15:46:56 INFO weather.py:369: Fetched new weather data at 2026-01-31 15:46:56.707105
+2026-01-31 15:56:56 INFO weather.py:369: Fetched new weather data at 2026-01-31 15:56:56.710483
+2026-01-31 16:06:56 INFO weather.py:369: Fetched new weather data at 2026-01-31 16:06:56.700576
+2026-01-31 16:16:56 INFO weather.py:369: Fetched new weather data at 2026-01-31 16:16:56.705842
+2026-01-31 16:26:56 INFO weather.py:369: Fetched new weather data at 2026-01-31 16:26:56.706901
+2026-01-31 16:36:56 INFO weather.py:369: Fetched new weather data at 2026-01-31 16:36:56.718300
+2026-01-31 16:46:56 INFO weather.py:369: Fetched new weather data at 2026-01-31 16:46:56.698684
+2026-01-31 16:56:56 INFO weather.py:369: Fetched new weather data at 2026-01-31 16:56:56.700821
+2026-01-31 17:06:56 INFO weather.py:369: Fetched new weather data at 2026-01-31 17:06:56.707650
+2026-01-31 17:16:56 INFO weather.py:369: Fetched new weather data at 2026-01-31 17:16:56.709771
+2026-01-31 17:26:56 INFO weather.py:369: Fetched new weather data at 2026-01-31 17:26:56.700909
+2026-01-31 17:36:56 INFO weather.py:369: Fetched new weather data at 2026-01-31 17:36:56.701649
+2026-01-31 17:46:56 INFO weather.py:369: Fetched new weather data at 2026-01-31 17:46:56.701899
+2026-01-31 17:56:56 INFO weather.py:369: Fetched new weather data at 2026-01-31 17:56:56.706420
+2026-01-31 18:06:56 INFO weather.py:369: Fetched new weather data at 2026-01-31 18:06:56.708613
+2026-01-31 18:16:56 INFO weather.py:369: Fetched new weather data at 2026-01-31 18:16:56.699532
+2026-01-31 18:26:56 INFO weather.py:369: Fetched new weather data at 2026-01-31 18:26:56.711083
+2026-01-31 18:32:55 INFO bar.py:100: Screen geometry changed. Updating position for bar (status-bar_DISPLAY1_2bf525de)
+2026-01-31 18:32:55 INFO app_bar.py:103: Bar Created on Screen: \\.\DISPLAY1 [Bar Height: 32px, DPI Scale: 1.25, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 864, Screen Height: 1536]
+2026-01-31 18:33:09 INFO bar.py:100: Screen geometry changed. Updating position for bar (status-bar_DISPLAY1_2bf525de)
+2026-01-31 18:33:09 INFO app_bar.py:103: Bar Created on Screen: \\.\DISPLAY1 [Bar Height: 32px, DPI Scale: 1.25, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1536, Screen Height: 864]
+2026-01-31 18:36:56 INFO weather.py:369: Fetched new weather data at 2026-01-31 18:36:56.705476
+2026-01-31 18:46:56 INFO weather.py:369: Fetched new weather data at 2026-01-31 18:46:56.711976
+2026-01-31 18:56:56 INFO weather.py:369: Fetched new weather data at 2026-01-31 18:56:56.712471
+2026-01-31 19:06:56 INFO weather.py:369: Fetched new weather data at 2026-01-31 19:06:56.700480
+2026-01-31 19:16:56 INFO weather.py:369: Fetched new weather data at 2026-01-31 19:16:56.702909
+2026-01-31 19:26:56 INFO weather.py:369: Fetched new weather data at 2026-01-31 19:26:56.710835
+2026-01-31 19:36:56 INFO weather.py:369: Fetched new weather data at 2026-01-31 19:36:56.702399
+2026-01-31 19:46:56 INFO weather.py:369: Fetched new weather data at 2026-01-31 19:46:56.700977
+2026-01-31 19:56:56 INFO weather.py:369: Fetched new weather data at 2026-01-31 19:56:56.705283
+2026-01-31 20:06:56 INFO weather.py:369: Fetched new weather data at 2026-01-31 20:06:56.713438
+2026-01-31 20:16:56 INFO weather.py:369: Fetched new weather data at 2026-01-31 20:16:56.700536
+2026-01-31 20:26:56 INFO weather.py:369: Fetched new weather data at 2026-01-31 20:26:56.699082
+2026-01-31 20:36:56 INFO weather.py:369: Fetched new weather data at 2026-01-31 20:36:56.701731
+2026-01-31 20:46:56 INFO weather.py:369: Fetched new weather data at 2026-01-31 20:46:56.706202
+2026-01-31 20:56:56 INFO weather.py:369: Fetched new weather data at 2026-01-31 20:56:56.698101
+2026-01-31 21:06:56 INFO weather.py:369: Fetched new weather data at 2026-01-31 21:06:56.702618
+2026-01-31 21:16:56 INFO weather.py:369: Fetched new weather data at 2026-01-31 21:16:56.704913
+2026-01-31 21:17:17 ERROR weather.py:472: Error fetching weather data: <urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond>
+2026-01-31 21:26:56 INFO weather.py:369: Fetched new weather data at 2026-01-31 21:26:56.715046
+2026-01-31 21:36:56 INFO weather.py:369: Fetched new weather data at 2026-01-31 21:36:56.714945
+2026-01-31 21:46:56 INFO weather.py:369: Fetched new weather data at 2026-01-31 21:46:56.746485
+2026-01-31 21:47:17 ERROR weather.py:472: Error fetching weather data: <urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond>
+2026-01-31 21:56:56 INFO weather.py:369: Fetched new weather data at 2026-01-31 21:56:56.731459
+2026-01-31 22:40:13 INFO weather.py:369: Fetched new weather data at 2026-01-31 22:40:13.240102
+2026-01-31 22:50:13 INFO weather.py:369: Fetched new weather data at 2026-01-31 22:50:13.246813
+2026-01-31 23:00:13 INFO weather.py:369: Fetched new weather data at 2026-01-31 23:00:13.248517
+2026-01-31 23:10:13 INFO weather.py:369: Fetched new weather data at 2026-01-31 23:10:13.241427
+2026-01-31 23:20:13 INFO weather.py:369: Fetched new weather data at 2026-01-31 23:20:13.239330
+2026-01-31 23:30:13 INFO weather.py:369: Fetched new weather data at 2026-01-31 23:30:13.248422
+2026-01-31 23:40:13 INFO weather.py:369: Fetched new weather data at 2026-01-31 23:40:13.253036
+2026-01-31 23:50:13 INFO weather.py:369: Fetched new weather data at 2026-01-31 23:50:13.266798
+2026-02-01 00:00:13 INFO weather.py:369: Fetched new weather data at 2026-02-01 00:00:13.257430
+2026-02-01 00:10:13 INFO weather.py:369: Fetched new weather data at 2026-02-01 00:10:13.264863
+2026-02-01 00:20:13 INFO weather.py:369: Fetched new weather data at 2026-02-01 00:20:13.253258
+2026-02-01 00:30:13 INFO weather.py:369: Fetched new weather data at 2026-02-01 00:30:13.252369
+2026-02-01 00:40:13 INFO weather.py:369: Fetched new weather data at 2026-02-01 00:40:13.259860
+2026-02-01 00:50:13 INFO weather.py:369: Fetched new weather data at 2026-02-01 00:50:13.263160
+2026-02-01 01:00:13 INFO weather.py:369: Fetched new weather data at 2026-02-01 01:00:13.268744
+2026-02-01 01:10:13 INFO weather.py:369: Fetched new weather data at 2026-02-01 01:10:13.272012
+2026-02-01 01:20:13 INFO weather.py:369: Fetched new weather data at 2026-02-01 01:20:13.276690
+2026-02-01 01:30:13 INFO weather.py:369: Fetched new weather data at 2026-02-01 01:30:13.271970
+2026-02-01 01:40:13 INFO weather.py:369: Fetched new weather data at 2026-02-01 01:40:13.282589
+2026-02-01 01:50:13 INFO weather.py:369: Fetched new weather data at 2026-02-01 01:50:13.271171
+2026-02-01 01:50:34 ERROR weather.py:472: Error fetching weather data: <urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond>
+2026-02-01 02:00:13 INFO weather.py:369: Fetched new weather data at 2026-02-01 02:00:13.275225
+2026-02-01 02:10:13 INFO weather.py:369: Fetched new weather data at 2026-02-01 02:10:13.278292
+2026-02-01 02:20:13 INFO weather.py:369: Fetched new weather data at 2026-02-01 02:20:13.282741
+2026-02-01 02:30:13 INFO weather.py:369: Fetched new weather data at 2026-02-01 02:30:13.275341
+2026-02-01 02:38:59 DEBUG _windows.py:218: Stopping worker thread...
+2026-02-01 02:38:59 DEBUG _windows.py:201: Exiting thread
+2026-02-01 02:38:59 DEBUG _windows.py:75: Closing
+2026-02-01 09:39:10 INFO log.py:21: Yasb v1.6.6
+2026-02-01 09:39:11 DEBUG win32.py:55: Looking up time zone info from registry
+2026-02-01 09:39:18 INFO weather.py:369: Fetched new weather data at 2026-02-01 09:39:18.306736
+2026-02-01 09:39:20 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2026-02-01 09:39:20 INFO app_bar.py:103: Bar Created on Screen: \\.\DISPLAY1 [Bar Height: 32px, DPI Scale: 1.25, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1536, Screen Height: 864]
+2026-02-01 09:39:22 INFO event_listener.py:52: Created named pipe yasb-d556a2b2-ff0e-11f0-8576-c3d3acb69f27
+2026-02-01 09:39:22 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-d556a2b2-ff0e-11f0-8576-c3d3acb69f27
+2026-02-01 09:39:22 INFO watcher.py:39: Created file watcher for path C:\Users\Rey Benedict Rico\.config\yasb
+2026-02-01 09:39:22 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-02-01 09:39:22 DEBUG _windows.py:192: Thread started
+2026-02-01 09:39:22 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2026-02-01 09:49:18 INFO weather.py:369: Fetched new weather data at 2026-02-01 09:49:18.316732
+2026-02-01 09:59:18 INFO weather.py:369: Fetched new weather data at 2026-02-01 09:59:18.307488
+2026-02-01 10:09:18 INFO weather.py:369: Fetched new weather data at 2026-02-01 10:09:18.320165
+2026-02-01 10:19:18 INFO weather.py:369: Fetched new weather data at 2026-02-01 10:19:18.315723
+2026-02-01 10:29:18 INFO weather.py:369: Fetched new weather data at 2026-02-01 10:29:18.316809
+2026-02-01 10:39:18 INFO weather.py:369: Fetched new weather data at 2026-02-01 10:39:18.308231
+2026-02-01 11:02:45 INFO weather.py:369: Fetched new weather data at 2026-02-01 11:02:45.444841
+2026-02-01 11:12:45 INFO weather.py:369: Fetched new weather data at 2026-02-01 11:12:45.443377
+2026-02-01 11:22:45 INFO weather.py:369: Fetched new weather data at 2026-02-01 11:22:45.437343
+2026-02-01 11:32:45 INFO weather.py:369: Fetched new weather data at 2026-02-01 11:32:45.432823
+2026-02-01 11:42:45 INFO weather.py:369: Fetched new weather data at 2026-02-01 11:42:45.454075
+2026-02-01 11:52:45 INFO weather.py:369: Fetched new weather data at 2026-02-01 11:52:45.448843
+2026-02-01 12:02:45 INFO weather.py:369: Fetched new weather data at 2026-02-01 12:02:45.451396
+2026-02-01 12:12:45 INFO weather.py:369: Fetched new weather data at 2026-02-01 12:12:45.448920
+2026-02-01 12:22:45 INFO weather.py:369: Fetched new weather data at 2026-02-01 12:22:45.449519
+2026-02-01 12:32:45 INFO weather.py:369: Fetched new weather data at 2026-02-01 12:32:45.458854
+2026-02-01 12:42:45 INFO weather.py:369: Fetched new weather data at 2026-02-01 12:42:45.450997
+2026-02-01 12:52:45 INFO weather.py:369: Fetched new weather data at 2026-02-01 12:52:45.454618
+2026-02-01 13:02:45 INFO weather.py:369: Fetched new weather data at 2026-02-01 13:02:45.458259
+2026-02-01 13:03:06 ERROR weather.py:472: Error fetching weather data: <urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond>
+2026-02-01 13:12:45 INFO weather.py:369: Fetched new weather data at 2026-02-01 13:12:45.461668
+2026-02-01 13:22:45 INFO weather.py:369: Fetched new weather data at 2026-02-01 13:22:45.456667
+2026-02-01 13:32:45 INFO weather.py:369: Fetched new weather data at 2026-02-01 13:32:45.448294
+2026-02-01 13:42:45 INFO weather.py:369: Fetched new weather data at 2026-02-01 13:42:45.454119
+2026-02-01 13:43:06 ERROR weather.py:472: Error fetching weather data: <urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond>
+2026-02-01 13:52:45 INFO weather.py:369: Fetched new weather data at 2026-02-01 13:52:45.452286
+2026-02-01 14:02:45 INFO weather.py:369: Fetched new weather data at 2026-02-01 14:02:45.459665
+2026-02-01 14:03:06 ERROR weather.py:472: Error fetching weather data: <urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond>
+2026-02-01 14:12:45 INFO weather.py:369: Fetched new weather data at 2026-02-01 14:12:45.457030
+2026-02-01 14:22:45 INFO weather.py:369: Fetched new weather data at 2026-02-01 14:22:45.454836
+2026-02-01 14:32:45 INFO weather.py:369: Fetched new weather data at 2026-02-01 14:32:45.457607
+2026-02-01 14:42:45 INFO weather.py:369: Fetched new weather data at 2026-02-01 14:42:45.472561
+2026-02-01 14:52:45 INFO weather.py:369: Fetched new weather data at 2026-02-01 14:52:45.469708
+2026-02-01 15:02:45 INFO weather.py:369: Fetched new weather data at 2026-02-01 15:02:45.462402
+2026-02-01 15:12:45 INFO weather.py:369: Fetched new weather data at 2026-02-01 15:12:45.465502
+2026-02-01 15:22:45 INFO weather.py:369: Fetched new weather data at 2026-02-01 15:22:45.464698
+2026-02-01 15:32:45 INFO weather.py:369: Fetched new weather data at 2026-02-01 15:32:45.468910
+2026-02-01 15:42:45 INFO weather.py:369: Fetched new weather data at 2026-02-01 15:42:45.466917
+2026-02-01 15:52:45 INFO weather.py:369: Fetched new weather data at 2026-02-01 15:52:45.469251
+2026-02-01 16:02:45 INFO weather.py:369: Fetched new weather data at 2026-02-01 16:02:45.472480
+2026-02-01 16:12:45 INFO weather.py:369: Fetched new weather data at 2026-02-01 16:12:45.476848
+2026-02-01 16:22:45 INFO weather.py:369: Fetched new weather data at 2026-02-01 16:22:45.471192
+2026-02-01 16:32:45 INFO weather.py:369: Fetched new weather data at 2026-02-01 16:32:45.476806
+2026-02-01 16:42:45 INFO weather.py:369: Fetched new weather data at 2026-02-01 16:42:45.471348
+2026-02-01 16:52:45 INFO weather.py:369: Fetched new weather data at 2026-02-01 16:52:45.474355
+2026-02-01 17:02:45 INFO weather.py:369: Fetched new weather data at 2026-02-01 17:02:45.474163
+2026-02-01 17:12:45 INFO weather.py:369: Fetched new weather data at 2026-02-01 17:12:45.467919
+2026-02-01 17:22:45 INFO weather.py:369: Fetched new weather data at 2026-02-01 17:22:45.462375
+2026-02-01 17:32:45 INFO weather.py:369: Fetched new weather data at 2026-02-01 17:32:45.467909
+2026-02-01 17:42:45 INFO weather.py:369: Fetched new weather data at 2026-02-01 17:42:45.477585
+2026-02-01 17:43:06 ERROR weather.py:472: Error fetching weather data: <urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond>
+2026-02-01 17:52:45 INFO weather.py:369: Fetched new weather data at 2026-02-01 17:52:45.484130
+2026-02-01 18:02:45 INFO weather.py:369: Fetched new weather data at 2026-02-01 18:02:45.480630
+2026-02-01 18:12:45 INFO weather.py:369: Fetched new weather data at 2026-02-01 18:12:45.484729
+2026-02-01 18:22:45 INFO weather.py:369: Fetched new weather data at 2026-02-01 18:22:45.496153
+2026-02-01 18:32:45 INFO weather.py:369: Fetched new weather data at 2026-02-01 18:32:45.496764
+2026-02-01 18:42:45 INFO weather.py:369: Fetched new weather data at 2026-02-01 18:42:45.498397
+2026-02-01 18:52:45 INFO weather.py:369: Fetched new weather data at 2026-02-01 18:52:45.499048
+2026-02-01 19:02:45 INFO weather.py:369: Fetched new weather data at 2026-02-01 19:02:45.669450
+2026-02-01 19:12:45 INFO weather.py:369: Fetched new weather data at 2026-02-01 19:12:45.505765
+2026-02-01 19:22:45 INFO weather.py:369: Fetched new weather data at 2026-02-01 19:22:45.498782
+2026-02-01 19:32:45 INFO weather.py:369: Fetched new weather data at 2026-02-01 19:32:45.501602
+2026-02-01 19:33:06 ERROR weather.py:472: Error fetching weather data: <urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond>
+2026-02-01 19:42:45 INFO weather.py:369: Fetched new weather data at 2026-02-01 19:42:45.493227
+2026-02-01 19:52:45 INFO weather.py:369: Fetched new weather data at 2026-02-01 19:52:45.500838
+2026-02-01 20:02:45 INFO weather.py:369: Fetched new weather data at 2026-02-01 20:02:45.497546
+2026-02-01 20:12:45 INFO weather.py:369: Fetched new weather data at 2026-02-01 20:12:45.500467
+2026-02-01 20:22:45 INFO weather.py:369: Fetched new weather data at 2026-02-01 20:22:45.505928
+2026-02-01 20:32:45 INFO weather.py:369: Fetched new weather data at 2026-02-01 20:32:45.508769
+2026-02-01 20:42:45 INFO weather.py:369: Fetched new weather data at 2026-02-01 20:42:45.508457
+2026-02-01 20:52:45 INFO weather.py:369: Fetched new weather data at 2026-02-01 20:52:45.494453
+2026-02-01 21:02:45 INFO weather.py:369: Fetched new weather data at 2026-02-01 21:02:45.499544
+2026-02-01 21:12:45 INFO weather.py:369: Fetched new weather data at 2026-02-01 21:12:45.509780
+2026-02-01 21:22:45 INFO weather.py:369: Fetched new weather data at 2026-02-01 21:22:45.502527
+2026-02-01 21:32:45 INFO weather.py:369: Fetched new weather data at 2026-02-01 21:32:45.499191
+2026-02-01 21:33:06 ERROR weather.py:472: Error fetching weather data: <urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond>
+2026-02-01 21:42:45 INFO weather.py:369: Fetched new weather data at 2026-02-01 21:42:45.502191
+2026-02-01 21:52:45 INFO weather.py:369: Fetched new weather data at 2026-02-01 21:52:45.504529
+2026-02-01 22:02:45 INFO weather.py:369: Fetched new weather data at 2026-02-01 22:02:45.506255
+2026-02-02 02:23:07 DEBUG _windows.py:218: Stopping worker thread...
+2026-02-02 02:23:07 DEBUG _windows.py:201: Exiting thread
+2026-02-02 02:23:07 DEBUG _windows.py:75: Closing
+2026-02-02 07:29:36 INFO log.py:21: Yasb v1.6.6
+2026-02-02 07:29:37 DEBUG win32.py:55: Looking up time zone info from registry
+2026-02-02 07:29:44 INFO weather.py:369: Fetched new weather data at 2026-02-02 07:29:44.347141
+2026-02-02 07:29:46 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2026-02-02 07:29:47 INFO app_bar.py:103: Bar Created on Screen: \\.\DISPLAY1 [Bar Height: 32px, DPI Scale: 1.25, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1536, Screen Height: 864]
+2026-02-02 07:29:48 INFO event_listener.py:52: Created named pipe yasb-e65af76c-ffc5-11f0-a3d6-c455b31c319b
+2026-02-02 07:29:48 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-e65af76c-ffc5-11f0-a3d6-c455b31c319b
+2026-02-02 07:29:48 INFO watcher.py:39: Created file watcher for path C:\Users\Rey Benedict Rico\.config\yasb
+2026-02-02 07:29:48 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-02-02 07:29:48 DEBUG _windows.py:192: Thread started
+2026-02-02 07:29:48 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2026-02-02 07:39:44 INFO weather.py:369: Fetched new weather data at 2026-02-02 07:39:44.344452
+2026-02-02 07:49:44 INFO weather.py:369: Fetched new weather data at 2026-02-02 07:49:44.353839
+2026-02-02 07:59:44 INFO weather.py:369: Fetched new weather data at 2026-02-02 07:59:44.365509
+2026-02-02 08:00:05 ERROR weather.py:472: Error fetching weather data: <urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond>
+2026-02-02 08:09:44 INFO weather.py:369: Fetched new weather data at 2026-02-02 08:09:44.366616
+2026-02-02 08:19:44 INFO weather.py:369: Fetched new weather data at 2026-02-02 08:19:44.358687
+2026-02-02 08:29:44 INFO weather.py:369: Fetched new weather data at 2026-02-02 08:29:44.364438
+2026-02-02 08:39:44 INFO weather.py:369: Fetched new weather data at 2026-02-02 08:39:44.367989
+2026-02-02 08:40:05 ERROR weather.py:472: Error fetching weather data: <urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond>
+2026-02-02 08:49:44 INFO weather.py:369: Fetched new weather data at 2026-02-02 08:49:44.358488
+2026-02-02 08:59:44 INFO weather.py:369: Fetched new weather data at 2026-02-02 08:59:44.360711
+2026-02-02 09:00:05 ERROR weather.py:472: Error fetching weather data: <urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond>
+2026-02-02 09:09:44 INFO weather.py:369: Fetched new weather data at 2026-02-02 09:09:44.363539
+2026-02-02 09:19:44 INFO weather.py:369: Fetched new weather data at 2026-02-02 09:19:44.364669
+2026-02-02 09:29:44 INFO weather.py:369: Fetched new weather data at 2026-02-02 09:29:44.357920
+2026-02-02 09:39:44 INFO weather.py:369: Fetched new weather data at 2026-02-02 09:39:44.377518
+2026-02-02 10:49:50 INFO weather.py:369: Fetched new weather data at 2026-02-02 10:49:50.209552
+2026-02-02 10:59:50 INFO weather.py:369: Fetched new weather data at 2026-02-02 10:59:50.201262
+2026-02-02 11:09:50 INFO weather.py:369: Fetched new weather data at 2026-02-02 11:09:50.214700
+2026-02-02 11:10:11 ERROR weather.py:472: Error fetching weather data: <urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond>
+2026-02-02 11:19:50 INFO weather.py:369: Fetched new weather data at 2026-02-02 11:19:50.225578
+2026-02-02 11:20:11 ERROR weather.py:472: Error fetching weather data: <urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond>
+2026-02-02 11:29:50 INFO weather.py:369: Fetched new weather data at 2026-02-02 11:29:50.218656
+2026-02-02 11:39:50 INFO weather.py:369: Fetched new weather data at 2026-02-02 11:39:50.223792
+2026-02-02 11:49:50 INFO weather.py:369: Fetched new weather data at 2026-02-02 11:49:50.227950
+2026-02-02 11:59:50 INFO weather.py:369: Fetched new weather data at 2026-02-02 11:59:50.224498
+2026-02-02 12:09:50 INFO weather.py:369: Fetched new weather data at 2026-02-02 12:09:50.225026
+2026-02-02 12:19:50 INFO weather.py:369: Fetched new weather data at 2026-02-02 12:19:50.223141
+2026-02-02 12:29:50 INFO weather.py:369: Fetched new weather data at 2026-02-02 12:29:50.219032
+2026-02-02 12:39:50 INFO weather.py:369: Fetched new weather data at 2026-02-02 12:39:50.227702
+2026-02-02 12:49:50 INFO weather.py:369: Fetched new weather data at 2026-02-02 12:49:50.223935
+2026-02-02 12:59:50 INFO weather.py:369: Fetched new weather data at 2026-02-02 12:59:50.218995
+2026-02-02 13:09:50 INFO weather.py:369: Fetched new weather data at 2026-02-02 13:09:50.222006
+2026-02-02 13:19:50 INFO weather.py:369: Fetched new weather data at 2026-02-02 13:19:50.223392
+2026-02-02 13:20:11 ERROR weather.py:472: Error fetching weather data: <urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond>
+2026-02-02 13:27:48 ERROR media.py:183: MediaCallback: Error occurred whilst fetching media properties and thumbnail: [WinError -2147286928] There is insufficient disk space to complete operation
+2026-02-02 13:29:50 INFO weather.py:369: Fetched new weather data at 2026-02-02 13:29:50.229457
+2026-02-02 13:30:11 ERROR weather.py:472: Error fetching weather data: <urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond>
+2026-02-02 13:39:50 INFO weather.py:369: Fetched new weather data at 2026-02-02 13:39:50.220583
+2026-02-02 13:49:50 INFO weather.py:369: Fetched new weather data at 2026-02-02 13:49:50.227712
+2026-02-02 13:59:50 INFO weather.py:369: Fetched new weather data at 2026-02-02 13:59:50.215620
+2026-02-02 14:00:11 ERROR weather.py:472: Error fetching weather data: <urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond>
+2026-02-02 14:09:50 INFO weather.py:369: Fetched new weather data at 2026-02-02 14:09:50.221077
+2026-02-02 14:19:50 INFO weather.py:369: Fetched new weather data at 2026-02-02 14:19:50.223217
+2026-02-02 14:29:50 INFO weather.py:369: Fetched new weather data at 2026-02-02 14:29:50.224372
+2026-02-02 14:39:50 INFO weather.py:369: Fetched new weather data at 2026-02-02 14:39:50.223844
+2026-02-02 14:49:50 INFO weather.py:369: Fetched new weather data at 2026-02-02 14:49:50.224503
+2026-02-02 14:59:50 INFO weather.py:369: Fetched new weather data at 2026-02-02 14:59:50.226047
+2026-02-02 15:09:50 INFO weather.py:369: Fetched new weather data at 2026-02-02 15:09:50.222642
+2026-02-02 15:19:50 INFO weather.py:369: Fetched new weather data at 2026-02-02 15:19:50.215544
+2026-02-02 15:29:50 INFO weather.py:369: Fetched new weather data at 2026-02-02 15:29:50.227060
+2026-02-02 15:39:50 INFO weather.py:369: Fetched new weather data at 2026-02-02 15:39:50.226993
+2026-02-02 15:49:50 INFO weather.py:369: Fetched new weather data at 2026-02-02 15:49:50.223029
+2026-02-02 15:59:50 INFO weather.py:369: Fetched new weather data at 2026-02-02 15:59:50.224148
+2026-02-02 16:09:50 INFO weather.py:369: Fetched new weather data at 2026-02-02 16:09:50.233444
+2026-02-02 16:19:50 INFO weather.py:369: Fetched new weather data at 2026-02-02 16:19:50.233474
+2026-02-02 16:29:50 INFO weather.py:369: Fetched new weather data at 2026-02-02 16:29:50.237016
+2026-02-02 16:39:50 INFO weather.py:369: Fetched new weather data at 2026-02-02 16:39:50.241435
+2026-02-02 16:49:50 INFO weather.py:369: Fetched new weather data at 2026-02-02 16:49:50.246751
+2026-02-02 16:59:50 INFO weather.py:369: Fetched new weather data at 2026-02-02 16:59:50.249826
+2026-02-02 17:09:50 INFO weather.py:369: Fetched new weather data at 2026-02-02 17:09:50.252385
+2026-02-02 17:19:50 INFO weather.py:369: Fetched new weather data at 2026-02-02 17:19:50.251669
+2026-02-02 17:29:50 INFO weather.py:369: Fetched new weather data at 2026-02-02 17:29:50.250934
+2026-02-02 17:30:11 ERROR weather.py:472: Error fetching weather data: <urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond>
+2026-02-02 17:39:50 INFO weather.py:369: Fetched new weather data at 2026-02-02 17:39:50.249094
+2026-02-02 17:49:50 INFO weather.py:369: Fetched new weather data at 2026-02-02 17:49:50.252288
+2026-02-02 17:59:50 INFO weather.py:369: Fetched new weather data at 2026-02-02 17:59:50.248895
+2026-02-02 18:00:11 ERROR weather.py:472: Error fetching weather data: <urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond>
+2026-02-02 18:09:50 INFO weather.py:369: Fetched new weather data at 2026-02-02 18:09:50.254199
+2026-02-02 18:19:50 INFO weather.py:369: Fetched new weather data at 2026-02-02 18:19:50.255976
+2026-02-02 18:29:50 INFO weather.py:369: Fetched new weather data at 2026-02-02 18:29:50.257108
+2026-02-02 18:39:50 INFO weather.py:369: Fetched new weather data at 2026-02-02 18:39:50.251996
+2026-02-02 18:49:50 INFO weather.py:369: Fetched new weather data at 2026-02-02 18:49:50.248024
+2026-02-02 18:59:50 INFO weather.py:369: Fetched new weather data at 2026-02-02 18:59:50.247135
+2026-02-02 19:09:50 INFO weather.py:369: Fetched new weather data at 2026-02-02 19:09:50.260508
+2026-02-02 19:19:50 INFO weather.py:369: Fetched new weather data at 2026-02-02 19:19:50.249141
+2026-02-02 19:29:50 INFO weather.py:369: Fetched new weather data at 2026-02-02 19:29:50.254870
+2026-02-02 19:39:50 INFO weather.py:369: Fetched new weather data at 2026-02-02 19:39:50.253697
+2026-02-02 19:49:50 INFO weather.py:369: Fetched new weather data at 2026-02-02 19:49:50.261000
+2026-02-02 19:50:11 ERROR weather.py:472: Error fetching weather data: <urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond>
+2026-02-02 19:59:50 INFO weather.py:369: Fetched new weather data at 2026-02-02 19:59:50.248527
+2026-02-02 20:09:50 INFO weather.py:369: Fetched new weather data at 2026-02-02 20:09:50.246079
+2026-02-02 20:19:50 INFO weather.py:369: Fetched new weather data at 2026-02-02 20:19:50.253342
+2026-02-02 20:29:50 INFO weather.py:369: Fetched new weather data at 2026-02-02 20:29:50.255218
+2026-02-02 20:39:50 INFO weather.py:369: Fetched new weather data at 2026-02-02 20:39:50.259309
+2026-02-02 20:49:50 INFO weather.py:369: Fetched new weather data at 2026-02-02 20:49:50.254221
+2026-02-02 20:59:50 INFO weather.py:369: Fetched new weather data at 2026-02-02 20:59:50.248495
+2026-02-02 21:09:50 INFO weather.py:369: Fetched new weather data at 2026-02-02 21:09:50.255711
+2026-02-02 21:19:50 INFO weather.py:369: Fetched new weather data at 2026-02-02 21:19:50.254044
+2026-02-02 21:29:50 INFO weather.py:369: Fetched new weather data at 2026-02-02 21:29:50.257369
+2026-02-02 21:39:50 INFO weather.py:369: Fetched new weather data at 2026-02-02 21:39:50.259238
+2026-02-02 21:49:50 INFO weather.py:369: Fetched new weather data at 2026-02-02 21:49:50.253405
+2026-02-02 21:59:50 INFO weather.py:369: Fetched new weather data at 2026-02-02 21:59:50.254978
+2026-02-02 22:09:50 INFO weather.py:369: Fetched new weather data at 2026-02-02 22:09:50.254957
+2026-02-02 22:19:50 INFO weather.py:369: Fetched new weather data at 2026-02-02 22:19:50.254002
+2026-02-02 22:20:11 ERROR weather.py:472: Error fetching weather data: <urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond>
+2026-02-02 22:29:50 INFO weather.py:369: Fetched new weather data at 2026-02-02 22:29:50.247935
+2026-02-02 22:39:50 INFO weather.py:369: Fetched new weather data at 2026-02-02 22:39:50.250042
+2026-02-02 22:40:11 ERROR weather.py:472: Error fetching weather data: <urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond>
+2026-02-02 22:49:50 INFO weather.py:369: Fetched new weather data at 2026-02-02 22:49:50.253901
+2026-02-02 22:50:11 ERROR weather.py:472: Error fetching weather data: <urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond>
+2026-02-02 22:59:50 INFO weather.py:369: Fetched new weather data at 2026-02-02 22:59:50.261122
+2026-02-02 23:00:11 ERROR weather.py:472: Error fetching weather data: <urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond>
+2026-02-02 23:09:50 INFO weather.py:369: Fetched new weather data at 2026-02-02 23:09:50.246341
+2026-02-02 23:17:23 DEBUG _windows.py:218: Stopping worker thread...
+2026-02-02 23:17:23 DEBUG _windows.py:201: Exiting thread
+2026-02-02 23:17:23 DEBUG _windows.py:75: Closing
+2026-02-03 08:51:26 INFO log.py:21: Yasb v1.6.6
+2026-02-03 08:51:27 DEBUG win32.py:55: Looking up time zone info from registry
+2026-02-03 08:51:34 INFO weather.py:369: Fetched new weather data at 2026-02-03 08:51:34.441418
+2026-02-03 08:51:36 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2026-02-03 08:51:37 INFO app_bar.py:103: Bar Created on Screen: \\.\DISPLAY1 [Bar Height: 32px, DPI Scale: 1.25, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1536, Screen Height: 864]
+2026-02-03 08:51:38 INFO event_listener.py:52: Created named pipe yasb-7f3242e4-009a-11f1-8e2e-ffeaf1b3f9fe
+2026-02-03 08:51:38 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-7f3242e4-009a-11f1-8e2e-ffeaf1b3f9fe
+2026-02-03 08:51:38 INFO watcher.py:39: Created file watcher for path C:\Users\Rey Benedict Rico\.config\yasb
+2026-02-03 08:51:38 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-02-03 08:51:38 DEBUG _windows.py:192: Thread started
+2026-02-03 08:51:38 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2026-02-03 09:01:34 INFO weather.py:369: Fetched new weather data at 2026-02-03 09:01:34.444248
+2026-02-03 09:11:34 INFO weather.py:369: Fetched new weather data at 2026-02-03 09:11:34.443301
+2026-02-03 09:21:34 INFO weather.py:369: Fetched new weather data at 2026-02-03 09:21:34.451627
+2026-02-03 09:31:34 INFO weather.py:369: Fetched new weather data at 2026-02-03 09:31:34.441162
+2026-02-03 09:41:34 INFO weather.py:369: Fetched new weather data at 2026-02-03 09:41:34.451737
+2026-02-03 09:51:34 INFO weather.py:369: Fetched new weather data at 2026-02-03 09:51:34.454182
+2026-02-03 10:01:34 INFO weather.py:369: Fetched new weather data at 2026-02-03 10:01:34.449276
+2026-02-03 10:11:34 INFO weather.py:369: Fetched new weather data at 2026-02-03 10:11:34.450873
+2026-02-03 10:21:34 INFO weather.py:369: Fetched new weather data at 2026-02-03 10:21:34.443458
+2026-02-03 10:31:25 DEBUG _windows.py:218: Stopping worker thread...
+2026-02-03 10:31:25 DEBUG _windows.py:201: Exiting thread
+2026-02-03 10:31:25 DEBUG _windows.py:75: Closing
+2026-02-03 17:22:10 INFO log.py:21: Yasb v1.6.6
+2026-02-03 17:22:11 DEBUG win32.py:55: Looking up time zone info from registry
+2026-02-03 17:22:18 INFO weather.py:369: Fetched new weather data at 2026-02-03 17:22:18.225719
+2026-02-03 17:22:20 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2026-02-03 17:22:21 INFO app_bar.py:103: Bar Created on Screen: \\.\DISPLAY1 [Bar Height: 32px, DPI Scale: 1.25, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1536, Screen Height: 864]
+2026-02-03 17:22:22 INFO event_listener.py:52: Created named pipe yasb-d8945983-00e1-11f1-bebc-a40cb65905bf
+2026-02-03 17:22:22 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-d8945983-00e1-11f1-bebc-a40cb65905bf
+2026-02-03 17:22:22 INFO watcher.py:39: Created file watcher for path C:\Users\Rey Benedict Rico\.config\yasb
+2026-02-03 17:22:22 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-02-03 17:22:22 DEBUG _windows.py:192: Thread started
+2026-02-03 17:22:22 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2026-02-03 17:32:18 INFO weather.py:369: Fetched new weather data at 2026-02-03 17:32:18.229919
+2026-02-03 17:42:18 INFO weather.py:369: Fetched new weather data at 2026-02-03 17:42:18.237412
+2026-02-03 17:52:18 INFO weather.py:369: Fetched new weather data at 2026-02-03 17:52:18.230705
+2026-02-03 18:02:18 INFO weather.py:369: Fetched new weather data at 2026-02-03 18:02:18.235968
+2026-02-03 18:12:18 INFO weather.py:369: Fetched new weather data at 2026-02-03 18:12:18.230199
+2026-02-03 18:22:18 INFO weather.py:369: Fetched new weather data at 2026-02-03 18:22:18.230683
+2026-02-03 18:22:39 ERROR weather.py:472: Error fetching weather data: <urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond>
+2026-02-03 18:32:18 INFO weather.py:369: Fetched new weather data at 2026-02-03 18:32:18.238338
+2026-02-03 18:42:18 INFO weather.py:369: Fetched new weather data at 2026-02-03 18:42:18.260483
+2026-02-03 18:52:18 INFO weather.py:369: Fetched new weather data at 2026-02-03 18:52:18.226907
+2026-02-03 19:02:18 INFO weather.py:369: Fetched new weather data at 2026-02-03 19:02:18.231061
+2026-02-03 19:12:18 INFO weather.py:369: Fetched new weather data at 2026-02-03 19:12:18.236424
+2026-02-03 19:22:18 INFO weather.py:369: Fetched new weather data at 2026-02-03 19:22:18.225213
+2026-02-03 19:32:18 INFO weather.py:369: Fetched new weather data at 2026-02-03 19:32:18.228184
+2026-02-03 19:42:18 INFO weather.py:369: Fetched new weather data at 2026-02-03 19:42:18.234484
+2026-02-03 19:52:18 INFO weather.py:369: Fetched new weather data at 2026-02-03 19:52:18.230133
+2026-02-03 20:02:18 INFO weather.py:369: Fetched new weather data at 2026-02-03 20:02:18.223097
+2026-02-03 20:12:18 INFO weather.py:369: Fetched new weather data at 2026-02-03 20:12:18.232614
+2026-02-03 20:22:18 INFO weather.py:369: Fetched new weather data at 2026-02-03 20:22:18.237648
+2026-02-03 20:32:18 INFO weather.py:369: Fetched new weather data at 2026-02-03 20:32:18.230066
+2026-02-03 20:42:18 INFO weather.py:369: Fetched new weather data at 2026-02-03 20:42:18.232703
+2026-02-03 20:52:18 INFO weather.py:369: Fetched new weather data at 2026-02-03 20:52:18.230982
+2026-02-03 21:02:18 INFO weather.py:369: Fetched new weather data at 2026-02-03 21:02:18.224828
+2026-02-03 21:12:18 INFO weather.py:369: Fetched new weather data at 2026-02-03 21:12:18.237362
+2026-02-03 21:22:18 INFO weather.py:369: Fetched new weather data at 2026-02-03 21:22:18.228164
+2026-02-03 21:32:18 INFO weather.py:369: Fetched new weather data at 2026-02-03 21:32:18.225248
+2026-02-03 21:42:18 INFO weather.py:369: Fetched new weather data at 2026-02-03 21:42:18.222692
+2026-02-03 21:52:18 INFO weather.py:369: Fetched new weather data at 2026-02-03 21:52:18.225452
+2026-02-03 22:02:18 INFO weather.py:369: Fetched new weather data at 2026-02-03 22:02:18.224090
+2026-02-03 22:12:18 INFO weather.py:369: Fetched new weather data at 2026-02-03 22:12:18.224338
+2026-02-03 22:22:18 INFO weather.py:369: Fetched new weather data at 2026-02-03 22:22:18.225473
+2026-02-03 22:32:18 INFO weather.py:369: Fetched new weather data at 2026-02-03 22:32:18.237992
+2026-02-03 22:32:39 ERROR weather.py:472: Error fetching weather data: <urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond>
+2026-02-03 22:42:18 INFO weather.py:369: Fetched new weather data at 2026-02-03 22:42:18.223216
+2026-02-03 22:52:18 INFO weather.py:369: Fetched new weather data at 2026-02-03 22:52:18.231549
+2026-02-03 23:02:18 INFO weather.py:369: Fetched new weather data at 2026-02-03 23:02:18.238371
+2026-02-03 23:12:18 INFO weather.py:369: Fetched new weather data at 2026-02-03 23:12:18.243229
+2026-02-04 02:14:13 DEBUG _windows.py:218: Stopping worker thread...
+2026-02-04 02:14:13 DEBUG _windows.py:201: Exiting thread
+2026-02-04 02:14:13 DEBUG _windows.py:75: Closing
+2026-02-04 09:12:05 INFO log.py:21: Yasb v1.6.6
+2026-02-04 09:12:06 DEBUG win32.py:55: Looking up time zone info from registry
+2026-02-04 09:12:12 INFO weather.py:369: Fetched new weather data at 2026-02-04 09:12:12.987540
+2026-02-04 09:12:15 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2026-02-04 09:12:15 INFO app_bar.py:103: Bar Created on Screen: \\.\DISPLAY1 [Bar Height: 32px, DPI Scale: 1.25, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1536, Screen Height: 864]
+2026-02-04 09:12:17 WARNING weather.py:414: Could not load icon http://cdn.weatherapi.com/weather/64x64/day/113.png: <urlopen error timed out>
+2026-02-04 09:12:17 INFO event_listener.py:52: Created named pipe yasb-8be8f653-0166-11f1-bdbf-d6c6da27b882
+2026-02-04 09:12:17 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-8be8f653-0166-11f1-bdbf-d6c6da27b882
+2026-02-04 09:12:17 INFO watcher.py:39: Created file watcher for path C:\Users\Rey Benedict Rico\.config\yasb
+2026-02-04 09:12:17 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-02-04 09:12:17 DEBUG _windows.py:192: Thread started
+2026-02-04 09:12:17 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2026-02-04 09:22:12 INFO weather.py:369: Fetched new weather data at 2026-02-04 09:22:12.986626
+2026-02-04 09:32:12 INFO weather.py:369: Fetched new weather data at 2026-02-04 09:32:12.984721
+2026-02-04 09:42:12 INFO weather.py:369: Fetched new weather data at 2026-02-04 09:42:12.981586
+2026-02-04 09:52:12 INFO weather.py:369: Fetched new weather data at 2026-02-04 09:52:12.993477
+2026-02-04 10:02:12 INFO weather.py:369: Fetched new weather data at 2026-02-04 10:02:12.988476
+2026-02-04 10:12:12 INFO weather.py:369: Fetched new weather data at 2026-02-04 10:12:12.997121
+2026-02-04 10:22:13 INFO weather.py:369: Fetched new weather data at 2026-02-04 10:22:13.001972
+2026-02-04 10:32:13 INFO weather.py:369: Fetched new weather data at 2026-02-04 10:32:13.009271
+2026-02-04 10:42:13 INFO weather.py:369: Fetched new weather data at 2026-02-04 10:42:13.004017
+2026-02-04 10:52:12 INFO weather.py:369: Fetched new weather data at 2026-02-04 10:52:12.998787
+2026-02-04 11:02:13 INFO weather.py:369: Fetched new weather data at 2026-02-04 11:02:13.021087
+2026-02-04 11:12:13 INFO weather.py:369: Fetched new weather data at 2026-02-04 11:12:13.017876
+2026-02-04 11:22:13 INFO weather.py:369: Fetched new weather data at 2026-02-04 11:22:13.021319
+2026-02-04 11:32:13 INFO weather.py:369: Fetched new weather data at 2026-02-04 11:32:13.018446
+2026-02-04 11:42:13 INFO weather.py:369: Fetched new weather data at 2026-02-04 11:42:13.013191
+2026-02-04 11:52:13 INFO weather.py:369: Fetched new weather data at 2026-02-04 11:52:13.015929
+2026-02-04 12:02:13 INFO weather.py:369: Fetched new weather data at 2026-02-04 12:02:13.024914
+2026-02-04 12:12:13 INFO weather.py:369: Fetched new weather data at 2026-02-04 12:12:13.037074
+2026-02-04 12:22:13 INFO weather.py:369: Fetched new weather data at 2026-02-04 12:22:13.016887
+2026-02-04 12:32:13 INFO weather.py:369: Fetched new weather data at 2026-02-04 12:32:13.022021
+2026-02-04 12:42:13 INFO weather.py:369: Fetched new weather data at 2026-02-04 12:42:13.013055
+2026-02-04 12:52:13 INFO weather.py:369: Fetched new weather data at 2026-02-04 12:52:13.025823
+2026-02-04 13:02:13 INFO weather.py:369: Fetched new weather data at 2026-02-04 13:02:13.015768
+2026-02-04 13:12:13 INFO weather.py:369: Fetched new weather data at 2026-02-04 13:12:13.018999
+2026-02-04 13:22:13 INFO weather.py:369: Fetched new weather data at 2026-02-04 13:22:13.023964
+2026-02-04 13:32:13 INFO weather.py:369: Fetched new weather data at 2026-02-04 13:32:13.012198
+2026-02-04 13:42:13 INFO weather.py:369: Fetched new weather data at 2026-02-04 13:42:13.016989
+2026-02-04 13:52:13 INFO weather.py:369: Fetched new weather data at 2026-02-04 13:52:13.025736
+2026-02-04 14:02:13 INFO weather.py:369: Fetched new weather data at 2026-02-04 14:02:13.021878
+2026-02-04 14:12:13 INFO weather.py:369: Fetched new weather data at 2026-02-04 14:12:13.015205
+2026-02-04 14:22:13 INFO weather.py:369: Fetched new weather data at 2026-02-04 14:22:13.021990
+2026-02-04 14:32:13 INFO weather.py:369: Fetched new weather data at 2026-02-04 14:32:13.020226
+2026-02-04 14:42:13 INFO weather.py:369: Fetched new weather data at 2026-02-04 14:42:13.021057
+2026-02-04 14:52:13 INFO weather.py:369: Fetched new weather data at 2026-02-04 14:52:13.028183
+2026-02-04 15:02:13 INFO weather.py:369: Fetched new weather data at 2026-02-04 15:02:13.035096
+2026-02-04 15:12:13 INFO weather.py:369: Fetched new weather data at 2026-02-04 15:12:13.030831
+2026-02-04 15:22:13 INFO weather.py:369: Fetched new weather data at 2026-02-04 15:22:13.041271
+2026-02-04 15:32:13 INFO weather.py:369: Fetched new weather data at 2026-02-04 15:32:13.028572
+2026-02-04 15:42:13 INFO weather.py:369: Fetched new weather data at 2026-02-04 15:42:13.028731
+2026-02-04 15:52:13 INFO weather.py:369: Fetched new weather data at 2026-02-04 15:52:13.052612
+2026-02-04 16:02:13 INFO weather.py:369: Fetched new weather data at 2026-02-04 16:02:13.042811
+2026-02-04 16:12:13 INFO weather.py:369: Fetched new weather data at 2026-02-04 16:12:13.056881
+2026-02-04 16:22:13 INFO weather.py:369: Fetched new weather data at 2026-02-04 16:22:13.049913
+2026-02-04 16:32:13 INFO weather.py:369: Fetched new weather data at 2026-02-04 16:32:13.054429
+2026-02-04 16:42:13 INFO weather.py:369: Fetched new weather data at 2026-02-04 16:42:13.048138
+2026-02-04 16:52:13 INFO weather.py:369: Fetched new weather data at 2026-02-04 16:52:13.048004
+2026-02-04 17:02:13 INFO weather.py:369: Fetched new weather data at 2026-02-04 17:02:13.056719
+2026-02-04 17:12:13 INFO weather.py:369: Fetched new weather data at 2026-02-04 17:12:13.045285
+2026-02-04 17:22:13 INFO weather.py:369: Fetched new weather data at 2026-02-04 17:22:13.044094
+2026-02-04 17:32:13 INFO weather.py:369: Fetched new weather data at 2026-02-04 17:32:13.053122
+2026-02-04 17:42:13 INFO weather.py:369: Fetched new weather data at 2026-02-04 17:42:13.059024
+2026-02-04 17:52:13 INFO weather.py:369: Fetched new weather data at 2026-02-04 17:52:13.061614
+2026-02-04 18:02:13 INFO weather.py:369: Fetched new weather data at 2026-02-04 18:02:13.052368
+2026-02-04 18:12:13 INFO weather.py:369: Fetched new weather data at 2026-02-04 18:12:13.050283
+2026-02-04 18:22:13 INFO weather.py:369: Fetched new weather data at 2026-02-04 18:22:13.051474
+2026-02-04 18:32:13 INFO weather.py:369: Fetched new weather data at 2026-02-04 18:32:13.061603
+2026-02-04 18:42:13 INFO weather.py:369: Fetched new weather data at 2026-02-04 18:42:13.063175
+2026-02-04 18:52:13 INFO weather.py:369: Fetched new weather data at 2026-02-04 18:52:13.070250
+2026-02-04 19:02:13 INFO weather.py:369: Fetched new weather data at 2026-02-04 19:02:13.061028
+2026-02-04 19:12:13 INFO weather.py:369: Fetched new weather data at 2026-02-04 19:12:13.071999
+2026-02-04 19:22:13 INFO weather.py:369: Fetched new weather data at 2026-02-04 19:22:13.059589
+2026-02-04 19:32:13 INFO weather.py:369: Fetched new weather data at 2026-02-04 19:32:13.074643
+2026-02-04 19:32:56 ERROR weather.py:472: Error fetching weather data: <urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond>
+2026-02-04 19:42:13 INFO weather.py:369: Fetched new weather data at 2026-02-04 19:42:13.080350
+2026-02-04 19:52:13 INFO weather.py:369: Fetched new weather data at 2026-02-04 19:52:13.086889
+2026-02-04 20:02:13 INFO weather.py:369: Fetched new weather data at 2026-02-04 20:02:13.089401
+2026-02-04 20:12:13 INFO weather.py:369: Fetched new weather data at 2026-02-04 20:12:13.078042
+2026-02-04 20:22:13 INFO weather.py:369: Fetched new weather data at 2026-02-04 20:22:13.084968
+2026-02-04 20:32:13 INFO weather.py:369: Fetched new weather data at 2026-02-04 20:32:13.088096
+2026-02-04 20:42:13 INFO weather.py:369: Fetched new weather data at 2026-02-04 20:42:13.080876
+2026-02-04 20:52:13 INFO weather.py:369: Fetched new weather data at 2026-02-04 20:52:13.076792
+2026-02-04 21:02:13 INFO weather.py:369: Fetched new weather data at 2026-02-04 21:02:13.081341
+2026-02-04 21:12:13 INFO weather.py:369: Fetched new weather data at 2026-02-04 21:12:13.075987
+2026-02-04 21:22:13 INFO weather.py:369: Fetched new weather data at 2026-02-04 21:22:13.084760
+2026-02-04 21:32:13 INFO weather.py:369: Fetched new weather data at 2026-02-04 21:32:13.087907
+2026-02-04 21:42:13 INFO weather.py:369: Fetched new weather data at 2026-02-04 21:42:13.081601
+2026-02-04 21:52:13 INFO weather.py:369: Fetched new weather data at 2026-02-04 21:52:13.077324
+2026-02-04 22:02:13 INFO weather.py:369: Fetched new weather data at 2026-02-04 22:02:13.080080
+2026-02-04 22:12:13 INFO weather.py:369: Fetched new weather data at 2026-02-04 22:12:13.078342
+2026-02-04 22:22:13 INFO weather.py:369: Fetched new weather data at 2026-02-04 22:22:13.083599
+2026-02-04 22:32:13 INFO weather.py:369: Fetched new weather data at 2026-02-04 22:32:13.077856
+2026-02-04 22:42:13 INFO weather.py:369: Fetched new weather data at 2026-02-04 22:42:13.088407
+2026-02-04 22:52:13 INFO weather.py:369: Fetched new weather data at 2026-02-04 22:52:13.089353
+2026-02-04 23:02:13 INFO weather.py:369: Fetched new weather data at 2026-02-04 23:02:13.089709
+2026-02-04 23:12:13 INFO weather.py:369: Fetched new weather data at 2026-02-04 23:12:13.077120
+2026-02-04 23:22:13 INFO weather.py:369: Fetched new weather data at 2026-02-04 23:22:13.077174
+2026-02-04 23:32:13 INFO weather.py:369: Fetched new weather data at 2026-02-04 23:32:13.080463
+2026-02-04 23:45:07 INFO weather.py:369: Fetched new weather data at 2026-02-04 23:45:07.731656
+2026-02-04 23:55:07 INFO weather.py:369: Fetched new weather data at 2026-02-04 23:55:07.736048
+2026-02-05 00:05:07 INFO weather.py:369: Fetched new weather data at 2026-02-05 00:05:07.741620
+2026-02-05 00:15:07 INFO weather.py:369: Fetched new weather data at 2026-02-05 00:15:07.732446
+2026-02-05 00:25:07 INFO weather.py:369: Fetched new weather data at 2026-02-05 00:25:07.731023
+2026-02-05 00:34:05 DEBUG _windows.py:218: Stopping worker thread...
+2026-02-05 00:34:06 DEBUG _windows.py:201: Exiting thread
+2026-02-05 00:34:06 DEBUG _windows.py:75: Closing
+2026-02-05 09:09:56 INFO log.py:21: Yasb v1.6.6
+2026-02-05 09:09:57 DEBUG win32.py:55: Looking up time zone info from registry
+2026-02-05 09:10:04 INFO weather.py:369: Fetched new weather data at 2026-02-05 09:10:04.507653
+2026-02-05 09:10:06 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2026-02-05 09:10:07 INFO app_bar.py:103: Bar Created on Screen: \\.\DISPLAY1 [Bar Height: 32px, DPI Scale: 1.25, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1536, Screen Height: 864]
+2026-02-05 09:10:09 INFO event_listener.py:52: Created named pipe yasb-6a21eb04-022f-11f1-bcdb-e5cd97901d06
+2026-02-05 09:10:09 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-6a21eb04-022f-11f1-bcdb-e5cd97901d06
+2026-02-05 09:10:09 INFO watcher.py:39: Created file watcher for path C:\Users\Rey Benedict Rico\.config\yasb
+2026-02-05 09:10:09 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-02-05 09:10:09 DEBUG _windows.py:192: Thread started
+2026-02-05 09:10:09 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2026-02-05 09:20:04 INFO weather.py:369: Fetched new weather data at 2026-02-05 09:20:04.505170
+2026-02-05 09:30:04 INFO weather.py:369: Fetched new weather data at 2026-02-05 09:30:04.501628
+2026-02-05 09:40:04 INFO weather.py:369: Fetched new weather data at 2026-02-05 09:40:04.510825
+2026-02-05 09:50:04 INFO weather.py:369: Fetched new weather data at 2026-02-05 09:50:04.514185
+2026-02-05 10:00:04 INFO weather.py:369: Fetched new weather data at 2026-02-05 10:00:04.504801
+2026-02-05 10:00:16 ERROR weather.py:472: Error fetching weather data: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-02-05 10:09:14 DEBUG _windows.py:218: Stopping worker thread...
+2026-02-05 10:09:14 DEBUG _windows.py:201: Exiting thread
+2026-02-05 10:09:14 DEBUG _windows.py:75: Closing
+2026-02-05 13:35:01 INFO log.py:21: Yasb v1.6.6
+2026-02-05 13:35:02 DEBUG win32.py:55: Looking up time zone info from registry
+2026-02-05 13:35:09 INFO weather.py:369: Fetched new weather data at 2026-02-05 13:35:09.343226
+2026-02-05 13:35:11 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2026-02-05 13:35:11 INFO app_bar.py:103: Bar Created on Screen: \\.\DISPLAY1 [Bar Height: 32px, DPI Scale: 1.25, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1536, Screen Height: 864]
+2026-02-05 13:35:13 INFO event_listener.py:52: Created named pipe yasb-71d7f2fc-0254-11f1-a419-e3893a27809c
+2026-02-05 13:35:13 WARNING weather.py:414: Could not load icon http://cdn.weatherapi.com/weather/64x64/day/176.png: <urlopen error timed out>
+2026-02-05 13:35:13 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-71d7f2fc-0254-11f1-a419-e3893a27809c
+2026-02-05 13:35:13 INFO watcher.py:39: Created file watcher for path C:\Users\Rey Benedict Rico\.config\yasb
+2026-02-05 13:35:13 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-02-05 13:35:13 DEBUG _windows.py:192: Thread started
+2026-02-05 13:35:13 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2026-02-05 13:45:09 INFO weather.py:369: Fetched new weather data at 2026-02-05 13:45:09.337351
+2026-02-05 13:55:09 INFO weather.py:369: Fetched new weather data at 2026-02-05 13:55:09.334605
+2026-02-05 14:05:09 INFO weather.py:369: Fetched new weather data at 2026-02-05 14:05:09.344353
+2026-02-05 14:15:09 INFO weather.py:369: Fetched new weather data at 2026-02-05 14:15:09.334626
+2026-02-05 14:25:09 INFO weather.py:369: Fetched new weather data at 2026-02-05 14:25:09.350883
+2026-02-05 14:35:09 INFO weather.py:369: Fetched new weather data at 2026-02-05 14:35:09.355467
+2026-02-05 14:45:09 INFO weather.py:369: Fetched new weather data at 2026-02-05 14:45:09.351661
+2026-02-05 14:55:09 INFO weather.py:369: Fetched new weather data at 2026-02-05 14:55:09.356658
+2026-02-05 15:05:09 INFO weather.py:369: Fetched new weather data at 2026-02-05 15:05:09.360911
+2026-02-05 15:15:09 INFO weather.py:369: Fetched new weather data at 2026-02-05 15:15:09.358128
+2026-02-05 16:12:46 INFO weather.py:369: Fetched new weather data at 2026-02-05 16:12:46.027140
+2026-02-05 16:13:07 ERROR weather.py:472: Error fetching weather data: <urlopen error [WinError 10051] A socket operation was attempted to an unreachable network>
+2026-02-05 16:36:10 INFO weather.py:369: Fetched new weather data at 2026-02-05 16:36:10.221764
+2026-02-05 16:46:10 INFO weather.py:369: Fetched new weather data at 2026-02-05 16:46:10.234809
+2026-02-05 16:56:10 INFO weather.py:369: Fetched new weather data at 2026-02-05 16:56:10.229000
+2026-02-05 17:06:10 INFO weather.py:369: Fetched new weather data at 2026-02-05 17:06:10.232490
+2026-02-05 17:16:10 INFO weather.py:369: Fetched new weather data at 2026-02-05 17:16:10.233716
+2026-02-05 17:26:10 INFO weather.py:369: Fetched new weather data at 2026-02-05 17:26:10.236765
+2026-02-05 17:36:10 INFO weather.py:369: Fetched new weather data at 2026-02-05 17:36:10.226274
+2026-02-05 17:46:10 INFO weather.py:369: Fetched new weather data at 2026-02-05 17:46:10.243317
+2026-02-05 17:56:10 INFO weather.py:369: Fetched new weather data at 2026-02-05 17:56:10.254204
+2026-02-05 18:06:10 INFO weather.py:369: Fetched new weather data at 2026-02-05 18:06:10.263641
+2026-02-05 18:16:10 INFO weather.py:369: Fetched new weather data at 2026-02-05 18:16:10.259528
+2026-02-05 18:26:10 INFO weather.py:369: Fetched new weather data at 2026-02-05 18:26:10.263533
+2026-02-05 18:36:10 INFO weather.py:369: Fetched new weather data at 2026-02-05 18:36:10.265303
+2026-02-05 18:46:10 INFO weather.py:369: Fetched new weather data at 2026-02-05 18:46:10.255647
+2026-02-05 18:56:10 INFO weather.py:369: Fetched new weather data at 2026-02-05 18:56:10.261034
+2026-02-05 19:06:10 INFO weather.py:369: Fetched new weather data at 2026-02-05 19:06:10.256305
+2026-02-05 19:16:10 INFO weather.py:369: Fetched new weather data at 2026-02-05 19:16:10.260201
+2026-02-05 19:26:10 INFO weather.py:369: Fetched new weather data at 2026-02-05 19:26:10.252815
+2026-02-05 19:36:10 INFO weather.py:369: Fetched new weather data at 2026-02-05 19:36:10.254203
+2026-02-05 19:46:10 INFO weather.py:369: Fetched new weather data at 2026-02-05 19:46:10.264330
+2026-02-05 19:56:10 INFO weather.py:369: Fetched new weather data at 2026-02-05 19:56:10.262020
+2026-02-05 20:06:10 INFO weather.py:369: Fetched new weather data at 2026-02-05 20:06:10.260945
+2026-02-05 20:16:10 INFO weather.py:369: Fetched new weather data at 2026-02-05 20:16:10.259737
+2026-02-05 20:26:10 INFO weather.py:369: Fetched new weather data at 2026-02-05 20:26:10.264907
+2026-02-05 20:36:10 INFO weather.py:369: Fetched new weather data at 2026-02-05 20:36:10.262917
+2026-02-05 20:46:10 INFO weather.py:369: Fetched new weather data at 2026-02-05 20:46:10.269059
+2026-02-05 20:46:31 ERROR weather.py:472: Error fetching weather data: <urlopen error [WinError 10051] A socket operation was attempted to an unreachable network>
+2026-02-05 20:56:10 INFO weather.py:369: Fetched new weather data at 2026-02-05 20:56:10.267292
+2026-02-05 21:06:10 INFO weather.py:369: Fetched new weather data at 2026-02-05 21:06:10.259261
+2026-02-05 21:16:10 INFO weather.py:369: Fetched new weather data at 2026-02-05 21:16:10.253932
+2026-02-05 21:26:10 INFO weather.py:369: Fetched new weather data at 2026-02-05 21:26:10.265625
+2026-02-05 21:36:10 INFO weather.py:369: Fetched new weather data at 2026-02-05 21:36:10.254777
+2026-02-05 21:46:10 INFO weather.py:369: Fetched new weather data at 2026-02-05 21:46:10.259303
+2026-02-05 21:56:10 INFO weather.py:369: Fetched new weather data at 2026-02-05 21:56:10.261569
+2026-02-05 22:06:10 INFO weather.py:369: Fetched new weather data at 2026-02-05 22:06:10.263149
+2026-02-05 22:16:10 INFO weather.py:369: Fetched new weather data at 2026-02-05 22:16:10.263690
+2026-02-05 22:26:10 INFO weather.py:369: Fetched new weather data at 2026-02-05 22:26:10.257144
+2026-02-05 22:36:10 INFO weather.py:369: Fetched new weather data at 2026-02-05 22:36:10.260411
+2026-02-05 22:46:10 INFO weather.py:369: Fetched new weather data at 2026-02-05 22:46:10.267114
+2026-02-05 22:46:31 ERROR weather.py:472: Error fetching weather data: <urlopen error [WinError 10051] A socket operation was attempted to an unreachable network>
+2026-02-05 22:56:10 INFO weather.py:369: Fetched new weather data at 2026-02-05 22:56:10.258879
+2026-02-05 23:06:10 INFO weather.py:369: Fetched new weather data at 2026-02-05 23:06:10.255158
+2026-02-05 23:16:10 INFO weather.py:369: Fetched new weather data at 2026-02-05 23:16:10.253087
+2026-02-05 23:26:10 INFO weather.py:369: Fetched new weather data at 2026-02-05 23:26:10.264911
+2026-02-05 23:36:10 INFO weather.py:369: Fetched new weather data at 2026-02-05 23:36:10.256617
+2026-02-05 23:50:51 INFO weather.py:369: Fetched new weather data at 2026-02-05 23:50:51.167286
+2026-02-06 00:00:51 INFO weather.py:369: Fetched new weather data at 2026-02-06 00:00:51.170264
+2026-02-06 00:10:51 INFO weather.py:369: Fetched new weather data at 2026-02-06 00:10:51.166818
+2026-02-06 00:20:51 INFO weather.py:369: Fetched new weather data at 2026-02-06 00:20:51.167371
+2026-02-06 00:30:51 INFO weather.py:369: Fetched new weather data at 2026-02-06 00:30:51.165290
+2026-02-06 00:40:51 INFO weather.py:369: Fetched new weather data at 2026-02-06 00:40:51.164355
+2026-02-06 00:50:51 INFO weather.py:369: Fetched new weather data at 2026-02-06 00:50:51.176306
+2026-02-06 01:00:51 INFO weather.py:369: Fetched new weather data at 2026-02-06 01:00:51.178404
+2026-02-06 01:10:51 INFO weather.py:369: Fetched new weather data at 2026-02-06 01:10:51.176469
+2026-02-06 01:20:51 INFO weather.py:369: Fetched new weather data at 2026-02-06 01:20:51.186294
+2026-02-06 01:30:51 INFO weather.py:369: Fetched new weather data at 2026-02-06 01:30:51.176586
+2026-02-06 01:40:51 INFO weather.py:369: Fetched new weather data at 2026-02-06 01:40:51.187510
+2026-02-06 01:50:51 INFO weather.py:369: Fetched new weather data at 2026-02-06 01:50:51.186889
+2026-02-06 02:00:46 DEBUG _windows.py:218: Stopping worker thread...
+2026-02-06 02:00:46 DEBUG _windows.py:201: Exiting thread
+2026-02-06 02:00:46 DEBUG _windows.py:75: Closing
+2026-02-06 09:48:30 INFO log.py:21: Yasb v1.6.6
+2026-02-06 09:48:31 DEBUG win32.py:55: Looking up time zone info from registry
+2026-02-06 09:48:37 INFO weather.py:369: Fetched new weather data at 2026-02-06 09:48:37.983891
+2026-02-06 09:48:40 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2026-02-06 09:48:40 INFO app_bar.py:103: Bar Created on Screen: \\.\DISPLAY1 [Bar Height: 32px, DPI Scale: 1.25, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1536, Screen Height: 864]
+2026-02-06 09:48:42 INFO event_listener.py:52: Created named pipe yasb-f72f5abb-02fd-11f1-8d1c-f1a51cc2139f
+2026-02-06 09:48:42 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-f72f5abb-02fd-11f1-8d1c-f1a51cc2139f
+2026-02-06 09:48:42 INFO watcher.py:39: Created file watcher for path C:\Users\Rey Benedict Rico\.config\yasb
+2026-02-06 09:48:42 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-02-06 09:48:42 DEBUG _windows.py:192: Thread started
+2026-02-06 09:48:42 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2026-02-06 10:43:14 DEBUG _windows.py:218: Stopping worker thread...
+2026-02-06 10:43:15 DEBUG _windows.py:201: Exiting thread
+2026-02-06 10:43:15 DEBUG _windows.py:75: Closing
+2026-02-06 10:43:15 ERROR event_service.py:30: Failed to emit signal <bound PYQT_SIGNAL foreground_change of ActiveWindowWidget object at 0x000002713BEB4AF0>. Removing link to WinEvent.EventSystemForeground.
+2026-02-06 16:43:51 INFO log.py:21: Yasb v1.6.6
+2026-02-06 16:43:52 DEBUG win32.py:55: Looking up time zone info from registry
+2026-02-06 16:43:56 INFO weather.py:369: Fetched new weather data at 2026-02-06 16:43:56.761667
+2026-02-06 16:43:57 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2026-02-06 16:43:58 INFO app_bar.py:103: Bar Created on Screen: \\.\DISPLAY1 [Bar Height: 32px, DPI Scale: 1.25, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1536, Screen Height: 864]
+2026-02-06 16:43:59 INFO event_listener.py:52: Created named pipe yasb-fb06cddf-0337-11f1-955b-e575742bb5b3
+2026-02-06 16:43:59 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-fb06cddf-0337-11f1-955b-e575742bb5b3
+2026-02-06 16:43:59 INFO watcher.py:39: Created file watcher for path C:\Users\Rey Benedict Rico\.config\yasb
+2026-02-06 16:43:59 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-02-06 16:43:59 DEBUG _windows.py:192: Thread started
+2026-02-06 16:43:59 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2026-02-06 16:45:23 WARNING weather.py:414: Could not load icon http://cdn.weatherapi.com/weather/64x64/day/116.png: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-02-06 16:45:23 WARNING weather.py:414: Could not load icon http://cdn.weatherapi.com/weather/64x64/day/176.png: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-02-06 16:45:23 WARNING weather.py:414: Could not load icon http://cdn.weatherapi.com/weather/64x64/day/176.png: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-02-06 16:53:56 INFO weather.py:369: Fetched new weather data at 2026-02-06 16:53:56.751861
+2026-02-06 16:54:09 WARNING weather.py:414: Could not load icon http://cdn.weatherapi.com/weather/64x64/day/116.png: <urlopen error timed out>
+2026-02-06 16:54:10 WARNING weather.py:414: Could not load icon http://cdn.weatherapi.com/weather/64x64/day/176.png: <urlopen error timed out>
+2026-02-06 16:54:11 WARNING weather.py:414: Could not load icon http://cdn.weatherapi.com/weather/64x64/day/176.png: <urlopen error timed out>
+2026-02-06 17:03:56 INFO weather.py:369: Fetched new weather data at 2026-02-06 17:03:56.749560
+2026-02-06 17:13:56 INFO weather.py:369: Fetched new weather data at 2026-02-06 17:13:56.752674
+2026-02-06 17:14:17 ERROR weather.py:472: Error fetching weather data: <urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond>
+2026-02-06 17:23:56 INFO weather.py:369: Fetched new weather data at 2026-02-06 17:23:56.750370
+2026-02-06 17:33:56 INFO weather.py:369: Fetched new weather data at 2026-02-06 17:33:56.757080
+2026-02-06 17:43:56 INFO weather.py:369: Fetched new weather data at 2026-02-06 17:43:56.754122
+2026-02-06 17:53:46 DEBUG _windows.py:218: Stopping worker thread...
+2026-02-06 17:53:46 DEBUG _windows.py:201: Exiting thread
+2026-02-06 17:53:46 DEBUG _windows.py:75: Closing
+2026-02-06 18:55:55 INFO log.py:21: Yasb v1.6.6
+2026-02-06 18:55:56 DEBUG win32.py:55: Looking up time zone info from registry
+2026-02-06 18:56:03 INFO weather.py:369: Fetched new weather data at 2026-02-06 18:56:03.114393
+2026-02-06 18:56:04 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2026-02-06 18:56:05 INFO app_bar.py:103: Bar Created on Screen: \\.\DISPLAY1 [Bar Height: 32px, DPI Scale: 1.25, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1536, Screen Height: 864]
+2026-02-06 18:56:06 INFO event_listener.py:52: Created named pipe yasb-6fde488b-034a-11f1-9496-a3d903c1e2a9
+2026-02-06 18:56:06 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-6fde488b-034a-11f1-9496-a3d903c1e2a9
+2026-02-06 18:56:06 INFO watcher.py:39: Created file watcher for path C:\Users\Rey Benedict Rico\.config\yasb
+2026-02-06 18:56:06 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-02-06 18:56:06 DEBUG _windows.py:192: Thread started
+2026-02-06 18:56:06 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2026-02-06 19:06:03 INFO weather.py:369: Fetched new weather data at 2026-02-06 19:06:03.112429
+2026-02-06 19:16:03 INFO weather.py:369: Fetched new weather data at 2026-02-06 19:16:03.122083
+2026-02-06 19:26:03 INFO weather.py:369: Fetched new weather data at 2026-02-06 19:26:03.121621
+2026-02-06 19:36:03 INFO weather.py:369: Fetched new weather data at 2026-02-06 19:36:03.119570
+2026-02-06 19:46:03 INFO weather.py:369: Fetched new weather data at 2026-02-06 19:46:03.118534
+2026-02-06 19:56:03 INFO weather.py:369: Fetched new weather data at 2026-02-06 19:56:03.117536
+2026-02-06 20:06:03 INFO weather.py:369: Fetched new weather data at 2026-02-06 20:06:03.126475
+2026-02-06 20:16:03 INFO weather.py:369: Fetched new weather data at 2026-02-06 20:16:03.121265
+2026-02-06 20:16:24 ERROR weather.py:472: Error fetching weather data: <urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond>
+2026-02-06 20:26:03 INFO weather.py:369: Fetched new weather data at 2026-02-06 20:26:03.116695
+2026-02-06 20:36:03 INFO weather.py:369: Fetched new weather data at 2026-02-06 20:36:03.128422
+2026-02-06 20:46:03 INFO weather.py:369: Fetched new weather data at 2026-02-06 20:46:03.138987
+2026-02-06 20:56:03 INFO weather.py:369: Fetched new weather data at 2026-02-06 20:56:03.139251
+2026-02-06 21:06:03 INFO weather.py:369: Fetched new weather data at 2026-02-06 21:06:03.138536
+2026-02-06 21:16:03 INFO weather.py:369: Fetched new weather data at 2026-02-06 21:16:03.138851
+2026-02-06 21:26:03 INFO weather.py:369: Fetched new weather data at 2026-02-06 21:26:03.130919
+2026-02-06 21:36:03 INFO weather.py:369: Fetched new weather data at 2026-02-06 21:36:03.138437
+2026-02-06 21:46:03 INFO weather.py:369: Fetched new weather data at 2026-02-06 21:46:03.133104
+2026-02-06 21:56:03 INFO weather.py:369: Fetched new weather data at 2026-02-06 21:56:03.131022
+2026-02-06 22:06:03 INFO weather.py:369: Fetched new weather data at 2026-02-06 22:06:03.129519
+2026-02-06 22:16:03 INFO weather.py:369: Fetched new weather data at 2026-02-06 22:16:03.128257
+2026-02-06 22:26:03 INFO weather.py:369: Fetched new weather data at 2026-02-06 22:26:03.138859
+2026-02-06 22:36:03 INFO weather.py:369: Fetched new weather data at 2026-02-06 22:36:03.128684
+2026-02-06 22:46:03 INFO weather.py:369: Fetched new weather data at 2026-02-06 22:46:03.142136
+2026-02-06 22:56:03 INFO weather.py:369: Fetched new weather data at 2026-02-06 22:56:03.131329
+2026-02-06 23:06:03 INFO weather.py:369: Fetched new weather data at 2026-02-06 23:06:03.135841
+2026-02-06 23:16:03 INFO weather.py:369: Fetched new weather data at 2026-02-06 23:16:03.132468
+2026-02-06 23:26:03 INFO weather.py:369: Fetched new weather data at 2026-02-06 23:26:03.137885
+2026-02-06 23:36:03 INFO weather.py:369: Fetched new weather data at 2026-02-06 23:36:03.134426
+2026-02-06 23:46:03 INFO weather.py:369: Fetched new weather data at 2026-02-06 23:46:03.135324
+2026-02-06 23:56:03 INFO weather.py:369: Fetched new weather data at 2026-02-06 23:56:03.139448
+2026-02-07 00:06:03 INFO weather.py:369: Fetched new weather data at 2026-02-07 00:06:03.140979
+2026-02-07 00:16:03 INFO weather.py:369: Fetched new weather data at 2026-02-07 00:16:03.142512
+2026-02-07 00:26:03 INFO weather.py:369: Fetched new weather data at 2026-02-07 00:26:03.141551
+2026-02-07 01:34:04 INFO weather.py:369: Fetched new weather data at 2026-02-07 01:34:04.970091
+2026-02-07 01:44:04 INFO weather.py:369: Fetched new weather data at 2026-02-07 01:44:04.962890
+2026-02-07 01:54:04 INFO weather.py:369: Fetched new weather data at 2026-02-07 01:54:04.960372
+2026-02-07 02:04:04 INFO weather.py:369: Fetched new weather data at 2026-02-07 02:04:04.971806
+2026-02-07 02:10:09 DEBUG _windows.py:218: Stopping worker thread...
+2026-02-07 02:10:09 DEBUG _windows.py:201: Exiting thread
+2026-02-07 02:10:09 DEBUG _windows.py:75: Closing
+2026-02-07 08:57:00 INFO log.py:21: Yasb v1.6.6
+2026-02-07 08:57:01 DEBUG win32.py:55: Looking up time zone info from registry
+2026-02-07 08:57:06 INFO weather.py:369: Fetched new weather data at 2026-02-07 08:57:06.801094
+2026-02-07 08:57:08 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2026-02-07 08:57:08 INFO app_bar.py:103: Bar Created on Screen: \\.\DISPLAY1 [Bar Height: 32px, DPI Scale: 1.25, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1536, Screen Height: 864]
+2026-02-07 08:57:09 INFO event_listener.py:52: Created named pipe yasb-ee4ccbc5-03bf-11f1-ab95-d4504e1e10f4
+2026-02-07 08:57:09 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-ee4ccbc5-03bf-11f1-ab95-d4504e1e10f4
+2026-02-07 08:57:09 INFO watcher.py:39: Created file watcher for path C:\Users\Rey Benedict Rico\.config\yasb
+2026-02-07 08:57:09 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-02-07 08:57:09 DEBUG _windows.py:192: Thread started
+2026-02-07 08:57:09 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2026-02-07 09:07:06 INFO weather.py:369: Fetched new weather data at 2026-02-07 09:07:06.815806
+2026-02-07 09:17:06 INFO weather.py:369: Fetched new weather data at 2026-02-07 09:17:06.914452
+2026-02-07 09:27:06 INFO weather.py:369: Fetched new weather data at 2026-02-07 09:27:06.801106
+2026-02-07 09:37:06 INFO weather.py:369: Fetched new weather data at 2026-02-07 09:37:06.813151
+2026-02-07 09:47:06 INFO weather.py:369: Fetched new weather data at 2026-02-07 09:47:06.810433
+2026-02-07 09:57:06 INFO weather.py:369: Fetched new weather data at 2026-02-07 09:57:06.801464
+2026-02-07 10:07:06 INFO weather.py:369: Fetched new weather data at 2026-02-07 10:07:06.804695
+2026-02-07 10:17:06 INFO weather.py:369: Fetched new weather data at 2026-02-07 10:17:06.800005
+2026-02-07 10:27:06 INFO weather.py:369: Fetched new weather data at 2026-02-07 10:27:06.806135
+2026-02-07 10:37:06 INFO weather.py:369: Fetched new weather data at 2026-02-07 10:37:06.803277
+2026-02-07 10:47:06 INFO weather.py:369: Fetched new weather data at 2026-02-07 10:47:06.814946
+2026-02-07 10:57:06 INFO weather.py:369: Fetched new weather data at 2026-02-07 10:57:06.807472
+2026-02-07 11:07:06 INFO weather.py:369: Fetched new weather data at 2026-02-07 11:07:06.806458
+2026-02-07 11:17:06 INFO weather.py:369: Fetched new weather data at 2026-02-07 11:17:06.813095
+2026-02-07 11:27:06 INFO weather.py:369: Fetched new weather data at 2026-02-07 11:27:06.802957
+2026-02-07 11:37:06 INFO weather.py:369: Fetched new weather data at 2026-02-07 11:37:06.805612
+2026-02-07 11:47:06 INFO weather.py:369: Fetched new weather data at 2026-02-07 11:47:06.802910
+2026-02-07 11:57:06 INFO weather.py:369: Fetched new weather data at 2026-02-07 11:57:06.802359
+2026-02-07 12:07:06 INFO weather.py:369: Fetched new weather data at 2026-02-07 12:07:06.802868
+2026-02-07 12:17:06 INFO weather.py:369: Fetched new weather data at 2026-02-07 12:17:06.808572
+2026-02-07 12:27:06 INFO weather.py:369: Fetched new weather data at 2026-02-07 12:27:06.815609
+2026-02-07 12:37:06 INFO weather.py:369: Fetched new weather data at 2026-02-07 12:37:06.800038
+2026-02-07 12:47:06 INFO weather.py:369: Fetched new weather data at 2026-02-07 12:47:06.814629
+2026-02-07 12:57:06 INFO weather.py:369: Fetched new weather data at 2026-02-07 12:57:06.820840
+2026-02-07 13:07:06 INFO weather.py:369: Fetched new weather data at 2026-02-07 13:07:06.814102
+2026-02-07 13:17:06 INFO weather.py:369: Fetched new weather data at 2026-02-07 13:17:06.804505
+2026-02-07 13:27:06 INFO weather.py:369: Fetched new weather data at 2026-02-07 13:27:06.808414
+2026-02-07 13:37:06 INFO weather.py:369: Fetched new weather data at 2026-02-07 13:37:06.807102
+2026-02-07 13:47:06 INFO weather.py:369: Fetched new weather data at 2026-02-07 13:47:06.806470
+2026-02-07 13:57:06 INFO weather.py:369: Fetched new weather data at 2026-02-07 13:57:06.810088
+2026-02-07 14:07:06 INFO weather.py:369: Fetched new weather data at 2026-02-07 14:07:06.801764
+2026-02-07 14:07:27 ERROR weather.py:472: Error fetching weather data: <urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond>
+2026-02-07 14:17:06 INFO weather.py:369: Fetched new weather data at 2026-02-07 14:17:06.804447
+2026-02-07 14:27:06 INFO weather.py:369: Fetched new weather data at 2026-02-07 14:27:06.809076
+2026-02-07 14:37:06 INFO weather.py:369: Fetched new weather data at 2026-02-07 14:37:06.805478
+2026-02-07 14:47:06 INFO weather.py:369: Fetched new weather data at 2026-02-07 14:47:06.808808
+2026-02-07 14:57:06 INFO weather.py:369: Fetched new weather data at 2026-02-07 14:57:06.810637
+2026-02-07 15:07:06 INFO weather.py:369: Fetched new weather data at 2026-02-07 15:07:06.803011
+2026-02-07 15:17:06 INFO weather.py:369: Fetched new weather data at 2026-02-07 15:17:06.810902
+2026-02-07 15:27:06 INFO weather.py:369: Fetched new weather data at 2026-02-07 15:27:06.808545
+2026-02-07 15:37:06 INFO weather.py:369: Fetched new weather data at 2026-02-07 15:37:06.803117
+2026-02-07 15:47:06 INFO weather.py:369: Fetched new weather data at 2026-02-07 15:47:06.805743
+2026-02-07 15:57:06 INFO weather.py:369: Fetched new weather data at 2026-02-07 15:57:06.807237
+2026-02-07 16:07:06 INFO weather.py:369: Fetched new weather data at 2026-02-07 16:07:06.807306
+2026-02-07 16:17:06 INFO weather.py:369: Fetched new weather data at 2026-02-07 16:17:06.813134
+2026-02-07 16:21:01 DEBUG _windows.py:218: Stopping worker thread...
+2026-02-07 16:21:01 DEBUG _windows.py:201: Exiting thread
+2026-02-07 16:21:01 DEBUG _windows.py:75: Closing
+2026-02-08 09:18:46 INFO log.py:21: Yasb v1.6.6
+2026-02-08 09:18:47 DEBUG win32.py:55: Looking up time zone info from registry
+2026-02-08 09:18:53 INFO weather.py:369: Fetched new weather data at 2026-02-08 09:18:53.611565
+2026-02-08 09:18:55 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2026-02-08 09:18:56 INFO app_bar.py:103: Bar Created on Screen: \\.\DISPLAY1 [Bar Height: 32px, DPI Scale: 1.25, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1536, Screen Height: 864]
+2026-02-08 09:18:57 INFO event_listener.py:52: Created named pipe yasb-242dff88-048c-11f1-8710-d26b4ccb94e4
+2026-02-08 09:18:57 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-242dff88-048c-11f1-8710-d26b4ccb94e4
+2026-02-08 09:18:57 INFO watcher.py:39: Created file watcher for path C:\Users\Rey Benedict Rico\.config\yasb
+2026-02-08 09:18:57 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-02-08 09:18:57 DEBUG _windows.py:192: Thread started
+2026-02-08 09:18:57 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2026-02-08 09:28:53 INFO weather.py:369: Fetched new weather data at 2026-02-08 09:28:53.616359
+2026-02-08 09:36:13 DEBUG _windows.py:218: Stopping worker thread...
+2026-02-08 09:36:13 DEBUG _windows.py:201: Exiting thread
+2026-02-08 09:36:13 DEBUG _windows.py:75: Closing
+2026-02-08 15:13:26 INFO log.py:21: Yasb v1.6.6
+2026-02-08 15:13:28 DEBUG win32.py:55: Looking up time zone info from registry
+2026-02-08 15:13:36 INFO weather.py:369: Fetched new weather data at 2026-02-08 15:13:36.324490
+2026-02-08 15:13:38 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2026-02-08 15:13:39 INFO app_bar.py:103: Bar Created on Screen: \\.\DISPLAY1 [Bar Height: 32px, DPI Scale: 1.25, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1536, Screen Height: 864]
+2026-02-08 15:13:40 INFO event_listener.py:52: Created named pipe yasb-b1fb55ad-04bd-11f1-ae7b-fcc0bc30535f
+2026-02-08 15:13:40 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-b1fb55ad-04bd-11f1-ae7b-fcc0bc30535f
+2026-02-08 15:13:40 INFO watcher.py:39: Created file watcher for path C:\Users\Rey Benedict Rico\.config\yasb
+2026-02-08 15:13:40 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-02-08 15:13:40 DEBUG _windows.py:192: Thread started
+2026-02-08 15:13:40 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2026-02-08 15:23:36 INFO weather.py:369: Fetched new weather data at 2026-02-08 15:23:36.315198
+2026-02-08 15:33:36 INFO weather.py:369: Fetched new weather data at 2026-02-08 15:33:36.334332
+2026-02-08 15:43:36 INFO weather.py:369: Fetched new weather data at 2026-02-08 15:43:36.330661
+2026-02-08 15:53:36 INFO weather.py:369: Fetched new weather data at 2026-02-08 15:53:36.339060
+2026-02-08 16:03:36 INFO weather.py:369: Fetched new weather data at 2026-02-08 16:03:36.331309
+2026-02-08 16:03:57 ERROR weather.py:472: Error fetching weather data: <urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond>
+2026-02-08 16:13:36 INFO weather.py:369: Fetched new weather data at 2026-02-08 16:13:36.336081
+2026-02-09 00:23:36 INFO weather.py:369: Fetched new weather data at 2026-02-09 00:23:36.701757
+2026-02-09 00:33:36 INFO weather.py:369: Fetched new weather data at 2026-02-09 00:33:36.696626
+2026-02-09 00:43:36 INFO weather.py:369: Fetched new weather data at 2026-02-09 00:43:36.699953
+2026-02-09 00:53:36 INFO weather.py:369: Fetched new weather data at 2026-02-09 00:53:36.700466
+2026-02-09 01:03:36 INFO weather.py:369: Fetched new weather data at 2026-02-09 01:03:36.693165
+2026-02-09 01:42:14 DEBUG _windows.py:218: Stopping worker thread...
+2026-02-09 01:42:14 DEBUG _windows.py:201: Exiting thread
+2026-02-09 01:42:14 DEBUG _windows.py:75: Closing
+2026-02-09 16:12:17 INFO log.py:21: Yasb v1.6.6
+2026-02-09 16:12:18 DEBUG win32.py:55: Looking up time zone info from registry
+2026-02-09 16:12:27 INFO weather.py:369: Fetched new weather data at 2026-02-09 16:12:27.017995
+2026-02-09 16:12:29 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2026-02-09 16:12:30 INFO app_bar.py:103: Bar Created on Screen: \\.\DISPLAY1 [Bar Height: 32px, DPI Scale: 1.25, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1536, Screen Height: 864]
+2026-02-09 16:12:31 INFO event_listener.py:52: Created named pipe yasb-14dacae2-058f-11f1-b8eb-93286df59d58
+2026-02-09 16:12:31 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-14dacae2-058f-11f1-b8eb-93286df59d58
+2026-02-09 16:12:31 INFO watcher.py:39: Created file watcher for path C:\Users\Rey Benedict Rico\.config\yasb
+2026-02-09 16:12:31 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-02-09 16:12:31 DEBUG _windows.py:192: Thread started
+2026-02-09 16:12:31 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2026-02-10 00:22:27 INFO weather.py:369: Fetched new weather data at 2026-02-10 00:22:27.221973
+2026-02-10 00:32:27 INFO weather.py:369: Fetched new weather data at 2026-02-10 00:32:27.220959
+2026-02-10 00:32:48 ERROR weather.py:472: Error fetching weather data: <urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond>
+2026-02-10 00:42:27 INFO weather.py:369: Fetched new weather data at 2026-02-10 00:42:27.212725
+2026-02-10 00:47:02 DEBUG _windows.py:218: Stopping worker thread...
+2026-02-10 00:47:02 DEBUG _windows.py:201: Exiting thread
+2026-02-10 00:47:02 DEBUG _windows.py:75: Closing
+2026-02-10 08:17:41 INFO log.py:21: Yasb v1.6.6
+2026-02-10 08:17:42 DEBUG win32.py:55: Looking up time zone info from registry
+2026-02-10 08:17:48 INFO weather.py:369: Fetched new weather data at 2026-02-10 08:17:48.734935
+2026-02-10 08:17:48 ERROR weather.py:472: Error fetching weather data: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-02-10 08:17:50 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2026-02-10 08:17:51 INFO app_bar.py:103: Bar Created on Screen: \\.\DISPLAY1 [Bar Height: 32px, DPI Scale: 1.25, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1536, Screen Height: 864]
+2026-02-10 08:17:52 INFO event_listener.py:52: Created named pipe yasb-f0ba9978-0615-11f1-804a-2c7ba025e171
+2026-02-10 08:17:52 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-f0ba9978-0615-11f1-804a-2c7ba025e171
+2026-02-10 08:17:52 INFO watcher.py:39: Created file watcher for path C:\Users\Rey Benedict Rico\.config\yasb
+2026-02-10 08:17:52 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-02-10 08:17:52 DEBUG _windows.py:192: Thread started
+2026-02-10 08:17:52 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2026-02-10 08:27:48 INFO weather.py:369: Fetched new weather data at 2026-02-10 08:27:48.727407
+2026-02-10 08:27:48 ERROR weather.py:472: Error fetching weather data: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-02-10 08:37:48 INFO weather.py:369: Fetched new weather data at 2026-02-10 08:37:48.723261
+2026-02-10 08:47:48 INFO weather.py:369: Fetched new weather data at 2026-02-10 08:47:48.735685
+2026-02-10 08:57:48 INFO weather.py:369: Fetched new weather data at 2026-02-10 08:57:48.741455
+2026-02-10 09:07:48 INFO weather.py:369: Fetched new weather data at 2026-02-10 09:07:48.746413
+2026-02-10 09:17:48 INFO weather.py:369: Fetched new weather data at 2026-02-10 09:17:48.750255
+2026-02-10 09:27:48 INFO weather.py:369: Fetched new weather data at 2026-02-10 09:27:48.746530
+2026-02-10 09:37:48 INFO weather.py:369: Fetched new weather data at 2026-02-10 09:37:48.741556
+2026-02-10 09:47:48 INFO weather.py:369: Fetched new weather data at 2026-02-10 09:47:48.747320
+2026-02-10 09:48:51 DEBUG _windows.py:218: Stopping worker thread...
+2026-02-10 09:48:51 DEBUG _windows.py:201: Exiting thread
+2026-02-10 09:48:51 DEBUG _windows.py:75: Closing
+2026-02-10 19:10:27 INFO log.py:21: Yasb v1.6.6
+2026-02-10 19:10:29 DEBUG win32.py:55: Looking up time zone info from registry
+2026-02-10 19:10:35 INFO weather.py:369: Fetched new weather data at 2026-02-10 19:10:35.964129
+2026-02-10 19:10:38 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2026-02-10 19:10:38 INFO app_bar.py:103: Bar Created on Screen: \\.\DISPLAY1 [Bar Height: 32px, DPI Scale: 1.25, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1536, Screen Height: 864]
+2026-02-10 19:10:40 INFO event_listener.py:52: Created named pipe yasb-225da7b1-0671-11f1-9bea-bedbc3f4e182
+2026-02-10 19:10:40 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-225da7b1-0671-11f1-9bea-bedbc3f4e182
+2026-02-10 19:10:40 INFO watcher.py:39: Created file watcher for path C:\Users\Rey Benedict Rico\.config\yasb
+2026-02-10 19:10:40 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-02-10 19:10:40 DEBUG _windows.py:192: Thread started
+2026-02-10 19:10:40 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2026-02-10 19:20:35 INFO weather.py:369: Fetched new weather data at 2026-02-10 19:20:35.976673
+2026-02-10 19:30:35 INFO weather.py:369: Fetched new weather data at 2026-02-10 19:30:35.975795
+2026-02-10 19:40:35 INFO weather.py:369: Fetched new weather data at 2026-02-10 19:40:35.977795
+2026-02-10 19:50:35 INFO weather.py:369: Fetched new weather data at 2026-02-10 19:50:35.986544
+2026-02-10 19:50:57 ERROR weather.py:472: Error fetching weather data: <urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond>
+2026-02-10 20:00:35 INFO weather.py:369: Fetched new weather data at 2026-02-10 20:00:35.981369
+2026-02-10 20:10:35 INFO weather.py:369: Fetched new weather data at 2026-02-10 20:10:35.978988
+2026-02-10 20:20:35 INFO weather.py:369: Fetched new weather data at 2026-02-10 20:20:35.977932
+2026-02-10 20:20:57 ERROR weather.py:472: Error fetching weather data: <urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond>
+2026-02-10 20:30:31 DEBUG _windows.py:218: Stopping worker thread...
+2026-02-10 20:30:31 DEBUG _windows.py:201: Exiting thread
+2026-02-10 20:30:31 DEBUG _windows.py:75: Closing
+2026-02-10 15:53:44 INFO log.py:21: Yasb v1.6.6
+2026-02-10 15:53:45 DEBUG win32.py:55: Looking up time zone info from registry
+2026-02-10 15:53:49 INFO weather.py:369: Fetched new weather data at 2026-02-10 15:53:49.367185
+2026-02-10 15:53:50 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2026-02-10 15:53:50 INFO app_bar.py:103: Bar Created on Screen: \\.\DISPLAY1 [Bar Height: 32px, DPI Scale: 1.25, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1536, Screen Height: 864]
+2026-02-10 15:53:51 INFO event_listener.py:52: Created named pipe yasb-a3cde6ac-0655-11f1-ae28-c99673fc777e
+2026-02-10 15:53:51 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-a3cde6ac-0655-11f1-ae28-c99673fc777e
+2026-02-10 15:53:51 INFO watcher.py:39: Created file watcher for path C:\Users\Rey Benedict Rico\.config\yasb
+2026-02-10 15:53:51 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-02-10 15:53:51 DEBUG _windows.py:192: Thread started
+2026-02-10 15:53:51 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2026-02-11 00:06:57 INFO weather.py:369: Fetched new weather data at 2026-02-11 00:06:57.863839
+2026-02-11 00:16:57 INFO weather.py:369: Fetched new weather data at 2026-02-11 00:16:57.862003
+2026-02-11 00:26:57 INFO weather.py:369: Fetched new weather data at 2026-02-11 00:26:57.864849
+2026-02-11 00:36:57 INFO weather.py:369: Fetched new weather data at 2026-02-11 00:36:57.865291
+2026-02-11 00:46:57 INFO weather.py:369: Fetched new weather data at 2026-02-11 00:46:57.856561
+2026-02-11 00:56:57 INFO weather.py:369: Fetched new weather data at 2026-02-11 00:56:57.858542
+2026-02-11 00:57:18 ERROR weather.py:472: Error fetching weather data: <urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond>
+2026-02-11 01:06:57 INFO weather.py:369: Fetched new weather data at 2026-02-11 01:06:57.856684
+2026-02-11 01:16:57 INFO weather.py:369: Fetched new weather data at 2026-02-11 01:16:57.858267
+2026-02-11 01:18:37 DEBUG _windows.py:218: Stopping worker thread...
+2026-02-11 01:18:37 DEBUG _windows.py:201: Exiting thread
+2026-02-11 01:18:37 DEBUG _windows.py:75: Closing
+2026-02-11 08:56:27 INFO log.py:21: Yasb v1.6.6
+2026-02-11 08:56:27 DEBUG win32.py:55: Looking up time zone info from registry
+2026-02-11 08:56:35 INFO weather.py:369: Fetched new weather data at 2026-02-11 08:56:35.304426
+2026-02-11 08:56:37 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2026-02-11 08:56:38 INFO app_bar.py:103: Bar Created on Screen: \\.\DISPLAY1 [Bar Height: 32px, DPI Scale: 1.25, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1536, Screen Height: 864]
+2026-02-11 08:56:39 INFO event_listener.py:52: Created named pipe yasb-862e0ff0-06e4-11f1-8dce-c4a59491d228
+2026-02-11 08:56:39 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-862e0ff0-06e4-11f1-8dce-c4a59491d228
+2026-02-11 08:56:40 INFO watcher.py:39: Created file watcher for path C:\Users\Rey Benedict Rico\.config\yasb
+2026-02-11 08:56:40 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-02-11 08:56:40 DEBUG _windows.py:192: Thread started
+2026-02-11 08:56:40 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2026-02-11 09:06:35 INFO weather.py:369: Fetched new weather data at 2026-02-11 09:06:35.329404
+2026-02-11 09:16:35 INFO weather.py:369: Fetched new weather data at 2026-02-11 09:16:35.309378
+2026-02-11 09:26:35 INFO weather.py:369: Fetched new weather data at 2026-02-11 09:26:35.315372
+2026-02-11 09:36:35 INFO weather.py:369: Fetched new weather data at 2026-02-11 09:36:35.302856
+2026-02-11 09:46:35 INFO weather.py:369: Fetched new weather data at 2026-02-11 09:46:35.307188
+2026-02-11 09:56:35 INFO weather.py:369: Fetched new weather data at 2026-02-11 09:56:35.314185
+2026-02-11 10:06:35 INFO weather.py:369: Fetched new weather data at 2026-02-11 10:06:35.313268
+2026-02-11 10:16:35 INFO weather.py:369: Fetched new weather data at 2026-02-11 10:16:35.302479
+2026-02-11 10:26:35 INFO weather.py:369: Fetched new weather data at 2026-02-11 10:26:35.303860
+2026-02-11 10:36:35 INFO weather.py:369: Fetched new weather data at 2026-02-11 10:36:35.304505
+2026-02-11 10:46:35 INFO weather.py:369: Fetched new weather data at 2026-02-11 10:46:35.305145
+2026-02-11 10:56:35 INFO weather.py:369: Fetched new weather data at 2026-02-11 10:56:35.304460
+2026-02-11 11:06:35 INFO weather.py:369: Fetched new weather data at 2026-02-11 11:06:35.305633
+2026-02-11 11:16:35 INFO weather.py:369: Fetched new weather data at 2026-02-11 11:16:35.308329
+2026-02-11 11:26:35 INFO weather.py:369: Fetched new weather data at 2026-02-11 11:26:35.310345
+2026-02-11 11:36:35 INFO weather.py:369: Fetched new weather data at 2026-02-11 11:36:35.314723
+2026-02-11 11:46:35 INFO weather.py:369: Fetched new weather data at 2026-02-11 11:46:35.301884
+2026-02-11 11:56:35 INFO weather.py:369: Fetched new weather data at 2026-02-11 11:56:35.305648
+2026-02-11 12:06:35 INFO weather.py:369: Fetched new weather data at 2026-02-11 12:06:35.322482
+2026-02-11 12:16:35 INFO weather.py:369: Fetched new weather data at 2026-02-11 12:16:35.308329
+2026-02-11 12:26:35 INFO weather.py:369: Fetched new weather data at 2026-02-11 12:26:35.316332
+2026-02-11 12:36:35 INFO weather.py:369: Fetched new weather data at 2026-02-11 12:36:35.315729
+2026-02-11 12:46:35 INFO weather.py:369: Fetched new weather data at 2026-02-11 12:46:35.315182
+2026-02-11 12:56:35 INFO weather.py:369: Fetched new weather data at 2026-02-11 12:56:35.337839
+2026-02-11 13:06:35 INFO weather.py:369: Fetched new weather data at 2026-02-11 13:06:35.333728
+2026-02-11 13:16:35 INFO weather.py:369: Fetched new weather data at 2026-02-11 13:16:35.352952
+2026-02-11 13:26:35 INFO weather.py:369: Fetched new weather data at 2026-02-11 13:26:35.357541
+2026-02-11 13:36:35 INFO weather.py:369: Fetched new weather data at 2026-02-11 13:36:35.355709
+2026-02-11 13:46:35 INFO weather.py:369: Fetched new weather data at 2026-02-11 13:46:35.363150
+2026-02-11 13:56:35 INFO weather.py:369: Fetched new weather data at 2026-02-11 13:56:35.362610
+2026-02-11 14:06:35 INFO weather.py:369: Fetched new weather data at 2026-02-11 14:06:35.367715
+2026-02-11 14:16:35 INFO weather.py:369: Fetched new weather data at 2026-02-11 14:16:35.373948
+2026-02-11 14:26:35 INFO weather.py:369: Fetched new weather data at 2026-02-11 14:26:35.368649
+2026-02-11 14:36:35 INFO weather.py:369: Fetched new weather data at 2026-02-11 14:36:35.376201
+2026-02-11 14:46:35 INFO weather.py:369: Fetched new weather data at 2026-02-11 14:46:35.368663
+2026-02-11 14:56:35 INFO weather.py:369: Fetched new weather data at 2026-02-11 14:56:35.373383
+2026-02-11 15:06:35 INFO weather.py:369: Fetched new weather data at 2026-02-11 15:06:35.362239
+2026-02-11 15:16:35 INFO weather.py:369: Fetched new weather data at 2026-02-11 15:16:35.364183
+2026-02-11 15:26:35 INFO weather.py:369: Fetched new weather data at 2026-02-11 15:26:35.367909
+2026-02-11 15:36:35 INFO weather.py:369: Fetched new weather data at 2026-02-11 15:36:35.373622
+2026-02-11 15:46:35 INFO weather.py:369: Fetched new weather data at 2026-02-11 15:46:35.371759
+2026-02-11 15:56:35 INFO weather.py:369: Fetched new weather data at 2026-02-11 15:56:35.367901
+2026-02-11 16:06:35 INFO weather.py:369: Fetched new weather data at 2026-02-11 16:06:35.365407
+2026-02-11 16:16:35 INFO weather.py:369: Fetched new weather data at 2026-02-11 16:16:35.372623
+2026-02-11 16:26:35 INFO weather.py:369: Fetched new weather data at 2026-02-11 16:26:35.365758
+2026-02-11 16:36:35 INFO weather.py:369: Fetched new weather data at 2026-02-11 16:36:35.376638
+2026-02-11 16:46:34 INFO weather.py:369: Fetched new weather data at 2026-02-11 16:46:34.606752
+2026-02-11 16:46:55 ERROR weather.py:472: Error fetching weather data: <urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond>
+2026-02-11 16:56:34 INFO weather.py:369: Fetched new weather data at 2026-02-11 16:56:34.608808
+2026-02-11 17:06:34 INFO weather.py:369: Fetched new weather data at 2026-02-11 17:06:34.609797
+2026-02-11 17:13:45 DEBUG _windows.py:218: Stopping worker thread...
+2026-02-11 17:13:45 DEBUG _windows.py:201: Exiting thread
+2026-02-11 17:13:45 DEBUG _windows.py:75: Closing
+2026-02-11 17:17:44 INFO log.py:21: Yasb v1.6.6
+2026-02-11 17:17:46 DEBUG win32.py:55: Looking up time zone info from registry
+2026-02-11 17:17:58 INFO weather.py:369: Fetched new weather data at 2026-02-11 17:17:58.691768
+2026-02-11 17:18:00 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2026-02-11 17:18:01 INFO app_bar.py:103: Bar Created on Screen: \\.\DISPLAY1 [Bar Height: 32px, DPI Scale: 1.25, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1536, Screen Height: 864]
+2026-02-11 17:18:04 INFO event_listener.py:52: Created named pipe yasb-91e2dcfd-072a-11f1-b652-92c7c1529f6d
+2026-02-11 17:18:04 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-91e2dcfd-072a-11f1-b652-92c7c1529f6d
+2026-02-11 17:18:04 INFO watcher.py:39: Created file watcher for path C:\Users\Rey Benedict Rico\.config\yasb
+2026-02-11 17:18:04 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-02-11 17:18:04 DEBUG _windows.py:192: Thread started
+2026-02-11 17:18:04 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2026-02-11 17:27:58 INFO weather.py:369: Fetched new weather data at 2026-02-11 17:27:58.705252
+2026-02-11 17:37:58 INFO weather.py:369: Fetched new weather data at 2026-02-11 17:37:58.707270
+2026-02-11 17:47:58 INFO weather.py:369: Fetched new weather data at 2026-02-11 17:47:58.724423
+2026-02-11 17:57:58 INFO weather.py:369: Fetched new weather data at 2026-02-11 17:57:58.726151
+2026-02-11 18:07:58 INFO weather.py:369: Fetched new weather data at 2026-02-11 18:07:58.727849
+2026-02-11 18:17:58 INFO weather.py:369: Fetched new weather data at 2026-02-11 18:17:58.726473
+2026-02-11 18:27:58 INFO weather.py:369: Fetched new weather data at 2026-02-11 18:27:58.729937
+2026-02-11 18:37:58 INFO weather.py:369: Fetched new weather data at 2026-02-11 18:37:58.729915
+2026-02-11 18:38:19 ERROR weather.py:472: Error fetching weather data: <urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond>
+2026-02-11 18:47:58 INFO weather.py:369: Fetched new weather data at 2026-02-11 18:47:58.728341
+2026-02-11 18:57:58 INFO weather.py:369: Fetched new weather data at 2026-02-11 18:57:58.718173
+2026-02-11 19:07:58 INFO weather.py:369: Fetched new weather data at 2026-02-11 19:07:58.722784
+2026-02-11 19:17:58 INFO weather.py:369: Fetched new weather data at 2026-02-11 19:17:58.717070
+2026-02-11 19:27:58 INFO weather.py:369: Fetched new weather data at 2026-02-11 19:27:58.716890
+2026-02-11 19:37:58 INFO weather.py:369: Fetched new weather data at 2026-02-11 19:37:58.726125
+2026-02-11 19:47:58 INFO weather.py:369: Fetched new weather data at 2026-02-11 19:47:58.729800
+2026-02-11 19:57:58 INFO weather.py:369: Fetched new weather data at 2026-02-11 19:57:58.717106
+2026-02-11 20:07:58 INFO weather.py:369: Fetched new weather data at 2026-02-11 20:07:58.719630
+2026-02-11 20:17:58 INFO weather.py:369: Fetched new weather data at 2026-02-11 20:17:58.726319
+2026-02-11 20:27:58 INFO weather.py:369: Fetched new weather data at 2026-02-11 20:27:58.731827
+2026-02-11 20:37:58 INFO weather.py:369: Fetched new weather data at 2026-02-11 20:37:58.738210
+2026-02-11 20:47:58 INFO weather.py:369: Fetched new weather data at 2026-02-11 20:47:58.737613
+2026-02-11 20:57:58 INFO weather.py:369: Fetched new weather data at 2026-02-11 20:57:58.734563
+2026-02-11 21:07:58 INFO weather.py:369: Fetched new weather data at 2026-02-11 21:07:58.757922
+2026-02-11 21:17:58 INFO weather.py:369: Fetched new weather data at 2026-02-11 21:17:58.746562
+2026-02-11 21:27:58 INFO weather.py:369: Fetched new weather data at 2026-02-11 21:27:58.753897
+2026-02-11 21:37:58 INFO weather.py:369: Fetched new weather data at 2026-02-11 21:37:58.750169
+2026-02-11 21:47:58 INFO weather.py:369: Fetched new weather data at 2026-02-11 21:47:58.754230
+2026-02-11 21:57:58 INFO weather.py:369: Fetched new weather data at 2026-02-11 21:57:58.752221
+2026-02-11 22:07:58 INFO weather.py:369: Fetched new weather data at 2026-02-11 22:07:58.758252
+2026-02-11 22:17:58 INFO weather.py:369: Fetched new weather data at 2026-02-11 22:17:58.760844
+2026-02-11 22:27:58 INFO weather.py:369: Fetched new weather data at 2026-02-11 22:27:58.751664
+2026-02-11 22:37:58 INFO weather.py:369: Fetched new weather data at 2026-02-11 22:37:58.751616
+2026-02-11 22:47:58 INFO weather.py:369: Fetched new weather data at 2026-02-11 22:47:58.755753
+2026-02-11 22:57:58 INFO weather.py:369: Fetched new weather data at 2026-02-11 22:57:58.746638
+2026-02-11 23:07:58 INFO weather.py:369: Fetched new weather data at 2026-02-11 23:07:58.758781
+2026-02-11 23:17:58 INFO weather.py:369: Fetched new weather data at 2026-02-11 23:17:58.756141
+2026-02-11 23:27:58 INFO weather.py:369: Fetched new weather data at 2026-02-11 23:27:58.757318
+2026-02-11 23:28:19 ERROR weather.py:472: Error fetching weather data: <urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond>
+2026-02-11 23:37:58 INFO weather.py:369: Fetched new weather data at 2026-02-11 23:37:58.754486
+2026-02-11 23:51:17 INFO weather.py:369: Fetched new weather data at 2026-02-11 23:51:17.381001
+2026-02-12 00:01:17 INFO weather.py:369: Fetched new weather data at 2026-02-12 00:01:17.381486
+2026-02-12 00:11:17 INFO weather.py:369: Fetched new weather data at 2026-02-12 00:11:17.387665
+2026-02-12 00:21:17 INFO weather.py:369: Fetched new weather data at 2026-02-12 00:21:17.390711
+2026-02-12 00:31:17 INFO weather.py:369: Fetched new weather data at 2026-02-12 00:31:17.394805
+2026-02-12 00:41:17 INFO weather.py:369: Fetched new weather data at 2026-02-12 00:41:17.398199
+2026-02-12 00:41:38 ERROR weather.py:472: Error fetching weather data: <urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond>
+2026-02-12 00:51:17 INFO weather.py:369: Fetched new weather data at 2026-02-12 00:51:17.400787
+2026-02-12 01:01:17 INFO weather.py:369: Fetched new weather data at 2026-02-12 01:01:17.391011
+2026-02-12 01:11:17 INFO weather.py:369: Fetched new weather data at 2026-02-12 01:11:17.391277
+2026-02-12 01:21:17 INFO weather.py:369: Fetched new weather data at 2026-02-12 01:21:17.396456
+2026-02-12 01:31:17 INFO weather.py:369: Fetched new weather data at 2026-02-12 01:31:17.394258
+2026-02-12 01:31:38 ERROR weather.py:472: Error fetching weather data: <urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond>
+2026-02-12 01:41:17 INFO weather.py:369: Fetched new weather data at 2026-02-12 01:41:17.408814
+2026-02-12 01:41:38 ERROR weather.py:472: Error fetching weather data: <urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond>
+2026-02-12 01:51:17 INFO weather.py:369: Fetched new weather data at 2026-02-12 01:51:17.410516
+2026-02-12 02:06:17 INFO weather.py:369: Fetched new weather data at 2026-02-12 02:06:17.832931
+2026-02-12 02:37:58 INFO weather.py:369: Fetched new weather data at 2026-02-12 02:37:58.617079
+2026-02-12 02:47:58 INFO weather.py:369: Fetched new weather data at 2026-02-12 02:47:58.610131
+2026-02-12 02:55:03 DEBUG _windows.py:218: Stopping worker thread...
+2026-02-12 02:55:03 DEBUG _windows.py:201: Exiting thread
+2026-02-12 02:55:03 DEBUG _windows.py:75: Closing
+2026-02-12 02:55:03 ERROR event_service.py:30: Failed to emit signal <bound PYQT_SIGNAL foreground_change of ActiveWindowWidget object at 0x0000020DB36B4AF0>. Removing link to WinEvent.EventSystemForeground.
+2026-02-12 08:26:36 INFO log.py:21: Yasb v1.6.6
+2026-02-12 08:26:37 DEBUG win32.py:55: Looking up time zone info from registry
+2026-02-12 08:26:43 INFO weather.py:369: Fetched new weather data at 2026-02-12 08:26:43.683715
+2026-02-12 08:26:43 ERROR weather.py:472: Error fetching weather data: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-02-12 08:26:45 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2026-02-12 08:26:46 INFO app_bar.py:103: Bar Created on Screen: \\.\DISPLAY1 [Bar Height: 32px, DPI Scale: 1.25, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1536, Screen Height: 864]
+2026-02-12 08:26:48 INFO event_listener.py:52: Created named pipe yasb-84a9ea2f-07a9-11f1-af20-2c7ba025e171
+2026-02-12 08:26:48 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-84a9ea2f-07a9-11f1-af20-2c7ba025e171
+2026-02-12 08:26:48 INFO watcher.py:39: Created file watcher for path C:\Users\Rey Benedict Rico\.config\yasb
+2026-02-12 08:26:48 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-02-12 08:26:48 DEBUG _windows.py:192: Thread started
+2026-02-12 08:26:48 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2026-02-12 08:36:43 INFO weather.py:369: Fetched new weather data at 2026-02-12 08:36:43.681307
+2026-02-12 08:36:43 ERROR weather.py:472: Error fetching weather data: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-02-12 08:46:43 INFO weather.py:369: Fetched new weather data at 2026-02-12 08:46:43.677312
+2026-02-12 08:47:04 ERROR weather.py:472: Error fetching weather data: <urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond>
+2026-02-12 08:56:43 INFO weather.py:369: Fetched new weather data at 2026-02-12 08:56:43.687306
+2026-02-12 08:57:06 WARNING weather.py:416: An unexpected error occurred while loading icon http://cdn.weatherapi.com/weather/64x64/day/176.png: timed out
+2026-02-12 08:57:07 WARNING weather.py:416: An unexpected error occurred while loading icon http://cdn.weatherapi.com/weather/64x64/day/176.png: timed out
+2026-02-12 08:57:08 WARNING weather.py:416: An unexpected error occurred while loading icon http://cdn.weatherapi.com/weather/64x64/day/176.png: timed out
+2026-02-12 09:06:43 INFO weather.py:369: Fetched new weather data at 2026-02-12 09:06:43.691334
+2026-02-12 09:06:43 ERROR weather.py:472: Error fetching weather data: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-02-12 09:16:43 INFO weather.py:369: Fetched new weather data at 2026-02-12 09:16:43.694073
+2026-02-12 09:26:43 INFO weather.py:369: Fetched new weather data at 2026-02-12 09:26:43.693605
+2026-02-12 09:36:43 INFO weather.py:369: Fetched new weather data at 2026-02-12 09:36:43.690658
+2026-02-12 09:46:43 INFO weather.py:369: Fetched new weather data at 2026-02-12 09:46:43.695860
+2026-02-12 09:56:43 INFO weather.py:369: Fetched new weather data at 2026-02-12 09:56:43.694629
+2026-02-12 10:05:56 DEBUG _windows.py:218: Stopping worker thread...
+2026-02-12 10:05:56 DEBUG _windows.py:201: Exiting thread
+2026-02-12 10:05:56 DEBUG _windows.py:75: Closing
+2026-02-12 15:06:24 INFO log.py:21: Yasb v1.6.6
+2026-02-12 15:06:26 DEBUG win32.py:55: Looking up time zone info from registry
+2026-02-12 15:06:33 INFO weather.py:369: Fetched new weather data at 2026-02-12 15:06:33.497731
+2026-02-12 15:06:35 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2026-02-12 15:06:36 INFO app_bar.py:103: Bar Created on Screen: \\.\DISPLAY1 [Bar Height: 32px, DPI Scale: 1.25, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1536, Screen Height: 864]
+2026-02-12 15:06:37 INFO event_listener.py:52: Created named pipe yasb-5f9a3baa-07e1-11f1-a5b4-d2122c68a107
+2026-02-12 15:06:37 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-5f9a3baa-07e1-11f1-a5b4-d2122c68a107
+2026-02-12 15:06:37 INFO watcher.py:39: Created file watcher for path C:\Users\Rey Benedict Rico\.config\yasb
+2026-02-12 15:06:37 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-02-12 15:06:37 DEBUG _windows.py:192: Thread started
+2026-02-12 15:06:38 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2026-02-12 15:06:54 ERROR weather.py:472: Error fetching weather data: <urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond>
+2026-02-12 15:16:33 INFO weather.py:369: Fetched new weather data at 2026-02-12 15:16:33.500032
+2026-02-12 15:16:54 ERROR weather.py:472: Error fetching weather data: <urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond>
+2026-02-12 15:26:33 INFO weather.py:369: Fetched new weather data at 2026-02-12 15:26:33.501322
+2026-02-12 15:26:54 ERROR weather.py:472: Error fetching weather data: <urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond>
+2026-02-12 15:36:33 INFO weather.py:369: Fetched new weather data at 2026-02-12 15:36:33.501320
+2026-02-12 15:46:33 INFO weather.py:369: Fetched new weather data at 2026-02-12 15:46:33.496451
+2026-02-12 15:56:33 INFO weather.py:369: Fetched new weather data at 2026-02-12 15:56:33.502508
+2026-02-12 16:06:33 INFO weather.py:369: Fetched new weather data at 2026-02-12 16:06:33.489507
+2026-02-12 16:16:33 INFO weather.py:369: Fetched new weather data at 2026-02-12 16:16:33.495257
+2026-02-12 16:26:33 INFO weather.py:369: Fetched new weather data at 2026-02-12 16:26:33.488192
+2026-02-12 16:26:54 ERROR weather.py:472: Error fetching weather data: <urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond>
+2026-02-12 16:36:33 INFO weather.py:369: Fetched new weather data at 2026-02-12 16:36:33.498724
+2026-02-12 16:39:26 DEBUG _windows.py:218: Stopping worker thread...
+2026-02-12 16:39:26 DEBUG _windows.py:201: Exiting thread
+2026-02-12 16:39:26 DEBUG _windows.py:75: Closing
+2026-02-12 16:14:09 INFO log.py:21: Yasb v1.6.6
+2026-02-12 16:14:10 DEBUG win32.py:55: Looking up time zone info from registry
+2026-02-13 00:14:20 INFO weather.py:369: Fetched new weather data at 2026-02-13 00:14:20.850034
+2026-02-13 00:14:23 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2026-02-13 00:14:24 INFO app_bar.py:103: Bar Created on Screen: \\.\DISPLAY1 [Bar Height: 32px, DPI Scale: 1.25, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1536, Screen Height: 864]
+2026-02-13 00:14:26 INFO event_listener.py:52: Created named pipe yasb-e6eb031a-082d-11f1-bfed-e3c5829843fb
+2026-02-13 00:14:26 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-e6eb031a-082d-11f1-bfed-e3c5829843fb
+2026-02-13 00:14:26 INFO watcher.py:39: Created file watcher for path C:\Users\Rey Benedict Rico\.config\yasb
+2026-02-13 00:14:26 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-02-13 00:14:26 DEBUG _windows.py:192: Thread started
+2026-02-13 00:14:26 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2026-02-13 00:24:19 INFO weather.py:369: Fetched new weather data at 2026-02-13 00:24:19.927260
+2026-02-13 00:34:19 INFO weather.py:369: Fetched new weather data at 2026-02-13 00:34:19.919814
+2026-02-13 00:44:20 INFO weather.py:369: Fetched new weather data at 2026-02-13 00:44:20.074570
+2026-02-13 00:54:20 INFO weather.py:369: Fetched new weather data at 2026-02-13 00:54:20.215726
+2026-02-13 01:02:49 DEBUG _windows.py:218: Stopping worker thread...
+2026-02-13 01:02:49 DEBUG _windows.py:201: Exiting thread
+2026-02-13 01:02:49 DEBUG _windows.py:75: Closing
+2026-02-13 01:02:49 ERROR event_service.py:30: Failed to emit signal <bound PYQT_SIGNAL foreground_change of ActiveWindowWidget object at 0x000001F32F574AF0>. Removing link to WinEvent.EventSystemForeground.
+2026-02-13 01:04:07 INFO log.py:21: Yasb v1.6.6
+2026-02-13 01:04:08 DEBUG win32.py:55: Looking up time zone info from registry
+2026-02-13 01:04:12 INFO weather.py:369: Fetched new weather data at 2026-02-13 01:04:12.975972
+2026-02-13 01:04:14 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2026-02-13 01:04:14 INFO app_bar.py:103: Bar Created on Screen: \\.\DISPLAY1 [Bar Height: 32px, DPI Scale: 1.25, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1536, Screen Height: 864]
+2026-02-13 01:04:15 INFO event_listener.py:52: Created named pipe yasb-dc6904ee-0834-11f1-837e-c6a4b61fdef6
+2026-02-13 01:04:15 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-dc6904ee-0834-11f1-837e-c6a4b61fdef6
+2026-02-13 01:04:15 INFO watcher.py:39: Created file watcher for path C:\Users\Rey Benedict Rico\.config\yasb
+2026-02-13 01:04:15 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-02-13 01:04:15 DEBUG _windows.py:192: Thread started
+2026-02-13 01:04:15 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2026-02-13 01:14:12 INFO weather.py:369: Fetched new weather data at 2026-02-13 01:14:12.981133
+2026-02-13 01:24:12 INFO weather.py:369: Fetched new weather data at 2026-02-13 01:24:12.981241
+2026-02-13 01:34:12 INFO weather.py:369: Fetched new weather data at 2026-02-13 01:34:12.977831
+2026-02-13 01:44:12 INFO weather.py:369: Fetched new weather data at 2026-02-13 01:44:12.978637
+2026-02-13 01:54:12 INFO weather.py:369: Fetched new weather data at 2026-02-13 01:54:12.974428
+2026-02-13 02:04:12 INFO weather.py:369: Fetched new weather data at 2026-02-13 02:04:12.988178
+2026-02-13 02:14:12 INFO weather.py:369: Fetched new weather data at 2026-02-13 02:14:12.981758
+2026-02-13 02:24:12 INFO weather.py:369: Fetched new weather data at 2026-02-13 02:24:12.973800
+2026-02-13 02:34:12 INFO weather.py:369: Fetched new weather data at 2026-02-13 02:34:12.979401
+2026-02-13 02:44:12 INFO weather.py:369: Fetched new weather data at 2026-02-13 02:44:12.981316
+2026-02-13 02:54:12 INFO weather.py:369: Fetched new weather data at 2026-02-13 02:54:12.971953
+2026-02-13 03:04:12 INFO weather.py:369: Fetched new weather data at 2026-02-13 03:04:12.984470
+2026-02-13 03:14:12 INFO weather.py:369: Fetched new weather data at 2026-02-13 03:14:12.982476
+2026-02-13 03:24:12 INFO weather.py:369: Fetched new weather data at 2026-02-13 03:24:12.982529
+2026-02-13 03:31:34 DEBUG _windows.py:218: Stopping worker thread...
+2026-02-13 03:31:34 DEBUG _windows.py:201: Exiting thread
+2026-02-13 03:31:34 DEBUG _windows.py:75: Closing
+2026-02-13 11:05:58 INFO log.py:21: Yasb v1.6.6
+2026-02-13 11:05:59 DEBUG win32.py:55: Looking up time zone info from registry
+2026-02-13 11:06:06 INFO weather.py:369: Fetched new weather data at 2026-02-13 11:06:06.299990
+2026-02-13 11:06:08 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2026-02-13 11:06:08 INFO app_bar.py:103: Bar Created on Screen: \\.\DISPLAY1 [Bar Height: 32px, DPI Scale: 1.25, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1536, Screen Height: 864]
+2026-02-13 11:06:10 INFO event_listener.py:52: Created named pipe yasb-f2941460-0888-11f1-9a2a-8d8e0c71a763
+2026-02-13 11:06:10 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-f2941460-0888-11f1-9a2a-8d8e0c71a763
+2026-02-13 11:06:10 INFO watcher.py:39: Created file watcher for path C:\Users\Rey Benedict Rico\.config\yasb
+2026-02-13 11:06:10 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-02-13 11:06:10 DEBUG _windows.py:192: Thread started
+2026-02-13 11:06:10 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2026-02-13 11:16:06 INFO weather.py:369: Fetched new weather data at 2026-02-13 11:16:06.313880
+2026-02-13 11:26:06 INFO weather.py:369: Fetched new weather data at 2026-02-13 11:26:06.318288
+2026-02-13 11:36:06 INFO weather.py:369: Fetched new weather data at 2026-02-13 11:36:06.320082
+2026-02-13 11:46:06 INFO weather.py:369: Fetched new weather data at 2026-02-13 11:46:06.319245
+2026-02-13 11:56:06 INFO weather.py:369: Fetched new weather data at 2026-02-13 11:56:06.325316
+2026-02-13 12:06:06 INFO weather.py:369: Fetched new weather data at 2026-02-13 12:06:06.323860
+2026-02-13 12:16:06 INFO weather.py:369: Fetched new weather data at 2026-02-13 12:16:06.324530
+2026-02-13 12:26:06 INFO weather.py:369: Fetched new weather data at 2026-02-13 12:26:06.328527
+2026-02-13 12:36:06 INFO weather.py:369: Fetched new weather data at 2026-02-13 12:36:06.316526
+2026-02-13 12:46:06 INFO weather.py:369: Fetched new weather data at 2026-02-13 12:46:06.330316
+2026-02-13 12:56:06 INFO weather.py:369: Fetched new weather data at 2026-02-13 12:56:06.331419
+2026-02-13 13:06:06 INFO weather.py:369: Fetched new weather data at 2026-02-13 13:06:06.331832
+2026-02-13 13:16:06 INFO weather.py:369: Fetched new weather data at 2026-02-13 13:16:06.330526
+2026-02-13 13:26:06 INFO weather.py:369: Fetched new weather data at 2026-02-13 13:26:06.331744
+2026-02-13 13:36:06 INFO weather.py:369: Fetched new weather data at 2026-02-13 13:36:06.344459
+2026-02-13 13:46:06 INFO weather.py:369: Fetched new weather data at 2026-02-13 13:46:06.338943
+2026-02-13 13:56:06 INFO weather.py:369: Fetched new weather data at 2026-02-13 13:56:06.332818
+2026-02-13 14:06:06 INFO weather.py:369: Fetched new weather data at 2026-02-13 14:06:06.354549
+2026-02-13 14:16:06 INFO weather.py:369: Fetched new weather data at 2026-02-13 14:16:06.450826
+2026-02-13 14:26:06 INFO weather.py:369: Fetched new weather data at 2026-02-13 14:26:06.356882
+2026-02-13 14:36:06 INFO weather.py:369: Fetched new weather data at 2026-02-13 14:36:06.395731
+2026-02-13 14:46:06 INFO weather.py:369: Fetched new weather data at 2026-02-13 14:46:06.368079
+2026-02-13 14:56:06 INFO weather.py:369: Fetched new weather data at 2026-02-13 14:56:06.363691
+2026-02-13 15:06:06 INFO weather.py:369: Fetched new weather data at 2026-02-13 15:06:06.367047
+2026-02-13 15:16:06 INFO weather.py:369: Fetched new weather data at 2026-02-13 15:16:06.362874
+2026-02-13 15:26:06 INFO weather.py:369: Fetched new weather data at 2026-02-13 15:26:06.374451
+2026-02-13 15:36:06 INFO weather.py:369: Fetched new weather data at 2026-02-13 15:36:06.362141
+2026-02-13 15:46:06 INFO weather.py:369: Fetched new weather data at 2026-02-13 15:46:06.397198
+2026-02-13 15:56:06 INFO weather.py:369: Fetched new weather data at 2026-02-13 15:56:06.459515
+2026-02-13 16:06:06 INFO weather.py:369: Fetched new weather data at 2026-02-13 16:06:06.397346
+2026-02-13 16:16:06 INFO weather.py:369: Fetched new weather data at 2026-02-13 16:16:06.399637
+2026-02-13 16:26:06 INFO weather.py:369: Fetched new weather data at 2026-02-13 16:26:06.463468
+2026-02-13 16:36:06 INFO weather.py:369: Fetched new weather data at 2026-02-13 16:36:06.399487
+2026-02-13 16:46:06 INFO weather.py:369: Fetched new weather data at 2026-02-13 16:46:06.406961
+2026-02-13 16:56:06 INFO weather.py:369: Fetched new weather data at 2026-02-13 16:56:06.405400
+2026-02-13 17:06:06 INFO weather.py:369: Fetched new weather data at 2026-02-13 17:06:06.397436
+2026-02-13 17:16:06 INFO weather.py:369: Fetched new weather data at 2026-02-13 17:16:06.400394
+2026-02-13 17:26:06 INFO weather.py:369: Fetched new weather data at 2026-02-13 17:26:06.392476
+2026-02-13 17:36:06 INFO weather.py:369: Fetched new weather data at 2026-02-13 17:36:06.394831
+2026-02-13 17:46:06 INFO weather.py:369: Fetched new weather data at 2026-02-13 17:46:06.398279
+2026-02-13 17:56:06 INFO weather.py:369: Fetched new weather data at 2026-02-13 17:56:06.409633
+2026-02-13 17:57:12 DEBUG _windows.py:218: Stopping worker thread...
+2026-02-13 17:57:12 DEBUG _windows.py:201: Exiting thread
+2026-02-13 17:57:12 DEBUG _windows.py:75: Closing
+2026-02-14 01:30:10 INFO log.py:21: Yasb v1.6.6
+2026-02-14 01:30:11 DEBUG win32.py:55: Looking up time zone info from registry
+2026-02-14 01:30:22 INFO weather.py:369: Fetched new weather data at 2026-02-14 01:30:22.320879
+2026-02-14 01:30:23 INFO log.py:21: Yasb v1.6.6
+2026-02-14 01:30:23 ERROR main.py:91: Another instance of the YASB is already running.
+2026-02-14 01:30:24 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2026-02-14 01:30:25 INFO app_bar.py:103: Bar Created on Screen: \\.\DISPLAY1 [Bar Height: 32px, DPI Scale: 1.25, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1536, Screen Height: 864]
+2026-02-14 01:30:26 INFO event_listener.py:52: Created named pipe yasb-af763825-0901-11f1-9339-bd834928d43f
+2026-02-14 01:30:26 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-af763825-0901-11f1-9339-bd834928d43f
+2026-02-14 01:30:27 INFO watcher.py:39: Created file watcher for path C:\Users\Rey Benedict Rico\.config\yasb
+2026-02-14 01:30:27 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-02-14 01:30:27 DEBUG _windows.py:192: Thread started
+2026-02-14 01:30:27 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2026-02-14 09:40:22 INFO weather.py:369: Fetched new weather data at 2026-02-14 09:40:22.367709
+2026-02-14 09:50:22 INFO weather.py:369: Fetched new weather data at 2026-02-14 09:50:22.370266
+2026-02-14 10:00:22 INFO weather.py:369: Fetched new weather data at 2026-02-14 10:00:22.368142
+2026-02-14 10:10:22 INFO weather.py:369: Fetched new weather data at 2026-02-14 10:10:22.368103
+2026-02-14 10:20:22 INFO weather.py:369: Fetched new weather data at 2026-02-14 10:20:22.364875
+2026-02-14 10:30:22 INFO weather.py:369: Fetched new weather data at 2026-02-14 10:30:22.363451
+2026-02-14 10:40:22 INFO weather.py:369: Fetched new weather data at 2026-02-14 10:40:22.369529
+2026-02-14 10:50:22 INFO weather.py:369: Fetched new weather data at 2026-02-14 10:50:22.363639
+2026-02-14 11:00:22 INFO weather.py:369: Fetched new weather data at 2026-02-14 11:00:22.365217
+2026-02-14 11:10:22 INFO weather.py:369: Fetched new weather data at 2026-02-14 11:10:22.374140
+2026-02-14 11:20:22 INFO weather.py:369: Fetched new weather data at 2026-02-14 11:20:22.362568
+2026-02-14 11:30:22 INFO weather.py:369: Fetched new weather data at 2026-02-14 11:30:22.372684
+2026-02-14 11:40:22 INFO weather.py:369: Fetched new weather data at 2026-02-14 11:40:22.369526
+2026-02-14 11:50:22 INFO weather.py:369: Fetched new weather data at 2026-02-14 11:50:22.370331
+2026-02-14 12:00:22 INFO weather.py:369: Fetched new weather data at 2026-02-14 12:00:22.365822
+2026-02-14 12:10:22 INFO weather.py:369: Fetched new weather data at 2026-02-14 12:10:22.376879
+2026-02-14 12:20:22 INFO weather.py:369: Fetched new weather data at 2026-02-14 12:20:22.369372
+2026-02-14 12:30:22 INFO weather.py:369: Fetched new weather data at 2026-02-14 12:30:22.368722
+2026-02-14 12:40:22 INFO weather.py:369: Fetched new weather data at 2026-02-14 12:40:22.364466
+2026-02-14 12:50:22 INFO weather.py:369: Fetched new weather data at 2026-02-14 12:50:22.376696
+2026-02-14 13:00:22 INFO weather.py:369: Fetched new weather data at 2026-02-14 13:00:22.373045
+2026-02-14 13:10:22 INFO weather.py:369: Fetched new weather data at 2026-02-14 13:10:22.375023
+2026-02-14 13:20:22 INFO weather.py:369: Fetched new weather data at 2026-02-14 13:20:22.368911
+2026-02-14 13:30:22 INFO weather.py:369: Fetched new weather data at 2026-02-14 13:30:22.370998
+2026-02-14 13:40:22 INFO weather.py:369: Fetched new weather data at 2026-02-14 13:40:22.369618
+2026-02-14 13:50:22 INFO weather.py:369: Fetched new weather data at 2026-02-14 13:50:22.364509
+2026-02-14 14:00:22 INFO weather.py:369: Fetched new weather data at 2026-02-14 14:00:22.374705
+2026-02-14 14:10:22 INFO weather.py:369: Fetched new weather data at 2026-02-14 14:10:22.364618
+2026-02-14 14:20:22 INFO weather.py:369: Fetched new weather data at 2026-02-14 14:20:22.378019
+2026-02-14 14:30:22 INFO weather.py:369: Fetched new weather data at 2026-02-14 14:30:22.388700
+2026-02-14 14:40:22 INFO weather.py:369: Fetched new weather data at 2026-02-14 14:40:22.387276
+2026-02-14 14:50:22 INFO weather.py:369: Fetched new weather data at 2026-02-14 14:50:22.390950
+2026-02-14 15:00:22 INFO weather.py:369: Fetched new weather data at 2026-02-14 15:00:22.385726
+2026-02-14 15:10:22 INFO weather.py:369: Fetched new weather data at 2026-02-14 15:10:22.383469
+2026-02-14 15:20:22 INFO weather.py:369: Fetched new weather data at 2026-02-14 15:20:22.392167
+2026-02-14 16:12:40 INFO weather.py:369: Fetched new weather data at 2026-02-14 16:12:40.228186
+2026-02-14 16:22:40 INFO weather.py:369: Fetched new weather data at 2026-02-14 16:22:40.234432
+2026-02-14 16:32:40 INFO weather.py:369: Fetched new weather data at 2026-02-14 16:32:40.239000
+2026-02-14 16:42:40 INFO weather.py:369: Fetched new weather data at 2026-02-14 16:42:40.239536
+2026-02-14 16:46:09 DEBUG _windows.py:218: Stopping worker thread...
+2026-02-14 16:46:09 DEBUG _windows.py:201: Exiting thread
+2026-02-14 16:46:09 DEBUG _windows.py:75: Closing
+2026-02-15 01:25:51 INFO log.py:21: Yasb v1.6.6
+2026-02-15 01:25:52 DEBUG win32.py:55: Looking up time zone info from registry
+2026-02-15 01:25:58 INFO weather.py:369: Fetched new weather data at 2026-02-15 01:25:58.629121
+2026-02-15 01:26:00 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2026-02-15 01:26:01 INFO app_bar.py:103: Bar Created on Screen: \\.\DISPLAY1 [Bar Height: 32px, DPI Scale: 1.25, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1536, Screen Height: 864]
+2026-02-15 01:26:02 INFO event_listener.py:52: Created named pipe yasb-3c5ecf67-09ca-11f1-994f-90f2c32e1c84
+2026-02-15 01:26:02 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-3c5ecf67-09ca-11f1-994f-90f2c32e1c84
+2026-02-15 01:26:02 INFO watcher.py:39: Created file watcher for path C:\Users\Rey Benedict Rico\.config\yasb
+2026-02-15 01:26:02 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-02-15 01:26:02 DEBUG _windows.py:192: Thread started
+2026-02-15 01:26:02 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2026-02-15 01:35:58 INFO weather.py:369: Fetched new weather data at 2026-02-15 01:35:58.625525
+2026-02-15 09:45:58 INFO weather.py:369: Fetched new weather data at 2026-02-15 09:45:58.810706
+2026-02-15 09:55:58 INFO weather.py:369: Fetched new weather data at 2026-02-15 09:55:58.798971
+2026-02-15 09:56:19 ERROR weather.py:472: Error fetching weather data: <urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond>
+2026-02-15 10:05:58 INFO weather.py:369: Fetched new weather data at 2026-02-15 10:05:58.811747
+2026-02-15 10:06:19 ERROR weather.py:472: Error fetching weather data: <urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond>
+2026-02-15 10:15:58 INFO weather.py:369: Fetched new weather data at 2026-02-15 10:15:58.802238
+2026-02-15 10:23:45 DEBUG _windows.py:218: Stopping worker thread...
+2026-02-15 10:23:45 DEBUG _windows.py:201: Exiting thread
+2026-02-15 10:23:45 DEBUG _windows.py:75: Closing
+2026-02-16 00:17:59 INFO log.py:21: Yasb v1.6.6
+2026-02-16 00:18:00 DEBUG win32.py:55: Looking up time zone info from registry
+2026-02-16 00:18:07 INFO weather.py:369: Fetched new weather data at 2026-02-16 00:18:07.754998
+2026-02-16 00:18:09 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2026-02-16 00:18:10 INFO app_bar.py:103: Bar Created on Screen: \\.\DISPLAY1 [Bar Height: 32px, DPI Scale: 1.25, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1536, Screen Height: 864]
+2026-02-16 00:18:12 INFO event_listener.py:52: Created named pipe yasb-ec85f4b8-0a89-11f1-8a36-f98001c33186
+2026-02-16 00:18:12 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-ec85f4b8-0a89-11f1-8a36-f98001c33186
+2026-02-16 00:18:12 INFO watcher.py:39: Created file watcher for path C:\Users\Rey Benedict Rico\.config\yasb
+2026-02-16 00:18:12 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-02-16 00:18:12 DEBUG _windows.py:192: Thread started
+2026-02-16 00:18:12 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2026-02-16 08:28:08 INFO weather.py:369: Fetched new weather data at 2026-02-16 08:28:08.103616
+2026-02-16 08:38:08 INFO weather.py:369: Fetched new weather data at 2026-02-16 08:38:08.102168
+2026-02-16 08:48:08 INFO weather.py:369: Fetched new weather data at 2026-02-16 08:48:08.114763
+2026-02-16 08:58:08 INFO weather.py:369: Fetched new weather data at 2026-02-16 08:58:08.113541
+2026-02-16 09:08:08 INFO weather.py:369: Fetched new weather data at 2026-02-16 09:08:08.103287
+2026-02-16 09:18:08 INFO weather.py:369: Fetched new weather data at 2026-02-16 09:18:08.102878
+2026-02-16 09:28:08 INFO weather.py:369: Fetched new weather data at 2026-02-16 09:28:08.099570
+2026-02-16 09:38:08 INFO weather.py:369: Fetched new weather data at 2026-02-16 09:38:08.113192
+2026-02-16 09:48:08 INFO weather.py:369: Fetched new weather data at 2026-02-16 09:48:08.111629
+2026-02-16 09:58:08 INFO weather.py:369: Fetched new weather data at 2026-02-16 09:58:08.106794
+2026-02-16 09:58:29 ERROR weather.py:472: Error fetching weather data: <urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond>
+2026-02-16 10:08:08 INFO weather.py:369: Fetched new weather data at 2026-02-16 10:08:08.103311
+2026-02-16 10:18:08 INFO weather.py:369: Fetched new weather data at 2026-02-16 10:18:08.117382
+2026-02-16 10:28:08 INFO weather.py:369: Fetched new weather data at 2026-02-16 10:28:08.111236
+2026-02-16 10:38:08 INFO weather.py:369: Fetched new weather data at 2026-02-16 10:38:08.103180
+2026-02-16 10:38:29 ERROR weather.py:472: Error fetching weather data: <urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond>
+2026-02-16 10:48:08 INFO weather.py:369: Fetched new weather data at 2026-02-16 10:48:08.105197
+2026-02-16 10:58:08 INFO weather.py:369: Fetched new weather data at 2026-02-16 10:58:08.102454
+2026-02-16 11:08:08 INFO weather.py:369: Fetched new weather data at 2026-02-16 11:08:08.103865
+2026-02-16 11:18:08 INFO weather.py:369: Fetched new weather data at 2026-02-16 11:18:08.102849
+2026-02-16 11:28:08 INFO weather.py:369: Fetched new weather data at 2026-02-16 11:28:08.102472
+2026-02-16 11:28:29 ERROR weather.py:472: Error fetching weather data: <urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond>
+2026-02-16 11:38:08 INFO weather.py:369: Fetched new weather data at 2026-02-16 11:38:08.103081
+2026-02-16 11:48:08 INFO weather.py:369: Fetched new weather data at 2026-02-16 11:48:08.105954
+2026-02-16 11:58:08 INFO weather.py:369: Fetched new weather data at 2026-02-16 11:58:08.110031
+2026-02-16 12:08:08 INFO weather.py:369: Fetched new weather data at 2026-02-16 12:08:08.114183
+2026-02-16 12:18:08 INFO weather.py:369: Fetched new weather data at 2026-02-16 12:18:08.114595
+2026-02-16 12:28:08 INFO weather.py:369: Fetched new weather data at 2026-02-16 12:28:08.101365
+2026-02-16 12:38:08 INFO weather.py:369: Fetched new weather data at 2026-02-16 12:38:08.107592
+2026-02-16 12:48:08 INFO weather.py:369: Fetched new weather data at 2026-02-16 12:48:08.111053
+2026-02-16 12:58:08 INFO weather.py:369: Fetched new weather data at 2026-02-16 12:58:08.102651
+2026-02-16 13:08:08 INFO weather.py:369: Fetched new weather data at 2026-02-16 13:08:08.111592
+2026-02-16 13:08:29 ERROR weather.py:472: Error fetching weather data: <urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond>
+2026-02-16 13:18:08 INFO weather.py:369: Fetched new weather data at 2026-02-16 13:18:08.113917
+2026-02-16 13:28:08 INFO weather.py:369: Fetched new weather data at 2026-02-16 13:28:08.101920
+2026-02-16 13:38:08 INFO weather.py:369: Fetched new weather data at 2026-02-16 13:38:08.100311
+2026-02-16 13:48:08 INFO weather.py:369: Fetched new weather data at 2026-02-16 13:48:08.109023
+2026-02-16 13:58:08 INFO weather.py:369: Fetched new weather data at 2026-02-16 13:58:08.103192
+2026-02-16 13:58:29 ERROR weather.py:472: Error fetching weather data: <urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond>
+2026-02-16 14:08:08 INFO weather.py:369: Fetched new weather data at 2026-02-16 14:08:08.099957
+2026-02-16 14:18:08 INFO weather.py:369: Fetched new weather data at 2026-02-16 14:18:08.108842
+2026-02-16 14:28:08 INFO weather.py:369: Fetched new weather data at 2026-02-16 14:28:08.106747
+2026-02-16 14:38:08 INFO weather.py:369: Fetched new weather data at 2026-02-16 14:38:08.171268
+2026-02-16 14:48:08 INFO weather.py:369: Fetched new weather data at 2026-02-16 14:48:08.112484
+2026-02-16 14:58:08 INFO weather.py:369: Fetched new weather data at 2026-02-16 14:58:08.170028
+2026-02-16 15:08:08 INFO weather.py:369: Fetched new weather data at 2026-02-16 15:08:08.114948
+2026-02-16 15:18:08 INFO weather.py:369: Fetched new weather data at 2026-02-16 15:18:08.146007
+2026-02-16 15:18:29 ERROR weather.py:472: Error fetching weather data: <urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond>
+2026-02-16 15:28:08 INFO weather.py:369: Fetched new weather data at 2026-02-16 15:28:08.106711
+2026-02-16 15:38:08 INFO weather.py:369: Fetched new weather data at 2026-02-16 15:38:08.100011
+2026-02-16 15:48:08 INFO weather.py:369: Fetched new weather data at 2026-02-16 15:48:08.103989
+2026-02-16 15:58:08 INFO weather.py:369: Fetched new weather data at 2026-02-16 15:58:08.111912
+2026-02-16 16:08:08 INFO weather.py:369: Fetched new weather data at 2026-02-16 16:08:08.106571
+2026-02-16 16:18:08 INFO weather.py:369: Fetched new weather data at 2026-02-16 16:18:08.118098
+2026-02-16 16:28:08 INFO weather.py:369: Fetched new weather data at 2026-02-16 16:28:08.120893
+2026-02-16 16:38:08 INFO weather.py:369: Fetched new weather data at 2026-02-16 16:38:08.006098
+2026-02-16 16:48:08 INFO weather.py:369: Fetched new weather data at 2026-02-16 16:48:08.007641
+2026-02-16 16:58:08 INFO weather.py:369: Fetched new weather data at 2026-02-16 16:58:08.082019
+2026-02-16 17:04:56 INFO tray.py:246: Exiting Application...
+2026-02-16 17:04:56 DEBUG _windows.py:218: Stopping worker thread...
+2026-02-16 17:04:56 DEBUG _windows.py:201: Exiting thread
+2026-02-16 17:04:56 DEBUG _windows.py:75: Closing
+2026-02-16 17:05:03 INFO log.py:21: Yasb v1.6.6
+2026-02-16 17:05:03 DEBUG win32.py:55: Looking up time zone info from registry
+2026-02-16 17:05:10 INFO weather.py:369: Fetched new weather data at 2026-02-16 17:05:10.637098
+2026-02-16 17:05:11 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2026-02-16 17:05:12 INFO app_bar.py:103: Bar Created on Screen: \\.\DISPLAY1 [Bar Height: 32px, DPI Scale: 1.25, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1536, Screen Height: 864]
+2026-02-16 17:05:14 INFO event_listener.py:52: Created named pipe yasb-9b3fc9a9-0b16-11f1-af8f-f98001c33186
+2026-02-16 17:05:14 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-9b3fc9a9-0b16-11f1-af8f-f98001c33186
+2026-02-16 17:05:14 INFO watcher.py:39: Created file watcher for path C:\Users\Rey Benedict Rico\.config\yasb
+2026-02-16 17:05:14 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-02-16 17:05:14 DEBUG _windows.py:192: Thread started
+2026-02-16 17:05:14 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2026-02-16 17:15:10 INFO weather.py:369: Fetched new weather data at 2026-02-16 17:15:10.678634
+2026-02-16 17:25:10 INFO weather.py:369: Fetched new weather data at 2026-02-16 17:25:10.986978
+2026-02-16 17:35:10 INFO weather.py:369: Fetched new weather data at 2026-02-16 17:35:10.989134
+2026-02-16 17:45:10 INFO weather.py:369: Fetched new weather data at 2026-02-16 17:45:10.992784
+2026-02-16 17:55:10 INFO weather.py:369: Fetched new weather data at 2026-02-16 17:55:10.987785
+2026-02-16 18:05:10 INFO weather.py:369: Fetched new weather data at 2026-02-16 18:05:10.987193
+2026-02-16 18:15:10 INFO weather.py:369: Fetched new weather data at 2026-02-16 18:15:10.996371
+2026-02-16 18:25:10 INFO weather.py:369: Fetched new weather data at 2026-02-16 18:25:10.989132
+2026-02-16 18:35:10 INFO weather.py:369: Fetched new weather data at 2026-02-16 18:35:10.994356
+2026-02-16 18:45:10 INFO weather.py:369: Fetched new weather data at 2026-02-16 18:45:10.998049
+2026-02-16 18:55:10 INFO weather.py:369: Fetched new weather data at 2026-02-16 18:55:10.996398
+2026-02-16 19:05:10 INFO weather.py:369: Fetched new weather data at 2026-02-16 19:05:10.996330
+2026-02-16 19:15:10 INFO weather.py:369: Fetched new weather data at 2026-02-16 19:15:10.995815
+2026-02-16 19:15:32 ERROR weather.py:472: Error fetching weather data: <urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond>
+2026-02-16 19:25:11 INFO weather.py:369: Fetched new weather data at 2026-02-16 19:25:11.012862
+2026-02-16 19:35:11 INFO weather.py:369: Fetched new weather data at 2026-02-16 19:35:11.006263
+2026-02-16 19:45:11 INFO weather.py:369: Fetched new weather data at 2026-02-16 19:45:11.007129
+2026-02-16 19:55:11 INFO weather.py:369: Fetched new weather data at 2026-02-16 19:55:11.006437
+2026-02-16 20:05:11 INFO weather.py:369: Fetched new weather data at 2026-02-16 20:05:11.010006
+2026-02-16 20:15:11 INFO weather.py:369: Fetched new weather data at 2026-02-16 20:15:11.008830
+2026-02-16 20:25:11 INFO weather.py:369: Fetched new weather data at 2026-02-16 20:25:11.014909
+2026-02-16 20:35:11 INFO weather.py:369: Fetched new weather data at 2026-02-16 20:35:11.003035
+2026-02-16 20:45:11 INFO weather.py:369: Fetched new weather data at 2026-02-16 20:45:11.007307
+2026-02-16 20:55:11 INFO weather.py:369: Fetched new weather data at 2026-02-16 20:55:11.010237
+2026-02-16 21:05:11 INFO weather.py:369: Fetched new weather data at 2026-02-16 21:05:11.014430
+2026-02-16 21:15:11 INFO weather.py:369: Fetched new weather data at 2026-02-16 21:15:11.002261
+2026-02-16 21:25:11 INFO weather.py:369: Fetched new weather data at 2026-02-16 21:25:11.004220
+2026-02-16 21:35:11 INFO weather.py:369: Fetched new weather data at 2026-02-16 21:35:11.002574
+2026-02-16 21:43:10 DEBUG _windows.py:218: Stopping worker thread...
+2026-02-16 21:43:10 DEBUG _windows.py:201: Exiting thread
+2026-02-16 21:43:10 DEBUG _windows.py:75: Closing
+2026-02-16 21:47:43 INFO log.py:21: Yasb v1.6.6
+2026-02-16 21:47:44 DEBUG win32.py:55: Looking up time zone info from registry
+2026-02-16 21:47:54 INFO weather.py:369: Fetched new weather data at 2026-02-16 21:47:54.000876
+2026-02-16 21:47:55 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2026-02-16 21:47:55 INFO app_bar.py:103: Bar Created on Screen: \\.\DISPLAY1 [Bar Height: 32px, DPI Scale: 1.25, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1536, Screen Height: 864]
+2026-02-16 21:47:58 INFO event_listener.py:52: Created named pipe yasb-1a552eb0-0b3e-11f1-98e1-a8be17abccdd
+2026-02-16 21:47:58 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-1a552eb0-0b3e-11f1-98e1-a8be17abccdd
+2026-02-16 21:47:58 INFO watcher.py:39: Created file watcher for path C:\Users\Rey Benedict Rico\.config\yasb
+2026-02-16 21:47:58 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-02-16 21:47:58 DEBUG _windows.py:192: Thread started
+2026-02-16 21:47:58 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2026-02-16 21:57:54 INFO weather.py:369: Fetched new weather data at 2026-02-16 21:57:54.000176
+2026-02-16 22:07:54 INFO weather.py:369: Fetched new weather data at 2026-02-16 22:07:54.004835
+2026-02-16 22:17:53 INFO weather.py:369: Fetched new weather data at 2026-02-16 22:17:53.996288
+2026-02-16 22:27:53 INFO weather.py:369: Fetched new weather data at 2026-02-16 22:27:53.995354
+2026-02-16 22:37:54 INFO weather.py:369: Fetched new weather data at 2026-02-16 22:37:54.008309
+2026-02-16 22:47:53 INFO weather.py:369: Fetched new weather data at 2026-02-16 22:47:53.997607
+2026-02-16 22:57:54 INFO weather.py:369: Fetched new weather data at 2026-02-16 22:57:54.009731
+2026-02-16 23:07:54 INFO weather.py:369: Fetched new weather data at 2026-02-16 23:07:54.004524
+2026-02-16 23:17:53 INFO weather.py:369: Fetched new weather data at 2026-02-16 23:17:53.998025
+2026-02-16 23:27:54 INFO weather.py:369: Fetched new weather data at 2026-02-16 23:27:54.025330
+2026-02-16 23:37:54 INFO weather.py:369: Fetched new weather data at 2026-02-16 23:37:54.015519
+2026-02-16 23:47:54 INFO weather.py:369: Fetched new weather data at 2026-02-16 23:47:54.013543
+2026-02-16 23:57:54 INFO weather.py:369: Fetched new weather data at 2026-02-16 23:57:54.016338
+2026-02-17 00:07:54 INFO weather.py:369: Fetched new weather data at 2026-02-17 00:07:54.016929
+2026-02-17 00:17:54 INFO weather.py:369: Fetched new weather data at 2026-02-17 00:17:54.010397
+2026-02-17 00:27:54 INFO weather.py:369: Fetched new weather data at 2026-02-17 00:27:54.021948
+2026-02-17 00:37:54 INFO weather.py:369: Fetched new weather data at 2026-02-17 00:37:54.013818
+2026-02-17 00:47:54 INFO weather.py:369: Fetched new weather data at 2026-02-17 00:47:54.014665
+2026-02-17 00:57:54 INFO weather.py:369: Fetched new weather data at 2026-02-17 00:57:54.017110
+2026-02-17 01:07:54 INFO weather.py:369: Fetched new weather data at 2026-02-17 01:07:54.023912
+2026-02-17 01:17:54 INFO weather.py:369: Fetched new weather data at 2026-02-17 01:17:54.021729
+2026-02-17 01:26:53 DEBUG _windows.py:218: Stopping worker thread...
+2026-02-17 01:26:53 DEBUG _windows.py:201: Exiting thread
+2026-02-17 01:26:53 DEBUG _windows.py:75: Closing
+2026-02-17 09:29:46 INFO log.py:21: Yasb v1.6.6
+2026-02-17 09:29:47 DEBUG win32.py:55: Looking up time zone info from registry
+2026-02-17 09:29:54 INFO weather.py:369: Fetched new weather data at 2026-02-17 09:29:54.484658
+2026-02-17 09:29:56 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2026-02-17 09:29:57 INFO app_bar.py:103: Bar Created on Screen: \\.\DISPLAY1 [Bar Height: 32px, DPI Scale: 1.25, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1536, Screen Height: 864]
+2026-02-17 09:29:58 INFO event_listener.py:52: Created named pipe yasb-2bd38ba6-0ba0-11f1-8053-e20c5f54f76a
+2026-02-17 09:29:58 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-2bd38ba6-0ba0-11f1-8053-e20c5f54f76a
+2026-02-17 09:29:58 INFO watcher.py:39: Created file watcher for path C:\Users\Rey Benedict Rico\.config\yasb
+2026-02-17 09:29:58 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-02-17 09:29:58 DEBUG _windows.py:192: Thread started
+2026-02-17 09:29:58 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2026-02-17 09:39:54 INFO weather.py:369: Fetched new weather data at 2026-02-17 09:39:54.482955
+2026-02-17 09:49:54 INFO weather.py:369: Fetched new weather data at 2026-02-17 09:49:54.481722
+2026-02-17 09:59:54 INFO weather.py:369: Fetched new weather data at 2026-02-17 09:59:54.486264
+2026-02-17 10:09:54 INFO weather.py:369: Fetched new weather data at 2026-02-17 10:09:54.483201
+2026-02-17 10:19:54 INFO weather.py:369: Fetched new weather data at 2026-02-17 10:19:54.480338
+2026-02-17 10:29:54 INFO weather.py:369: Fetched new weather data at 2026-02-17 10:29:54.483365
+2026-02-17 10:39:54 INFO weather.py:369: Fetched new weather data at 2026-02-17 10:39:54.486241
+2026-02-17 10:49:54 INFO weather.py:369: Fetched new weather data at 2026-02-17 10:49:54.481623
+2026-02-17 10:59:54 INFO weather.py:369: Fetched new weather data at 2026-02-17 10:59:54.485648
+2026-02-17 11:09:54 INFO weather.py:369: Fetched new weather data at 2026-02-17 11:09:54.483522
+2026-02-17 11:19:54 INFO weather.py:369: Fetched new weather data at 2026-02-17 11:19:54.481277
+2026-02-17 11:29:54 INFO weather.py:369: Fetched new weather data at 2026-02-17 11:29:54.487701
+2026-02-17 11:39:54 INFO weather.py:369: Fetched new weather data at 2026-02-17 11:39:54.479713
+2026-02-17 11:49:54 INFO weather.py:369: Fetched new weather data at 2026-02-17 11:49:54.485741
+2026-02-17 11:59:37 DEBUG _windows.py:218: Stopping worker thread...
+2026-02-17 11:59:37 DEBUG _windows.py:201: Exiting thread
+2026-02-17 11:59:37 DEBUG _windows.py:75: Closing
+2026-02-18 08:56:01 INFO log.py:21: Yasb v1.6.6
+2026-02-18 08:56:02 INFO log.py:21: Yasb v1.6.6
+2026-02-18 08:56:02 ERROR main.py:91: Another instance of the YASB is already running.
+2026-02-18 08:56:02 DEBUG win32.py:55: Looking up time zone info from registry
+2026-02-18 08:56:08 INFO weather.py:369: Fetched new weather data at 2026-02-18 08:56:08.541409
+2026-02-18 08:56:09 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2026-02-18 08:56:10 INFO app_bar.py:103: Bar Created on Screen: \\.\DISPLAY1 [Bar Height: 32px, DPI Scale: 1.25, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1536, Screen Height: 864]
+2026-02-18 08:56:11 INFO event_listener.py:52: Created named pipe yasb-9e3ef93d-0c64-11f1-a761-d6f9244bca4d
+2026-02-18 08:56:11 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-9e3ef93d-0c64-11f1-a761-d6f9244bca4d
+2026-02-18 08:56:11 INFO watcher.py:39: Created file watcher for path C:\Users\Rey Benedict Rico\.config\yasb
+2026-02-18 08:56:11 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-02-18 08:56:11 DEBUG _windows.py:192: Thread started
+2026-02-18 08:56:11 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2026-02-18 09:06:08 INFO weather.py:369: Fetched new weather data at 2026-02-18 09:06:08.564024
+2026-02-18 09:16:08 INFO weather.py:369: Fetched new weather data at 2026-02-18 09:16:08.560578
+2026-02-18 09:26:08 INFO weather.py:369: Fetched new weather data at 2026-02-18 09:26:08.559061
+2026-02-18 09:36:08 INFO weather.py:369: Fetched new weather data at 2026-02-18 09:36:08.549030
+2026-02-18 09:46:08 INFO weather.py:369: Fetched new weather data at 2026-02-18 09:46:08.555954
+2026-02-18 09:49:16 DEBUG _windows.py:218: Stopping worker thread...
+2026-02-18 09:49:16 DEBUG _windows.py:201: Exiting thread
+2026-02-18 09:49:16 DEBUG _windows.py:75: Closing
+2026-02-22 12:41:44 INFO log.py:21: Yasb v1.6.6
+2026-02-22 12:41:45 DEBUG win32.py:55: Looking up time zone info from registry
+2026-02-22 12:41:53 INFO weather.py:369: Fetched new weather data at 2026-02-22 12:41:53.917407
+2026-02-22 12:41:56 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2026-02-22 12:41:57 INFO app_bar.py:103: Bar Created on Screen: \\.\DISPLAY1 [Bar Height: 32px, DPI Scale: 1.25, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1536, Screen Height: 864]
+2026-02-22 12:41:59 INFO event_listener.py:52: Created named pipe yasb-d2ca3201-0fa8-11f1-b941-c42e4e2dd5f7
+2026-02-22 12:41:59 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-d2ca3201-0fa8-11f1-b941-c42e4e2dd5f7
+2026-02-22 12:41:59 INFO watcher.py:39: Created file watcher for path C:\Users\Rey Benedict Rico\.config\yasb
+2026-02-22 12:41:59 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-02-22 12:41:59 DEBUG _windows.py:192: Thread started
+2026-02-22 12:41:59 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2026-02-22 20:51:54 INFO weather.py:369: Fetched new weather data at 2026-02-22 20:51:54.937787
+2026-02-22 21:01:54 INFO weather.py:369: Fetched new weather data at 2026-02-22 21:01:54.285970
+2026-02-22 21:11:54 INFO weather.py:369: Fetched new weather data at 2026-02-22 21:11:54.280368
+2026-02-22 21:21:54 INFO weather.py:369: Fetched new weather data at 2026-02-22 21:21:54.288066
+2026-02-22 21:31:54 INFO weather.py:369: Fetched new weather data at 2026-02-22 21:31:54.279892
+2026-02-22 21:41:54 INFO weather.py:369: Fetched new weather data at 2026-02-22 21:41:54.288890
+2026-02-22 21:51:54 INFO weather.py:369: Fetched new weather data at 2026-02-22 21:51:54.284041
+2026-02-22 22:01:54 INFO weather.py:369: Fetched new weather data at 2026-02-22 22:01:54.277102
+2026-02-22 22:11:54 INFO weather.py:369: Fetched new weather data at 2026-02-22 22:11:54.281238
+2026-02-22 22:21:54 INFO weather.py:369: Fetched new weather data at 2026-02-22 22:21:54.281676
+2026-02-22 22:31:54 INFO weather.py:369: Fetched new weather data at 2026-02-22 22:31:54.284555
+2026-02-22 22:41:54 INFO weather.py:369: Fetched new weather data at 2026-02-22 22:41:54.287618
+2026-02-22 22:54:44 INFO weather.py:369: Fetched new weather data at 2026-02-22 22:54:44.357287
+2026-02-22 23:04:44 INFO weather.py:369: Fetched new weather data at 2026-02-22 23:04:44.355626
+2026-02-22 23:14:44 INFO weather.py:369: Fetched new weather data at 2026-02-22 23:14:44.396475
+2026-02-22 23:24:44 INFO weather.py:369: Fetched new weather data at 2026-02-22 23:24:44.372167
+2026-02-22 23:34:44 INFO weather.py:369: Fetched new weather data at 2026-02-22 23:34:44.391347
+2026-02-22 23:44:44 INFO weather.py:369: Fetched new weather data at 2026-02-22 23:44:44.391161
+2026-02-22 23:54:44 INFO weather.py:369: Fetched new weather data at 2026-02-22 23:54:44.398848
+2026-02-23 00:04:44 INFO weather.py:369: Fetched new weather data at 2026-02-23 00:04:44.388168
+2026-02-23 00:14:44 INFO weather.py:369: Fetched new weather data at 2026-02-23 00:14:44.402767
+2026-02-23 00:24:44 INFO weather.py:369: Fetched new weather data at 2026-02-23 00:24:44.529986
+2026-02-23 00:34:44 INFO weather.py:369: Fetched new weather data at 2026-02-23 00:34:44.396217
+2026-02-23 00:44:44 INFO weather.py:369: Fetched new weather data at 2026-02-23 00:44:44.399338
+2026-02-23 00:54:44 INFO weather.py:369: Fetched new weather data at 2026-02-23 00:54:44.388244
+2026-02-23 00:55:05 ERROR weather.py:472: Error fetching weather data: <urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond>
+2026-02-23 01:04:44 INFO weather.py:369: Fetched new weather data at 2026-02-23 01:04:44.397232
+2026-02-23 01:14:44 INFO weather.py:369: Fetched new weather data at 2026-02-23 01:14:44.396100
+2026-02-23 01:24:44 INFO weather.py:369: Fetched new weather data at 2026-02-23 01:24:44.393137
+2026-02-23 01:34:44 INFO weather.py:369: Fetched new weather data at 2026-02-23 01:34:44.401748
+2026-02-23 01:35:05 ERROR weather.py:472: Error fetching weather data: <urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond>
+2026-02-23 01:44:44 INFO weather.py:369: Fetched new weather data at 2026-02-23 01:44:44.390649
+2026-02-23 01:54:44 INFO weather.py:369: Fetched new weather data at 2026-02-23 01:54:44.386945
+2026-02-23 02:04:44 INFO weather.py:369: Fetched new weather data at 2026-02-23 02:04:44.401044
+2026-02-23 02:14:44 INFO weather.py:369: Fetched new weather data at 2026-02-23 02:14:44.395154
+2026-02-23 02:24:44 INFO weather.py:369: Fetched new weather data at 2026-02-23 02:24:44.399431
+2026-02-23 02:24:44 ERROR weather.py:472: Error fetching weather data: HTTP Error 400: Bad Request
+2026-02-23 02:34:44 INFO weather.py:369: Fetched new weather data at 2026-02-23 02:34:44.410458
+2026-02-23 02:34:44 ERROR weather.py:472: Error fetching weather data: HTTP Error 400: Bad Request
+2026-02-23 02:44:44 INFO weather.py:369: Fetched new weather data at 2026-02-23 02:44:44.404817
+2026-02-23 02:44:44 ERROR weather.py:472: Error fetching weather data: HTTP Error 400: Bad Request
+2026-02-23 02:54:44 INFO weather.py:369: Fetched new weather data at 2026-02-23 02:54:44.412735
+2026-02-23 02:54:44 ERROR weather.py:472: Error fetching weather data: HTTP Error 400: Bad Request
+2026-02-23 03:04:44 INFO weather.py:369: Fetched new weather data at 2026-02-23 03:04:44.405841
+2026-02-23 03:04:44 ERROR weather.py:472: Error fetching weather data: HTTP Error 400: Bad Request
+2026-02-23 03:14:44 INFO weather.py:369: Fetched new weather data at 2026-02-23 03:14:44.414434
+2026-02-23 03:22:27 DEBUG _windows.py:218: Stopping worker thread...
+2026-02-23 03:22:27 DEBUG _windows.py:201: Exiting thread
+2026-02-23 03:22:27 DEBUG _windows.py:75: Closing
+2026-02-23 09:24:14 INFO log.py:21: Yasb v1.6.6
+2026-02-23 09:24:15 DEBUG win32.py:55: Looking up time zone info from registry
+2026-02-23 09:24:22 INFO weather.py:369: Fetched new weather data at 2026-02-23 09:24:22.164200
+2026-02-23 09:24:23 DEBUG __init__.py:149: CoInitializeEx(None, 2)
+2026-02-23 09:24:24 INFO app_bar.py:103: Bar Created on Screen: \\.\DISPLAY1 [Bar Height: 32px, DPI Scale: 1.25, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1536, Screen Height: 864]
+2026-02-23 09:24:26 INFO event_listener.py:52: Created named pipe yasb-646a8f69-1056-11f1-a1d7-8191ab400b76
+2026-02-23 09:24:26 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-646a8f69-1056-11f1-a1d7-8191ab400b76
+2026-02-23 09:24:26 INFO watcher.py:39: Created file watcher for path C:\Users\Rey Benedict Rico\.config\yasb
+2026-02-23 09:24:26 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-02-23 09:24:26 DEBUG _windows.py:192: Thread started
+2026-02-23 09:24:26 WARNING event_listener.py:111: Komorebi failed to subscribe named pipe. Waiting for subscription...
+2026-02-23 09:34:22 INFO weather.py:369: Fetched new weather data at 2026-02-23 09:34:22.173573
+2026-02-23 09:44:22 INFO weather.py:369: Fetched new weather data at 2026-02-23 09:44:22.163321
+2026-02-23 09:54:22 INFO weather.py:369: Fetched new weather data at 2026-02-23 09:54:22.168707
+2026-02-23 10:04:22 INFO weather.py:369: Fetched new weather data at 2026-02-23 10:04:22.170895
+2026-02-23 10:14:22 INFO weather.py:369: Fetched new weather data at 2026-02-23 10:14:22.174963
+2026-02-23 10:24:22 INFO weather.py:369: Fetched new weather data at 2026-02-23 10:24:22.163208
+2026-02-23 10:34:22 INFO weather.py:369: Fetched new weather data at 2026-02-23 10:34:22.167439
+2026-02-23 10:44:22 INFO weather.py:369: Fetched new weather data at 2026-02-23 10:44:22.163227
+2026-02-23 10:54:22 INFO weather.py:369: Fetched new weather data at 2026-02-23 10:54:22.164448
+2026-02-23 11:04:22 INFO weather.py:369: Fetched new weather data at 2026-02-23 11:04:22.170427
+2026-02-23 11:14:22 INFO weather.py:369: Fetched new weather data at 2026-02-23 11:14:22.162912
+2026-02-23 11:24:22 INFO weather.py:369: Fetched new weather data at 2026-02-23 11:24:22.163403
+2026-02-23 11:34:22 INFO weather.py:369: Fetched new weather data at 2026-02-23 11:34:22.182872
+2026-02-23 11:34:43 ERROR weather.py:472: Error fetching weather data: <urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond>
+2026-02-23 11:44:22 INFO weather.py:369: Fetched new weather data at 2026-02-23 11:44:22.180034
+2026-02-23 11:54:22 INFO weather.py:369: Fetched new weather data at 2026-02-23 11:54:22.180397
+2026-02-23 12:04:22 INFO weather.py:369: Fetched new weather data at 2026-02-23 12:04:22.185868
+2026-02-23 12:14:22 INFO weather.py:369: Fetched new weather data at 2026-02-23 12:14:22.182267
+2026-02-23 12:14:43 ERROR weather.py:472: Error fetching weather data: <urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond>
+2026-02-23 12:24:22 INFO weather.py:369: Fetched new weather data at 2026-02-23 12:24:22.192181
+2026-02-23 12:24:43 ERROR weather.py:472: Error fetching weather data: <urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond>
+2026-02-23 12:34:22 INFO weather.py:369: Fetched new weather data at 2026-02-23 12:34:22.195939
+2026-02-23 12:44:22 INFO weather.py:369: Fetched new weather data at 2026-02-23 12:44:22.193619
+2026-02-23 12:54:22 INFO weather.py:369: Fetched new weather data at 2026-02-23 12:54:22.194050
+2026-02-23 13:04:22 INFO weather.py:369: Fetched new weather data at 2026-02-23 13:04:22.192170
+2026-02-23 13:14:22 INFO weather.py:369: Fetched new weather data at 2026-02-23 13:14:22.199826
+2026-02-23 13:24:22 INFO weather.py:369: Fetched new weather data at 2026-02-23 13:24:22.195279
+2026-02-23 13:34:22 INFO weather.py:369: Fetched new weather data at 2026-02-23 13:34:22.192862
+2026-02-23 13:44:22 INFO weather.py:369: Fetched new weather data at 2026-02-23 13:44:22.205486
+2026-02-23 13:54:22 INFO weather.py:369: Fetched new weather data at 2026-02-23 13:54:22.206663
+2026-02-23 14:04:22 INFO weather.py:369: Fetched new weather data at 2026-02-23 14:04:22.197720
+2026-02-23 14:14:22 INFO weather.py:369: Fetched new weather data at 2026-02-23 14:14:22.205160
+2026-02-23 14:24:22 INFO weather.py:369: Fetched new weather data at 2026-02-23 14:24:22.194149
+2026-02-23 14:34:22 INFO weather.py:369: Fetched new weather data at 2026-02-23 14:34:22.204562
+2026-02-23 14:44:22 INFO weather.py:369: Fetched new weather data at 2026-02-23 14:44:22.194209
+2026-02-23 14:54:22 INFO weather.py:369: Fetched new weather data at 2026-02-23 14:54:22.200978
+2026-02-23 15:04:22 INFO weather.py:369: Fetched new weather data at 2026-02-23 15:04:22.204552
+2026-02-23 15:14:22 INFO weather.py:369: Fetched new weather data at 2026-02-23 15:14:22.192693
+2026-02-23 15:24:22 INFO weather.py:369: Fetched new weather data at 2026-02-23 15:24:22.202742
+2026-02-23 15:34:22 INFO weather.py:369: Fetched new weather data at 2026-02-23 15:34:22.200617
+2026-02-23 15:44:22 INFO weather.py:369: Fetched new weather data at 2026-02-23 15:44:22.205588
+2026-02-23 15:54:22 INFO weather.py:369: Fetched new weather data at 2026-02-23 15:54:22.195588
+2026-02-23 16:04:22 INFO weather.py:369: Fetched new weather data at 2026-02-23 16:04:22.196815
+2026-02-23 16:14:22 INFO weather.py:369: Fetched new weather data at 2026-02-23 16:14:22.200926
+2026-02-23 16:24:22 INFO weather.py:369: Fetched new weather data at 2026-02-23 16:24:22.205322
+2026-02-23 16:34:22 INFO weather.py:369: Fetched new weather data at 2026-02-23 16:34:22.198563
+2026-02-23 16:44:22 INFO weather.py:369: Fetched new weather data at 2026-02-23 16:44:22.197510
+2026-02-23 16:54:22 INFO weather.py:369: Fetched new weather data at 2026-02-23 16:54:22.196174
+2026-02-23 17:04:22 INFO weather.py:369: Fetched new weather data at 2026-02-23 17:04:22.194792
+2026-02-23 17:04:43 ERROR weather.py:472: Error fetching weather data: <urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond>
+2026-02-23 17:14:22 INFO weather.py:369: Fetched new weather data at 2026-02-23 17:14:22.196129
+2026-02-23 17:24:22 INFO weather.py:369: Fetched new weather data at 2026-02-23 17:24:22.190578
+2026-02-23 17:34:22 INFO weather.py:369: Fetched new weather data at 2026-02-23 17:34:22.197177
+2026-02-23 17:44:22 INFO weather.py:369: Fetched new weather data at 2026-02-23 17:44:22.196700
+2026-02-23 17:44:43 ERROR weather.py:472: Error fetching weather data: <urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond>
+2026-02-23 17:54:22 INFO weather.py:369: Fetched new weather data at 2026-02-23 17:54:22.210443
+2026-02-23 18:04:22 INFO weather.py:369: Fetched new weather data at 2026-02-23 18:04:22.229468
+2026-02-23 18:14:22 INFO weather.py:369: Fetched new weather data at 2026-02-23 18:14:22.233296
+2026-02-23 18:24:22 INFO weather.py:369: Fetched new weather data at 2026-02-23 18:24:22.234295
+2026-02-23 18:34:22 INFO weather.py:369: Fetched new weather data at 2026-02-23 18:34:22.235359
+2026-02-23 18:44:22 INFO weather.py:369: Fetched new weather data at 2026-02-23 18:44:22.223382
+2026-02-23 18:54:22 INFO weather.py:369: Fetched new weather data at 2026-02-23 18:54:22.222958
+2026-02-23 19:04:22 INFO weather.py:369: Fetched new weather data at 2026-02-23 19:04:22.288767
+2026-02-23 19:14:22 INFO weather.py:369: Fetched new weather data at 2026-02-23 19:14:22.226787
+2026-02-23 19:24:22 INFO weather.py:369: Fetched new weather data at 2026-02-23 19:24:22.229312
+2026-02-23 19:34:22 INFO weather.py:369: Fetched new weather data at 2026-02-23 19:34:22.226224
+2026-02-23 19:44:22 INFO weather.py:369: Fetched new weather data at 2026-02-23 19:44:22.225795
+2026-02-23 19:54:22 INFO weather.py:369: Fetched new weather data at 2026-02-23 19:54:22.322938
+2026-02-23 20:04:22 INFO weather.py:369: Fetched new weather data at 2026-02-23 20:04:22.233748
+2026-02-23 20:14:22 INFO weather.py:369: Fetched new weather data at 2026-02-23 20:14:22.241381
+2026-02-23 20:24:22 INFO weather.py:369: Fetched new weather data at 2026-02-23 20:24:22.265435
+2026-02-23 20:34:22 INFO weather.py:369: Fetched new weather data at 2026-02-23 20:34:22.258142
+2026-02-23 20:44:22 INFO weather.py:369: Fetched new weather data at 2026-02-23 20:44:22.256726
+2026-02-23 20:54:22 INFO weather.py:369: Fetched new weather data at 2026-02-23 20:54:22.254027
+2026-02-23 21:04:22 INFO weather.py:369: Fetched new weather data at 2026-02-23 21:04:22.264314
+2026-02-23 21:14:22 INFO weather.py:369: Fetched new weather data at 2026-02-23 21:14:22.257729
+2026-02-23 21:24:22 INFO weather.py:369: Fetched new weather data at 2026-02-23 21:24:22.265167
+2026-02-23 21:34:22 INFO weather.py:369: Fetched new weather data at 2026-02-23 21:34:22.263538
+2026-02-23 21:44:22 INFO weather.py:369: Fetched new weather data at 2026-02-23 21:44:22.254824
+2026-02-23 21:54:22 INFO weather.py:369: Fetched new weather data at 2026-02-23 21:54:22.261580
+2026-02-23 22:04:22 INFO weather.py:369: Fetched new weather data at 2026-02-23 22:04:22.255588
+2026-02-23 22:14:22 INFO weather.py:369: Fetched new weather data at 2026-02-23 22:14:22.262831
+2026-02-23 22:24:22 INFO weather.py:369: Fetched new weather data at 2026-02-23 22:24:22.255826
+2026-02-23 22:34:22 INFO weather.py:369: Fetched new weather data at 2026-02-23 22:34:22.264244
+2026-02-23 22:44:22 INFO weather.py:369: Fetched new weather data at 2026-02-23 22:44:22.256632
+2026-02-23 22:54:22 INFO weather.py:369: Fetched new weather data at 2026-02-23 22:54:22.258679
+2026-02-23 23:04:22 INFO weather.py:369: Fetched new weather data at 2026-02-23 23:04:22.264344
+2026-02-23 23:14:22 INFO weather.py:369: Fetched new weather data at 2026-02-23 23:14:22.257475
+2026-02-23 23:27:22 INFO weather.py:369: Fetched new weather data at 2026-02-23 23:27:22.246167
