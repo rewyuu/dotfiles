@@ -1,0 +1,1 @@
+note: use cute-borders and translucenttb
