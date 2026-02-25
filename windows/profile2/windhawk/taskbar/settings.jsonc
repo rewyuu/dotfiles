@@ -1,0 +1,7 @@
+{
+  "controlStyles[0].target": "Taskbar.TaskbarFrame#TaskbarFrame > Grid#RootGrid",
+  "controlStyles[0].styles[0]": "BorderBrush:=<SolidColorBrush Color=\"#45475a\" Opacity=\"0.5\" />",
+  "controlStyles[0].styles[1]": "Background:=<AcrylicBrush TintColor=\"#181825\" FallbackColor=\"#181825\" TintOpacity=\"1\" TintLuminosityOpacity=\"0\" Opacity=\"1\"/>",
+  "controlStyles[1].target": "Grid#SystemTrayFrameGrid",
+  "controlStyles[1].styles[0]": "Background:=#00000000",
+}
