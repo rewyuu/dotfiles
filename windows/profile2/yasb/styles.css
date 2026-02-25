@@ -28,7 +28,7 @@
 }
 
 * {
-    font-size: 11px;
+    font-size: 12px;
     color: var(--text);
     font-weight: 600;
     font-family: "Comic Code", "Segoe Fluent Icons", sans-serif;
@@ -49,8 +49,11 @@
 .widget {
     background-color: transparent;
     border: none;
-    margin: 0 2px;  
+    height: 35px;  
+    margin: 0 4px;  
     padding: 0 8px; 
+    display: flex;   /* Ensures content stays centered vertically */
+    align-items: center;
 }
 
 .widget-container {
@@ -64,7 +67,7 @@
    WIDGET ICON SPACING & COLORS 
    ========================================================= */
 .icon {
-    font-size: 11px;
+    font-size: 12;
     padding-right: 6px; 
 }
 
@@ -93,7 +96,7 @@
 .apps-widget .label, .system-widget .label {
     padding: 0 6px; 
     color: var(--mauve);
-    font-size: 11px;
+    font-size: 12px;
 }
 
 /* Taskbar */
@@ -131,7 +134,7 @@
 .power-menu-widget .label {
     color: var(--red);
     font-family: "Segoe Fluent Icons", sans-serif;
-    font-size: 11px;
+    font-size: 12px;
     font-style: normal;
     padding: 0 4px;
 }
@@ -146,7 +149,7 @@
 }
 .home-menu .menu-item {
     padding: 10px 48px 10px 16px;
-    font-size: 11px;
+    font-size: 12px;
     font-family: 'Comic Code', Tahoma, Geneva, Verdana, sans-serif;
     color: var(--text); 
     font-weight: 600;
@@ -183,7 +186,7 @@
 .calendar .month-label,
 .calendar .date-label {
     font-family: 'Comic Code', Tahoma, Geneva, Verdana, sans-serif;
-    font-size: 11px;
+    font-size: 12px;
     color: var(--text);
     font-weight: 700;
     min-width: 180px;
@@ -226,7 +229,7 @@
 }
 .power-menu-popup .button .label {
     margin-bottom: 8px;
-    font-size: 14px;
+    font-size: 18px;
     font-weight: 500;
     color: var(--subtext1);
 }
